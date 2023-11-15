@@ -1,0 +1,142 @@
+/* .container {
+    padding-left: 8%;
+    padding-right: 8%;
+} */
+/* body{
+    background-color: darkgray;
+    
+} */
+
+
+
+
+.nav1 {
+    width: 100%;
+    background-color: #333;
+
+
+    /* z-index: 1; */
+}
+
+.ul_nav {
+    font-family: 'Lato', sans-serif;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    padding-left: 8%;
+    letter-spacing: .2VW;
+    margin: 0px;
+
+}
+
+.h1_nav {
+    float: left;
+    padding-right: 15%;
+    color: #fff7f7;
+
+
+
+}
+
+.li_nav {
+    margin-left: 3%;
+}
+
+.a_nav {
+    text-decoration: none;
+    color: rgb(253, 249, 249);
+    font-size: 80%;
+    position: relative;
+    /* إضافة هذا لضمان تحديد الموضع بناءً على العنصر نفسه */
+}
+
+.a_nav::after {
+    content: '';
+    /* إضافة محتوى فارغ لضمان ظهور العنصر */
+    display: block;
+    /* جعل العنصر كمربع بلوك ليمتد على عرض النص */
+    width: 0;
+    /* بداية العرض صفر */
+    height: 15%;
+    /* سمك الخط (يمكن تعديله حسب الرغبة) */
+    background-color: rgb(20, 106, 106);
+    /* لون الخط */
+    position: absolute;
+    /* وضع العنصر بالنسبة للعنصر الأصلي */
+    bottom: -20%;
+    /* وضعه أسفل العنصر الأصلي */
+    left: 50%;
+    /* توسيط النقطة أفقيًا */
+    transform: translateX(-50%);
+    /* تعديل لتوسيط النقطة أفقيًا بشكل صحيح */
+    opacity: 0;
+    /* يمكنك تعيين الشفافية إلى صفر لتكون مخفية في البداية */
+    transition: opacity 0.2s ease-in-out, width 0.5s ease-in-out;
+}
+
+.a_nav:hover::after {
+    width: 100%;
+    opacity: 1;
+}
+
+
+.but_Apply {
+    background-color: transparent;
+    border: 2px solid #379cf4;
+    border-radius: 0%;
+    margin-left: 3%;
+    padding: .7VW 1.2vw;
+    box-shadow: .3vw .3vw #585a5b;
+
+    transition:
+        background-color 0.3s ease-in-out,
+        border-radius 0.2s ease-in-out,
+        box-shadow 0.3s ease-in-out,
+        border-color 0.5s ease-in-out;
+
+
+}
+
+.but_Apply:hover {
+    background-color: rgb(20, 106, 106);
+    border-radius: 10%;
+    box-shadow: .0vw .0vw #585a5b;
+    border-color: #333;
+}
+
+
+.but_Apply:hover {
+    background-color: rgb(20, 106, 106);
+    color: #000;
+}
+
+
+
+
+
+
+
+.a_Apply {
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    padding: 10px;
+
+
+}
+
+
+
+
+/* .button_Login {
+    width: auto;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #379cf4;
+    border: none;
+    border-radius: 50px;
+    padding: 9px;
+    margin-left: 90%;
+    margin-bottom: 20px;
+} */

@@ -1,21 +1,14 @@
-/* .container {
-    padding-left: 8%;
-    padding-right: 8%;
-} */
-/* body{
-    background-color: darkgray;
-    
-} */
+
 
 
 
 
 .nav1 {
-    width: 100%;
+    width: 100vw;
     background-color: #333;
 
 
-    /* z-index: 1; */
+    
 }
 
 .ul_nav {
@@ -23,7 +16,7 @@
     list-style-type: none;
     display: flex;
     align-items: center;
-    padding-left: 8%;
+    padding-left: 8vw;
     letter-spacing: .2VW;
     margin: 0px;
 
@@ -31,7 +24,7 @@
 
 .h1_nav {
     float: left;
-    padding-right: 15%;
+    padding-right: 15vw;
     color: #fff7f7;
 
 
@@ -39,38 +32,27 @@
 }
 
 .li_nav {
-    margin-left: 3%;
+    margin-left: 3vw;
 }
 
 .a_nav {
     text-decoration: none;
     color: rgb(253, 249, 249);
-    font-size: 80%;
+    font-size: 1.25vw;
     position: relative;
-    /* إضافة هذا لضمان تحديد الموضع بناءً على العنصر نفسه */
 }
 
 .a_nav::after {
     content: '';
-    /* إضافة محتوى فارغ لضمان ظهور العنصر */
     display: block;
-    /* جعل العنصر كمربع بلوك ليمتد على عرض النص */
     width: 0;
-    /* بداية العرض صفر */
-    height: 15%;
-    /* سمك الخط (يمكن تعديله حسب الرغبة) */
+    height: .4vh;
     background-color: rgb(20, 106, 106);
-    /* لون الخط */
     position: absolute;
-    /* وضع العنصر بالنسبة للعنصر الأصلي */
-    bottom: -20%;
-    /* وضعه أسفل العنصر الأصلي */
+    bottom: -.6vh;
     left: 50%;
-    /* توسيط النقطة أفقيًا */
     transform: translateX(-50%);
-    /* تعديل لتوسيط النقطة أفقيًا بشكل صحيح */
     opacity: 0;
-    /* يمكنك تعيين الشفافية إلى صفر لتكون مخفية في البداية */
     transition: opacity 0.2s ease-in-out, width 0.5s ease-in-out;
 }
 
@@ -82,11 +64,11 @@
 
 .but_Apply {
     background-color: transparent;
-    border: 2px solid #379cf4;
-    border-radius: 0%;
-    margin-left: 3%;
-    padding: .7VW 1.2vw;
-    box-shadow: .3vw .3vw #585a5b;
+    border: .3vw solid #379cf4;
+    margin-left: 3vw;
+    padding: .7Vh 1.2vw;
+    box-shadow: .4vh .3vw #585a5b;
+    border-radius: 10vw;
 
     transition:
         background-color 0.3s ease-in-out,
@@ -98,45 +80,21 @@
 }
 
 .but_Apply:hover {
-    background-color: rgb(20, 106, 106);
-    border-radius: 10%;
-    box-shadow: .0vw .0vw #585a5b;
+    background-color:  rgb(0, 191, 255);
+    border-radius: 10vw;
+     box-shadow: .4vh .3vw #585a5b;
     border-color: #333;
 }
-
-
-.but_Apply:hover {
-    background-color: rgb(20, 106, 106);
-    color: #000;
-}
-
-
-
-
-
 
 
 .a_Apply {
     text-decoration: none;
     color: white;
-    font-size: 22px;
-    padding: 10px;
+    font-size: 1.5vw;
+    padding: 1.25vw;
 
 
 }
 
 
 
-
-/* .button_Login {
-    width: auto;
-    font-size: 20px;
-    font-weight: bold;
-    color: #fff;
-    background-color: #379cf4;
-    border: none;
-    border-radius: 50px;
-    padding: 9px;
-    margin-left: 90%;
-    margin-bottom: 20px;
-} */

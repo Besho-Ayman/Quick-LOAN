@@ -3,6 +3,7 @@ import styles from './Slider.module.css'
 function Slider() {
     return (
         <div className={styles.container}>
+            <div className={styles.cont}>
             <p className={styles.text_home}   >Get what matters </p>
             <h1 className={styles.text2_home}>
                 Start or grow your own business</h1>
@@ -15,6 +16,7 @@ function Slider() {
                     Apply Now</a>
 
             </button>
+            </div>
 
 
 

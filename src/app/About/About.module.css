@@ -52,3 +52,32 @@
     align-items: center;
     /* padding: 0 20px ; */
 }
+.about_imeag{
+    width: 90%;
+    height: auto;
+}
+@media screen and (max-width: 1210px) {
+	.about_imeag {
+		flex-direction: column;
+		margin: auto;
+	}
+}
+
+@media screen and (max-width: 664px) {
+
+
+    .about_item {
+		flex-direction: column;
+		margin: auto;
+	}
+	
+    .about_imeag {
+		/* width: 200px; */
+		padding-left: 6vw;
+
+	}
+
+	/* .text1 {
+		width: 300px;
+	}*/
+} 

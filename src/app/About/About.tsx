@@ -25,8 +25,8 @@ function About() {
                         <p>There are many variations of passages of Lorem Ipsum available,but the majority have.</p>
                     </div>
                 </div>
-                <div className={styles.about_imeag}>
-                <img  src='../../About/icon1.png' alt="My2 " />
+                <div >
+                <img className={styles.about_imeag} src='../../About/icon1.png' alt="My2 " />
                 </div>
             </div>
         </section>

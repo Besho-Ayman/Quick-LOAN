@@ -5,8 +5,9 @@
     background-size: cover;
     padding-left: 8vw;
     padding-right: 8vw;
-    height: 80vh;
-    opacity: 0.7;;
+    /* height: 80vh; */
+    opacity: 0.7;
+    ;
     margin-top: 0;
 
 }
@@ -17,13 +18,14 @@
 
 .text_home {
     color: rgb(255, 252, 252);
-    border-radius:20px;
+    border-radius: 20px;
     margin-top: 7vh;
-    padding: .2vw 2vw;    
-    display: inline-block; 
+    padding: .2vw 2vw;
+    display: inline-block;
     border: 2px solid rgb(0, 191, 255);
     font-size: 2.5vw;
 }
+
 .text2_home {
     color: rgb(253, 253, 253);
     font-size: 5vw;
@@ -32,23 +34,68 @@
 
 
 }
+
 .text3_home {
     color: rgb(247, 239, 239);
     width: 45vw;
 }
-.but_Apply_home{
+
+.but_Apply_home {
     margin-top: 2vh;
-    margin-bottom: 3vh;
-    padding: .5vh  1.5vw;  
-    background-color:  rgba(16, 152, 243, 0.927);  
+    margin-bottom: 7vh;
+    padding: .5vh 1.5vw;
+    background-color: rgba(16, 152, 243, 0.927);
     font-size: 2.5vw;
-    border-radius:20vw;
+    border-radius: 20vw;
     border: none;
 }
-.a_Apply_home{
+
+.a_Apply_home {
     text-decoration: none;
     color: rgb(255, 239, 239);
     font-size: 2.5vw;
     position: relative;
- }
- 
+}
+
+@media screen and (min-width: 1210px) {}
+
+@media screen and (max-width: 664px) {
+    .container {
+        height: 100%;
+    }
+
+    .text_home {
+       
+        margin-top: 4vh;
+        display: inline-block;
+        border: 3px solid rgb(0, 191, 255);
+        font-size: 4vw;
+    }
+    .text2_home {
+        font-size: 7vw;
+        width: 70vw;
+        margin-top: 1vh;
+    
+    
+    }
+    
+    .text3_home {
+        color: rgb(247, 239, 239);
+        width: 50vw;
+        font-size: 3vw;
+    }
+    .but_Apply_home {
+       margin-bottom: 7%;
+        padding: .5vh 2vw;
+        font-size: 4vw;
+        border-radius: 20vw;
+    }
+    
+    .a_Apply_home {
+        font-size: 4vw;
+    }
+    
+
+
+
+}

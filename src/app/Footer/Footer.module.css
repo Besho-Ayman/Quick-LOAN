@@ -68,16 +68,12 @@
 
 }
 
-@media screen and (max-width: 1210px) {
-	.about_item {
-		flex-direction: column;
-		margin: auto;
-	}
-}
+
 
 @media screen and (max-width: 664px) {
 	.footer_item {
 		flex-direction: column;
+	
 	}
 
 	.footer_item ul {
@@ -90,11 +86,12 @@
 	.social_footeritem {
 		flex-direction: column;
 		gap: 15px;
+		
 	}
 
 	.about_imeag {
 		width: 300px;
-		margin: auto;
+		margin: 0%;
 	}
 
 	.text1 {

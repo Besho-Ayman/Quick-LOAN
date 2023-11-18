@@ -4,6 +4,7 @@ import Nav from './nav/Nav'
 import Slider from './Slider/Slider'
 import About from './About/About'
 import Footer from './Footer/Footer'
+import Details from './Details/Details'
 
 
 export default function Home() {
@@ -12,6 +13,7 @@ export default function Home() {
       <Nav />
       <Slider />
       <About/>
+      <Details/>
       <Footer />
     </main>
   )

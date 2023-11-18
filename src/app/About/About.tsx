@@ -1,8 +1,9 @@
 import styles from './About.module.css'
+// import Nav from '../nav/Nav';
 
 function About() {
     return (
-        <section className={styles.AboutUs}>
+        <section className={styles.AboutUs} id='About'>
             <div className={styles.titl}>
                 <h5>About Us</h5>
                 <h1>Learn about how Banca works</h1>
@@ -32,5 +33,7 @@ function About() {
         </section>
     )
 }
+
+
 
 export default About

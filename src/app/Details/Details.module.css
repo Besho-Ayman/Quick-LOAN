@@ -1,0 +1,157 @@
+
+
+.business {
+    padding-left: 40vw;
+    padding-top: 2vh;
+    padding-bottom: 1vw;
+  }
+  
+  .tabs {
+    /* margin: auto; */
+    margin-left: 6vw;
+    margin-right: 6vw;
+    text-align: center;
+    display: flex;
+    font-size: 1.25vw;
+    position: relative;
+    width: 90%;
+    padding-bottom: 1vw;
+  
+    border-bottom: 2px solid  rgb(20, 106, 106);
+  
+  
+  }
+  .tab {
+    letter-spacing: 1px;  
+  
+    margin-left: 8%;
+    text-align: center;
+  
+    /* width: 40%; */
+    /* width: auto; */
+    opacity: 1;
+    padding-left: 6vw;
+    color: #000;
+    cursor: pointer;
+  }
+  
+  
+  .tab::after {
+    content: '';
+    display: flex;
+    width: 0;
+    height: .4vh;
+    background-color: rgb(20, 106, 106);
+    bottom: -.6vh;
+    /* left: 50%; */
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out, width 0.5s ease-in-out;
+  }
+  
+  .tab:hover::after {
+    /* background-color: rgb(127, 5, 5); */
+    /* color: rgb(247, 7, 7); */
+    color: red;
+    width: 100%;
+    margin-left: 50%;
+    opacity: 1;
+  }
+  
+  .active {
+    color: red;
+    font-weight: bold;
+    letter-spacing: 1px;  
+  
+  }
+  
+  
+  
+  
+  
+  
+  .tab-content {
+    display: none;
+    /* background-color: aqua; */
+  
+  }
+  
+  .tap1 {
+  
+    margin-left: 6vw;
+    
+    margin-top: 20px;
+    /* background-color: brown; */
+    width:89vw;
+    display: flex;
+  
+  
+  }
+  
+  .tab1_item {
+    display: contents;
+    align-items: center;
+    margin: auto;
+    /* justify-content: center; */
+    /* width: 70%; */
+  
+  }
+  
+  .img {
+    margin-top: 4%;
+    width: 40%;
+    height: 100%;
+  
+  }
+  
+  .content {
+    margin: 6%;
+    
+    /* background-color: aqua; */
+  }
+  
+  /* Hide the tab content by default */
+  
+  
+  /* Style the active tab */
+  
+  
+  
+  
+  
+  /* .tap1 img  {
+    width: 80%;
+  
+  } */
+  
+  /* .tab1_item div {
+    width:   40%;
+  } */
+  
+  
+  @media screen and (max-width:1240px) {
+    /* 
+    .tab1_item {
+      flex-direction: column;
+      }
+      .tap1 img  {
+    width: 80%; */
+  
+  }
+  
+ 
+  
+  
+  
+  /* @media screen and (max-width:380px)  {
+    .tap1 img  {
+    width: 100%;
+    margin: auto;
+  
+  }
+  
+  .tab1_item div {
+    border: 1px solid red;
+    width:290px;
+  }
+  } */

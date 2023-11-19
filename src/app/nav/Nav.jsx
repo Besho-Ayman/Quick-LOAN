@@ -9,7 +9,7 @@ function Nav() {
     <nav className={styles.nav1}>
       
       <ul className={styles.ul_nav} id="ul_nav">
-      <img className={styles.open} src='../../nav/icon4.png' alt="My " />
+      <img className={styles.logo} src='../../nav/icon4.png' alt="My " />
 
         <h1 className={styles.h1_nav}> Quick LOAN</h1>
         <li className={styles.li_nav}> <a className={styles.a_nav}
@@ -31,9 +31,9 @@ function Nav() {
      
       </div>
      
-      {/* <div className={styles.icons}></div>
-      <img id='open' src='../../nav/icon1.png' alt="My " />
-      <img id='colos' src='../../nav/icon2.png' alt="My " /> */}
+      <div className={styles.icons}>
+       <img id='open' src='../../nav/icon1.png' alt="My " /> </div>
+      {/* <img id='colos' src='../../nav/icon2.png' alt="My " />  */}
 
     </nav>
 

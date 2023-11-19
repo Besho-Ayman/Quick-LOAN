@@ -67,6 +67,20 @@
 
 
 }
+.logoo h5{
+	padding-left: 2vw;
+	display: flex;
+	width: 50%;
+
+
+}
+.logo{
+
+	width: 30px;
+	padding-right: 5px ;
+
+
+}
 
 
 
@@ -85,7 +99,7 @@
 
 	.social_footeritem {
 		flex-direction: column;
-		gap: 15px;
+		gap: 5px;
 		
 	}
 
@@ -97,6 +111,23 @@
 	.text1 {
 		width: 300px;
 	}
+	
+.logoo h5{
+	margin: 0px;
+	bottom: 0px;
+	display: flex;
+	/* width: 50%; */
+
+
+}
+.logo{
+
+	width: 30px;
+	padding-bottom: 5px ;
+
+
+}
+
 }
 
 
@@ -105,5 +136,6 @@
 .icons {
 	width: 20px;
 	height: 20px;
-	padding-right: 2px;
+	/* /-right: 2px; */
 }
+

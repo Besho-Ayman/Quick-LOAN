@@ -26,7 +26,7 @@
     font-size: 1.5vw;
     
 }
-.open{
+.logo{
     /* background-color: #379cf4; */
     margin-right: 7px;
     width: 50px;
@@ -98,13 +98,14 @@
 }
 
 .icons {
-    /* padding-top: 20px;
-    padding-left: 20px; */
-    width: 10px;
-    height: 30px;
-    display: none;
+  
+    /* width: 10px;
+    height: 10px; */
+    
+    display:none;
 
 }
+
 
 @media screen and (min-width: 1210px) {
     /* .but_Apply {
@@ -125,7 +126,8 @@
     .h1_nav {
 
         color: #fff7f7;
-        font-size: 5vw;
+        font-size: 4vw;
+        
     }
 
     .but_Apply {
@@ -135,20 +137,20 @@
     }
 
     .a_Apply {
-        font-size: 6vw;
+        font-size: 4vw;
         /* padding: .57vw; */
         /* margin-right: 20px; */
 
     }
 
     .li_nav {
-        display: none;
+        display:none;
     }
 
     .icons {
-        display: block;
-       margin-bottom: 4vh;
+        display: none   ;
 
     }
+  
 
 }

@@ -7,42 +7,47 @@ import styles from './Details.module.css'
 function Details() {
 
   // Function to open a specific tab
-function  b  (event, tabName) {
-  // Get all tab content elements
-  var tabContent = document.getElementsByClassName("tab-content");
+  function b(event, tabName) {
+    // Get all tab content elements
+    var tabContent = document.getElementsByClassName("tab_content");
 
-  // Hide all tab content
-  for (var i = 0; i < tabContent.length; i++) {
-    tabContent[i].style.display = "none";
+    // Hide all tab content
+    for (var i = 0; i < tabContent.length; i++) {
+      tabContent[i].style.display = "none";
+    }
+
+    // Get all tab buttons
+    var tabButtons = document.getElementsByClassName("tab");
+
+    // Remove the "active" class from all tab buttons
+    for (var i = 0; i < tabButtons.length; i++) {
+      tabButtons[i].className = tabButtons[i].className.replace(" active", "");
+    }
+
+    // Show the selected tab content
+    document.getElementById(tabName).style.display = "block";
+
+    // Add the "active" class to the clicked button
+    event.currentTarget.className += " active";
   }
 
-  // Get all tab buttons
-  var tabButtons = document.getElementsByClassName("tab");
-
-  // Remove the "active" class from all tab buttons
-  for (var i = 0; i < tabButtons.length; i++) {
-    tabButtons[i].className = tabButtons[i].className.replace(" active", "");
-  }
-
-  // Show the selected tab content
-  document.getElementById(tabName).style.display = "block";
-
-  // Add the "active" class to the clicked button
-  event.currentTarget.className += " active";
-}
-
-// Set the first tab as active by default
-// document.getElementsByClassName("tab")[0].click();
+  // Set the first tab as active by default
+  // document.getElementsByClassName("tab")[0].onClick{};
 
 
   return (
     <>
       <h1 className={styles.business}> Business Bank</h1>
       <div className={styles.tabs}>
-        <div className={styles.tab} onClick="openTab{event, 'tab1'}"> Loan Payment </div>
-        <div className={styles.tab} onClick="openTab(event, 'tab2')">Required Documents</div>
-        <div className={styles.tab} onClick="openTab(event, 'tab3')" >The Conditions</div>
-        <div className={styles.tab} onClick="openTab(event, 'tab4')">Credit </div>
+      <div className={styles.tab} onClick={(event) => openTab(event, 'tab1')}>Loan Payment</div>
+      <div className={styles.tab} onClick={(event) => openTab(event, 'tab2')}>Required Documents</div>
+  <div className={styles.tab} onClick={(event) => openTab(event, 'tab3')}>The Conditions</div>
+  <div className={styles.tab} onClick={(event) => openTab(event, 'tab4')}>Credit</div>
+
+        {/* <div className={styles.tab} onClick>={openTab(event, 'tab1')}>  Loan Payment </div>
+        <div className={styles.tab} onClick>={openTab(event, 'tab2')}>Required Documents</div>
+        <div className={styles.tab} onClick>={openTab(event, 'tab3') }>The Conditions</div>
+        <div className={styles.tab} onClick>={openTab(event, 'tab4')}>Credit </div> */}
       </div>
       <div id="tab1" className={styles.tab_content}>
         <div className={styles.tap1}>

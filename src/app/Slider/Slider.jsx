@@ -1,6 +1,7 @@
 import styles from './Slider.module.css'
 
 function Slider() {
+    
     return (
         <div className={styles.container}id='Home'>
             <div className={styles.cont}>

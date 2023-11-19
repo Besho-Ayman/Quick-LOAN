@@ -43,26 +43,31 @@ function Footer() {
       </div>
       <div className={styles.social_footer}>
         <div className={styles.social_footeritem}>
-          <h5>BANCA</h5>
+          <div className={styles.logoo}>
+            <h5>
+              <img className={styles.logo} src='../../nav/icon4.png' alt="My " />
+              Quick LOAN
+            </h5>
+          </div>
           <h6>@2023 All Right Reserved by Spider-Themes</h6>
           <div  >
-          <a href="https://www.facebook.com">
-            <img className={styles.icons} src='../../Footer/icon1.png' alt="My " />
-          </a>
-         
-          <a href="https://www.twitter.com/">
-            <img  className={styles.icons} src='../../Footer/icon2.png' alt="My " />
-          </a>
+            <a href="https://www.facebook.com">
+              <img className={styles.icons} src='../../Footer/icon1.png' alt="My " />
+            </a>
 
-           <a href="https://www.facebook.com">
-            <img className={styles.icons} src='../../Footer/icon3.png' alt="My2 " />
-          </a>
-          
+            <a href="https://www.twitter.com/">
+              <img className={styles.icons} src='../../Footer/icon2.png' alt="My " />
+            </a>
+
+            <a href="https://www.facebook.com">
+              <img className={styles.icons} src='../../Footer/icon3.png' alt="My2 " />
+            </a>
+
 
           </div>
-        
 
-          
+
+
 
 
 

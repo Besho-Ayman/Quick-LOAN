@@ -50,11 +50,9 @@
 .social_footeritem {
 	width: 90%;
 	margin: auto;
-	/* padding-bottom: 5vh; */
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	/* padding: 1rem; */
 }
 
 .icon_social svg {

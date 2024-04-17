@@ -20,16 +20,12 @@
 }
 
 .text1 {
-    /* width: 500px; */
     padding-left: 6vw;
-
     margin: 10px;
-    /* padding: 5px 10px; */
 }
 
 .text1 p {
     margin-top: 10px;
-    /* padding: 5px; */
     color: rgb(105, 104, 104);
 }
 
@@ -72,12 +68,9 @@
 	}
 	
     .about_imeag {
-		/* width: 200px; */
 		padding-left: 6vw;
 
 	}
 
-	/* .text1 {
-		width: 300px;
-	}*/
+	
 } 

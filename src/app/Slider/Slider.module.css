@@ -73,7 +73,7 @@
 @keyframes slideInFromTop  {
     to {
         transform: translateY(0%); 
-      opacity: 1; /* جعل النص مرئي عند نهاية الانيميشن */
+      opacity: 1; 
     }
   }
 
@@ -93,7 +93,7 @@
 @keyframes slideInFromTop  {
     to {
         transform: translateY(0%); 
-      opacity: 1; /* جعل النص مرئي عند نهاية الانيميشن */
+      opacity: 1; 
     }
   }
 

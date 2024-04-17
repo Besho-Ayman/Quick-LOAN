@@ -7,14 +7,14 @@ function Footer() {
         <div className={styles.footer_item}>
           <ul className={styles.ul1}>
             <li>
-              <h4>Banca is a leading bank in the worldzone and  prominent international banking institution</h4>
+              <h4> Quick LOAN is a leading bank in the worldzone and  prominent international banking institution</h4>
             </li>
             <li>COTATION</li>
             <li>2023-01-05 14:00(INTERNATIONAL TIME)</li>
           </ul>
           <ul>
             <li>
-              <h4>Banca At A Glance</h4>
+              <h4> Quick LOAN</h4>
             </li>
             <li>Our 'company purpose'</li>
             <li>Jobs & Careers</li>
@@ -32,7 +32,7 @@ function Footer() {
           </ul>
           <ul>
             <li>
-              <h4>Banca At A Glance</h4>
+              <h4> Quick LOAN</h4>
             </li>
             <li>Our news</li>
             <li>Our press releases</li>

@@ -1,7 +1,7 @@
 "use client"
 import styles from './BusinessBank.module.css';
 import React from "react"
-export default function App() {
+export default function BusinessBank() {
 
     const [isVisible1, setIsVisible1] = React.useState(true);
     const [isVisible2, setIsVisible2] = React.useState(false);
@@ -41,7 +41,7 @@ export default function App() {
             <h1 className={styles.business}> Business Bank</h1>
             <div className={styles.all_cont}>
                 <div className={styles.tabs}>
-                    <div className={styles.tab} onClick={handleButtonClick1}> Loan Payment</div>
+                    <div className={styles.tab} onClick={handleButtonClick1} > Loan Payment</div>
                     <div className={styles.tab} onClick={handleButtonClick2}> Required Documents</div>
                     <div className={styles.tab} onClick={handleButtonClick3}> The Conditions</div>
                     <div className={styles.tab} onClick={handleButtonClick4}> Credit</div>
@@ -50,7 +50,7 @@ export default function App() {
 
 
                 {/* isVisible1  */}
-                <div id="div1" style={{ display: isVisible1 ? 'block' : 'none' }}>
+                <div id="div1" style={{ display: isVisible1 ? 'block' : 'none' } }>
 
                     <div id="tab1" className={styles.tab_content}>
                         <div className={styles.tap1}>

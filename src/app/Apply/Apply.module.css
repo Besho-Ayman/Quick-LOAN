@@ -1,0 +1,331 @@
+.apply {
+  background-image: url("../Apply/img/img23.jpg");
+  background-repeat: repeat-x;
+  background-size: cover;
+
+
+}
+
+
+
+
+.prg {
+  /* background-image: url("../Apply/img/img23.jpg"); */
+  width: 100%;
+  height: 100%;
+
+}
+
+/* 
+
+@media screen and (max-width: 1210px) {
+  .apply {
+    background-size: 100% 20%;
+  }
+
+
+
+}
+
+@media screen and (max-width: 664px) {
+  .apply {
+    background-size: 100% 20%;
+  }
+
+
+
+  .img_apply {
+    display: none;
+
+  }
+} */
+
+.h_apply {
+  color: rgb(249, 255, 255);
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 7vw;
+  letter-spacing: 0.1em;
+
+}
+
+.h_apply2 {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  word-spacing: 0.3em;
+  font-size: 2vw;
+  color: rgb(134, 126, 126);
+
+}
+
+.img_apply {
+
+  width: 40%;
+  height: auto;
+  position: absolute;
+  bottom: 1%;
+  right: 1vw;
+  margin: 0;
+  animation: slide-in 2s ease 2s forwards;
+  opacity: 0;
+
+}
+
+@media screen and (min-width: 1210px) {
+  .img_apply {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 664px) {
+  .img_apply {
+    display: none;
+  }
+}
+
+@keyframes slide-in {
+  0% {
+    opacity: 0;
+    right: 0;
+  }
+
+  1% {
+    opacity: 1;
+  }
+
+  100% {
+    right: 3%;
+    opacity: 1;
+  }
+}
+
+
+/* body */
+/* =======box-left============== */
+
+.boxLeft {
+  padding-top: 100VH;
+  background-image: url("../Apply/img/img23.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 49%;
+  background-color: #d9dbdc;
+  width: 100%;
+  height: 100%;
+  display: flex;
+
+}
+
+
+/* background-color: #d9dbdc; */
+
+
+
+.boxLeftUl {
+  width: 40%;
+  height: 80%;
+  margin: 0%;
+  padding-top: 10%;
+  list-style-type: none;
+  counter-reset: my-counter;
+  /* إعادة تعيين العداد */
+}
+
+.boxLeftLi {
+
+  font-size: 2vw;
+  position: relative;
+  /* padding-left:1vw; */
+  margin-bottom: 70px;
+}
+
+/* .boxLeftLi a {
+ color: rgb(237, 13, 13);
+} */
+
+.boxLeftLi:before {
+  content: counter(my-counter);
+  counter-increment: my-counter;
+  font-size: 2.5vw;
+  color: #585a5b;
+  padding: 3px 7px;
+  border-radius: 50px;
+  border-style: double;
+}
+
+@media screen and (min-width: 1210px) {
+  .boxLeftLi:before {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 664px) {
+  .boxLeftLi:before {
+    display: none;
+
+  }
+
+}
+
+
+.boxLeftLiTitle {
+  padding-left: 5%;
+  font-size: 2vw;
+}
+
+/* .boxLeftLiActive  */
+.boxLeftLi :hover {
+  border-radius: 0% 0% -27%;
+  padding: 5%;
+  width: 100%;
+  background-color: #fbf7f7;
+
+}
+
+.boxLeftLiActive:before {
+  content: counter(my-counter);
+  counter-increment: my-counter;
+  font-size: 2.5vw;
+  color: #585a5b;
+  padding: 3px 7px;
+  border-radius: 50px;
+  border-style: double;
+}
+
+.boxLeftLiActive:hover {
+  border-radius: 0% 0% -27%;
+  padding: 5%;
+  width: 100%;
+  background-color: #fbf7f7;
+}
+
+
+
+
+
+
+/* =======box-right============== */
+
+.boxRight {
+  background-color: #fbf7f7;
+  width: 100%;
+  margin: 3% 3% 3% 1%;
+  border-radius: 2%;
+  box-shadow: 10px 10px 10px rgba(92, 147, 147, 0.1);
+  /* تعيين تأثير الظل */
+}
+
+.boxRightUl {
+  list-style-type: none;
+  display: flex;
+  margin-right: 4%;
+}
+
+.boxRightli {
+  background-color: #d9dbdc;
+  margin-left: 2%;
+  margin-right: 2%;
+  padding: 3%;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+  box-shadow: 5px 5PX 5PX #585a5b;
+}
+
+/* animation right  */
+.boxRightli:nth-child(1) {
+  animation: fadeIn 2s ease-in-out 0.5s forwards;
+}
+
+.boxRightli:nth-child(2) {
+  animation: fadeIn 2s ease-in-out 1s forwards;
+}
+
+.boxRightli:nth-child(3) {
+  animation: fadeIn 2s ease-in-out 1.5s forwards;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
+
+.boxRightIiImg {
+  padding-left: 30%;
+  max-width: 6vw;
+  max-height: 7vh;
+}
+
+.boxRightIiTitle {
+  padding-left: 15%;
+  font-size: 2vw;
+}
+
+.content {
+  margin-left: 3VW;
+
+}
+
+
+.fileUploadForm {
+  margin: 3VW 3vw 2vw;
+  width: 80%;
+  padding: 2%;
+  /* padding: 20%; */
+  /* background-color: #379cf4; */
+  box-shadow: 10px 10PX 10PX #585a5b;
+  border-style: double;
+
+}
+
+.fileUploadForm label {
+  /* margin-left: 2VW; */
+  width: 100%;
+  padding: 1%;
+  color: black;
+  font-size: 2.5vw;
+
+
+
+}
+
+.fileUploadForm input {
+  padding: 1%;
+  font-size: 1.5vw;
+  box-shadow: 5px 5PX 5PX #585a5b;
+  border-style: double;
+
+
+}
+
+.buttonContainer {
+  /* text-align: center; */
+  margin-left: 60%;
+  margin-top: 5%;
+
+
+}
+
+.buttonContainer button {
+  padding: 10px 20px;
+  font-size: 1.5vw;
+  border: none;
+
+  border-radius: 5px;
+  margin: -20px 20px 10px 5px;
+}
+
+.beforeButton {
+  background-color: #3498db;
+  color: #fff;
+}
+
+.sendButton {
+  background-color: #2ecc71;
+  color: #fff;
+}

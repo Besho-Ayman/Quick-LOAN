@@ -1,5 +1,4 @@
 import styles from './About.module.css'
-// import Nav from '../nav/Nav';
 
 function About() {
     return (

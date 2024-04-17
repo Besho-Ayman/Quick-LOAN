@@ -1,0 +1,125 @@
+.Calculator {
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+
+.titl h5 {
+    color: gray;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.titl h1 {
+    text-align: center;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text1 {
+    padding-left: 6vw;
+  
+}
+
+.Calculator_item {
+    margin: 0px;
+
+    padding: 0vw;
+}
+
+.term {
+    font-size: 2.5vw;
+    padding-top: 0vw;
+}
+
+.Calculatorr {
+    position: relative;
+    display: block;
+    font-size: 1vw;
+   
+
+}
+
+.totalcont {
+    display: flex;
+}
+
+
+
+.test1 {
+    margin-left: 7vw;
+    outline: none;
+    width: 33vw;
+    height: 3vw;
+    background-color: aqua;
+    border-radius: 20px;
+    box-shadow: inset 0 0 5px rgb(115, 19, 19);
+    padding: .5vw 0vw 0vw 0vw;
+    margin-top: 12px;
+    text-align: center;
+    line-height: 3vw;
+
+
+
+}
+
+.cont {
+    margin-left: 2vw;
+    width: 14vw;
+    font-size: 2.5vw;
+    border-radius: 20px;
+    border: 2px solid black;
+    text-align: center;
+    line-height: 4vw;
+
+}
+
+.h6 {
+    padding-left: 7vw;
+    margin: 10px;
+    padding-bottom: 0vw;
+
+}
+
+.test {
+    width: 30vw;
+    display: inline-block;
+}
+
+.tatal {
+    display: flex;
+}
+
+@media only screen and (max-width: 393px) {
+    .tatal {
+        display: block;
+        padding: 4vw;
+    }
+}
+
+
+.result {
+    border: 2px solid black;
+
+    width: 41vw;
+    font-size: 2vw;
+    margin-left: 3vw;
+}
+
+.Details {
+    color: #1765ed;
+    padding: 0vw 0vw 0vw 1vw;
+}
+
+.Payment {
+    padding-left: 4vw;
+
+}
+
+.totalPayment {
+    border: 2px solid #1765ed;
+    color: #1765ed;
+    padding: 10px;
+}

@@ -1,4 +1,6 @@
 import React from 'react';
+// import axios from 'axios'; // استيراد مكتبة axios
+
 import styles from './cont2.module.css';
 class FormComponent2 extends React.Component {
   render() {
@@ -22,6 +24,23 @@ class FormComponent2 extends React.Component {
             <select className={styles.select} id="cars">
               <option value="">Yes</option>
               <option value="Personal loan">No</option>
+            </select>
+            </div>
+            </div>
+            <div className={styles.select1} >
+               <div>
+              
+            <label htmlFor="cars">Credit History</label><br />
+            <select className={styles.select} id="cars">
+              <option value="">Good</option>
+              <option value="Personal loan">Bad</option>
+            </select>
+            </div>
+            <div>
+            <label htmlFor="cars">CD Account</label><br />
+            <select className={styles.select} id="cars">
+              <option value="">have</option>
+              <option value="Personal loan">no</option>
             </select>
             </div>
           </div>
@@ -58,6 +77,7 @@ class FormComponent2 extends React.Component {
           <input type="number" id="myNumber" className={styles.amount} placeholder=" Your loan amount" />
 
           <input type="number" className={styles.Dependents} id="number" placeholder="Dependents" />
+          <input type="number" className={styles.Dependents} id="number" placeholder="Experience" />
 
             <input type="number" className={styles.Applicantlncome} id="number" placeholder="Applicantlncome" />
 

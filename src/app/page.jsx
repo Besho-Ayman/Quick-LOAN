@@ -17,13 +17,13 @@ export default function Home() {
     <main  >
 
       <Nav />
-      {/* <Apply /> */}
-      <Homee />
+      <Apply />
+      {/* <Homee />
       <About />
       <BusinessBank />
       <Calculator />
       <Slider />
-      <Contact />
+      <Contact /> */}
       <Footer />
     </main>
   )

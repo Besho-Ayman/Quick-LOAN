@@ -5,7 +5,7 @@ function About() {
         <section className={styles.AboutUs} id='About'>
             <div className={styles.titl}>
                 <h5>About Us</h5>
-                <h1>Learn about how Banca works</h1>
+                <h1>Learn about how Quick LOAN works</h1>
             </div>
             <div className={styles.about_item}>
                 <div className={styles.about_text}>

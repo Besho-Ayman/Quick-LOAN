@@ -108,4 +108,21 @@
     .buttonn {
         width: 30%;
     }
+    .textarea {
+       
+        width: 70vw;
+    }
+    .phone {
+        width: 150px;
+       
+    }
+    .contact_child1 {
+        box-shadow: 0px 0px 0px 1px rgb(182, 16, 16);
+        margin: 5vw;
+    }
+    .button {
+       
+        margin: 5vw;
+        font-size: 5vw;
+    } 
 }

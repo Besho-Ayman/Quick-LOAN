@@ -1,0 +1,111 @@
+
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+}
+
+.btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+#response {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    display: none;
+}
+
+
+
+
+
+
+
+
+.fname {
+    width: 300px;
+    font-size: 2.5vw;
+    border: 1px solid grey;
+}
+
+.fnamec {
+    width: 300px;
+    font-size: 1.5vw;
+    border: 1px solid grey;
+
+}
+
+.Education {
+    display: inline-block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    margin-right: 5px;
+
+}
+
+.Education2 {
+    margin-right: 15px;
+
+
+}
+
+.select1 {
+    
+   
+    margin: 30px 0px 15px 0px;
+    padding: 6px 2px;
+    border-radius: 17px;
+
+}
+.select {
+    font-size: 1.5vw;
+    width: 250px;
+    text-align: center;
+    margin: 0px 10px 0px 0px;
+    padding: 6px 2px;
+    border-radius: 17px;
+
+}
+
+@media screen and (max-width: 664px) {
+    .select {
+        font-size: 5vw;
+        width: 200px;
+
+
+    }
+}

@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loan Application Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            max-width: 400px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .form-group input {
+            width: 100%;
+            padding: 8px;
+            border-radius: 3px;
+            border: 1px solid #ccc;
+        }
+
+        .btn {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            background-color: #007bff;
+            color: #fff;
+            text-align: center;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+
+        .btn:hover {
+            background-color: #0056b3;
+        }
+
+        #response {
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h2>Loan Application Form</h2>
+        <div id="form">
+            <div class="form-group">
+                <label for="gender">Gender:</label>
+                <input type="text" id="gender" name="gender" placeholder="Enter Gender">
+            </div>
+            <div class="form-group">
+                <label for="maritalStatus">Marital Status:</label>
+                <input type="text" id="maritalStatus" name="maritalStatus" placeholder="Enter Marital Status">
+            </div>
+            <div class="form-group">
+                <label for="dependents">Dependents:</label>
+                <input type="number" id="dependents" name="dependents" placeholder="Enter Number of Dependents">
+            </div>
+            <div class="form-group">
+                <label for="education">Education:</label>
+                <input type="text" id="education" name="education" placeholder="Enter Education">
+            </div>
+            <div class="form-group">
+                <label for="selfEmployed">Self Employed:</label>
+                <input type="text" id="selfEmployed" name="selfEmployed" placeholder="Enter Self Employed">
+            </div>
+            <div class="form-group">
+                <label for="applicantIncome">Applicant Income:</label>
+                <input type="number" id="applicantIncome" name="applicantIncome" placeholder="Enter Applicant Income">
+            </div>
+            <div class="form-group">
+                <label for="coapplicantIncome">Coapplicant Income:</label>
+                <input type="number" id="coapplicantIncome" name="coapplicantIncome"
+                    placeholder="Enter Coapplicant Income">
+            </div>
+            <div class="form-group">
+                <label for="loanAmount">Loan Amount:</label>
+                <input type="number" id="loanAmount" name="loanAmount" placeholder="Enter Loan Amount">
+            </div>
+            <div class="form-group">
+                <label for="loanAmountTerm">Loan Amount Term:</label>
+                <input type="number" id="loanAmountTerm" name="loanAmountTerm" placeholder="Enter Loan Amount Term">
+            </div>
+            <div class="form-group">
+                <label for="creditHistory">Credit History:</label>
+                <input type="number" id="creditHistory" name="creditHistory" placeholder="Enter Credit History">
+            </div>
+            <div class="form-group">
+                <label for="totalIncome">Total Income:</label>
+                <input type="number" id="totalIncome" name="totalIncome" placeholder="Enter Total Income">
+            </div>
+            <div class="form-group">
+                <label for="age">Age:</label>
+                <input type="number" id="age" name="age" placeholder="Enter Age">
+            </div>
+            <div class="form-group">
+                <label for="experience">Experience:</label>
+                <input type="number" id="experience" name="experience" placeholder="Enter Experience">
+            </div>
+            <div class="form-group">
+                <label for="cdAccount">CD Account:</label>
+                <select id="cdAccount" name="cdAccount">
+                    <option value="1">Yes</option>
+                    <option value="0">No</option>
+                </select>
+            </div>
+            <button class="btn" onclick="submitForm()">Submit</button>
+        </div>
+        <div id="response"></div>
+    </div>
+
+    <script>
+        function submitForm() {
+                const formData = {
+                    "Gender": document.getElementById('gender').value,
+                    "MaritalStatus": document.getElementById('maritalStatus').value,
+                    "Dependents": parseInt(document.getElementById('dependents').value),
+                    "Education": document.getElementById('education').value,
+                    "Self_Employed": document.getElementById('selfEmployed').value,
+                    "ApplicantIncome": parseInt(document.getElementById('applicantIncome').value),
+                    "CoapplicantIncome": parseInt(document.getElementById('coapplicantIncome').value),
+                    "LoanAmount": parseInt(document.getElementById('loanAmount').value),
+                    "Loan_Amount_Term": parseInt(document.getElementById('loanAmountTerm').value),
+                    "Credit_History": parseInt(document.getElementById('creditHistory').value),
+                    "Total_Income": parseInt(document.getElementById('totalIncome').value),
+                    "Age": parseInt(document.getElementById('age').value),
+                    "Experience": parseInt(document.getElementById('experience').value),
+                    "CD Account": parseInt(document.getElementById('cdAccount').value)  // Use parseInt to convert the value to a number
+                };
+                sendData(formData);
+            }
+
+        function sendData(data) {
+            fetch('https://quickloan.onrender.com/predict', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(data),
+            })
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    displayResponse(data);
+                })
+                .catch(error => {
+                    console.error('There was a problem with your fetch operation:', error);
+                    alert('Failed to send data. Please try again later.');
+                });
+        }
+
+        function displayResponse(data) {
+            const responseDiv = document.getElementById('response');
+            responseDiv.innerText = JSON.stringify(data, null, 2);
+            responseDiv.style.display = 'block';
+        }
+    </script>
+</body>
+
+</html>

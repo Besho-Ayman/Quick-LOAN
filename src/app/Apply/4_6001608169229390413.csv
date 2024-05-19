@@ -1,0 +1,1615 @@
+Loan_ID,Gender,MaritalStatus,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Total_Income,Property_Area,CarsAvailable,Loan_Status,Age,Experience,CD Account
+LP000001,Female,single,1,Graduate,Yes,17295,4612,108,360,0,21907,Semiurban,Chevrolet,Y,51,35,0
+LP000002,Female,married,2,Not Graduate,Yes,2360,9710,174,360,1,12070,Rural,BMW,N,42,27,0
+LP000003,Male,single,2,Not Graduate,No,6890,1198,403,360,1,8088,Urban,Chevrolet,N,33,25,0
+LP000004,Male,single,0,Not Graduate,No,13464,5238,322,360,0,18702,Rural,BMW,Y,51,38,0
+LP000005,Female,single,1,Graduate,No,12784,6089,156,360,1,18873,Semiurban,Chevrolet,N,46,30,0
+LP000006,Male,married,0,Not Graduate,No,7765,6257,348,360,1,14022,Rural,BMW,N,36,32,0
+LP000007,Male,single,0,Not Graduate,Yes,18350,7705,294,360,0,26055,Semiurban,Toyota,Y,40,39,0
+LP000008,Female,single,1,Not Graduate,Yes,5926,3719,385,360,1,9645,Semiurban,Chevrolet,N,36,21,0
+LP000009,Female,single,1,Graduate,No,15923,302,499,360,1,16225,Semiurban,Chevrolet,N,42,29,0
+LP000010,Female,married,3+,Graduate,Yes,12863,986,467,360,1,13849,Rural,Honda,Y,33,20,0
+LP000011,Male,single,1,Not Graduate,No,17523,4440,296,360,0,21963,Semiurban,Honda,N,26,26,0
+LP000012,Male,single,2,Graduate,No,9822,4909,57,360,1,14731,Semiurban,BMW,N,18,16,0
+LP000013,Female,single,0,Not Graduate,Yes,3185,3072,190,360,0,6257,Rural,Chevrolet,N,59,53,0
+LP000014,Female,single,0,Not Graduate,Yes,2269,3124,411,360,1,5393,Semiurban,BMW,Y,36,22,0
+LP000015,Male,married,2,Not Graduate,No,3933,9519,57,120,1,13452,Rural,Toyota,Y,50,49,0
+LP000016,Male,single,1,Not Graduate,No,6811,8125,401,360,1,14936,Semiurban,Honda,N,51,43,0
+LP000017,Male,married,2,Not Graduate,No,6551,3291,143,240,1,9842,Urban,BMW,N,33,29,0
+LP000018,Female,married,2,Not Graduate,Yes,7920,4033,370,360,0,11953,Urban,BMW,N,57,40,0
+LP000019,Female,married,3+,Not Graduate,Yes,19068,5105,476,360,0,24173,Semiurban,Honda,Y,35,20,0
+LP000020,Female,single,2,Graduate,Yes,7896,703,88,,1,8599,Urban,Chevrolet,Y,51,48,0
+LP000021,Male,married,0,Graduate,Yes,10166,8133,130,360,1,18299,Rural,BMW,Y,42,31,0
+LP000022,Male,single,2,Graduate,No,19931,574,236,360,1,20505,Urban,Honda,N,23,17,0
+LP000023,Female,married,0,Graduate,No,4247,5704,133,360,1,9951,Semiurban,Chevrolet,N,38,25,0
+LP000024,,married,0,Graduate,No,1689,7848,137,360,1,9537,Semiurban,Toyota,N,23,12,0
+LP000025,Male,married,0,Graduate,No,4505,5208,291,360,1,9713,Rural,Honda,N,49,47,0
+LP000026,Female,married,1,Graduate,No,3399,6924,391,360,1,10323,Semiurban,BMW,N,58,54,0
+LP000027,Female,married,3+,Not Graduate,No,2767,3828,142,360,1,6595,Rural,Toyota,Y,56,40,0
+LP000028,Female,married,0,Not Graduate,Yes,19412,3230,135,360,0,22642,Urban,Chevrolet,N,48,39,0
+LP000029,Female,married,0,Not Graduate,Yes,12894,488,93,360,0,13382,Urban,Chevrolet,N,59,50,0
+LP000030,Female,married,1,Not Graduate,No,5056,7114,186,360,0,12170,Rural,Honda,N,27,17,1
+LP000031,Female,single,0,Graduate,No,5390,9539,470,360,1,14929,Rural,Honda,Y,47,31,0
+LP000032,Female,single,2,Graduate,Yes,10338,3173,123,360,1,13511,Semiurban,Honda,N,35,31,0
+LP000033,Male,married,2,Not Graduate,Yes,16002,1667,85,360,1,17669,Urban,Chevrolet,Y,41,29,0
+LP000034,Male,married,3+,Not Graduate,Yes,12127,9829,150,360,0,21956,Rural,Toyota,Y,26,17,0
+LP000035,Female,married,0,Graduate,Yes,10292,4114,205,360,1,14406,Urban,Chevrolet,Y,48,40,0
+LP000036,Male,single,1,Not Graduate,No,12055,3553,475,360,0,15608,Rural,BMW,Y,32,16,0
+LP000037,Male,married,2,Not Graduate,No,11753,7761,304,,1,19514,Urban,Chevrolet,Y,21,21,0
+LP000038,Male,single,1,Not Graduate,No,9933,1000,220,360,0,10933,Semiurban,BMW,N,57,54,0
+LP000039,Female,single,1,Not Graduate,No,11733,9042,265,360,0,20775,Urban,Toyota,N,26,23,1
+LP000040,Male,single,2,Graduate,No,12516,1388,219,360,0,13904,Urban,Honda,Y,26,9,0
+LP000041,Male,single,1,Not Graduate,Yes,4112,5450,301,360,1,9562,Urban,Honda,Y,43,35,0
+LP000042,Male,single,2,Not Graduate,No,17287,3712,409,360,0,20999,Urban,Chevrolet,Y,21,4,0
+LP000043,Female,married,1,Graduate,Yes,18659,1367,371,360,1,20026,Urban,Honda,N,34,21,0
+LP000044,Female,married,2,Graduate,No,13706,8189,104,360,1,21895,Semiurban,Toyota,N,33,19,0
+LP000045,Female,married,0,Not Graduate,No,9726,9013,481,,1,18739,Rural,Honda,Y,32,27,0
+LP000046,Male,married,3+,Graduate,No,16041,454,140,,1,16495,Urban,Chevrolet,N,52,43,0
+LP000047,Female,married,2,Not Graduate,No,4652,9816,327,360,1,14468,Semiurban,Toyota,N,22,8,0
+LP000048,Male,single,2,Not Graduate,No,3085,2772,150,360,0,5857,Urban,BMW,Y,22,19,1
+LP000049,Female,married,3+,Graduate,Yes,5443,3726,204,360,1,9169,Urban,Chevrolet,Y,37,20,0
+LP000050,Female,married,2,Not Graduate,Yes,2521,7232,426,360,1,9753,Rural,BMW,N,32,15,0
+LP000051,Female,single,2,Not Graduate,Yes,13153,4806,398,360,1,17959,Urban,Toyota,N,35,19,0
+LP000052,Male,married,1,Not Graduate,No,12305,2190,413,360,1,14495,Semiurban,Chevrolet,N,19,8,0
+LP000053,Male,single,3+,Not Graduate,No,14917,9108,190,360,1,24025,Semiurban,Chevrolet,Y,46,40,0
+LP000054,Male,married,0,Graduate,Yes,9489,2875,222,360,0,12364,Rural,Toyota,Y,30,15,0
+LP000055,Male,single,2,Graduate,No,11192,5592,59,360,0,16784,Urban,Honda,Y,21,11,0
+LP000056,Male,married,3+,Not Graduate,No,14490,1440,277,360,1,15930,Semiurban,Chevrolet,N,59,46,0
+LP000057,Female,married,1,Graduate,Yes,8373,8927,314,360,0,17300,Urban,Chevrolet,N,27,25,1
+LP000058,Female,single,0,Not Graduate,No,7175,6059,487,360,0,13234,Urban,BMW,Y,48,31,0
+LP000059,Male,single,3+,Not Graduate,Yes,1661,7010,297,360,1,8671,Urban,Honda,N,58,49,0
+LP000060,Male,single,0,Not Graduate,No,5797,7117,296,360,0,12914,Rural,BMW,Y,25,20,0
+LP000061,Male,single,0,Not Graduate,Yes,2495,9153,204,360,1,11648,Urban,BMW,N,20,8,0
+LP000062,Male,single,0,Not Graduate,No,13034,2989,83,360,0,16023,Semiurban,Honda,Y,26,17,0
+LP000063,Male,single,2,Graduate,No,9129,9218,178,180,0,18347,Urban,Honda,N,47,30,0
+LP000064,Female,single,2,Not Graduate,Yes,2516,6228,209,360,0,8744,Semiurban,Toyota,N,28,13,0
+LP000065,Male,single,1,Graduate,No,10029,6471,138,360,1,16500,Urban,Honda,Y,52,47,0
+LP000066,Male,married,1,Graduate,No,18762,2863,142,360,0,21625,Semiurban,Chevrolet,Y,54,42,0
+LP000067,Female,married,3+,Not Graduate,Yes,10768,1177,376,180,0,11945,Semiurban,Honda,Y,59,56,0
+LP000068,Female,single,1,Not Graduate,No,13685,4760,290,360,1,18445,Urban,Toyota,Y,30,17,0
+LP000069,Male,married,0,Not Graduate,Yes,7831,11,372,60,1,7842,Urban,Toyota,Y,53,53,0
+LP000070,Female,married,0,Not Graduate,No,10071,5252,453,360,0,15323,Semiurban,Toyota,N,30,26,0
+LP000071,Female,married,2,Not Graduate,No,8708,4399,166,360,1,13107,Rural,Honda,Y,29,22,0
+LP000072,Male,married,0,Graduate,No,6776,8234,143,360,0,15010,Urban,Honda,Y,54,43,0
+LP000073,Female,single,3+,Not Graduate,No,19946,9135,212,300,0,29081,Rural,BMW,Y,27,26,0
+LP000074,Female,married,0,Not Graduate,Yes,17948,5445,148,,1,23393,Urban,BMW,Y,26,15,0
+LP000075,Male,single,0,Graduate,No,17716,6570,162,360,1,24286,Urban,Chevrolet,Y,24,20,0
+LP000076,Female,married,3+,Graduate,Yes,9506,9196,408,480,1,18702,Urban,BMW,N,19,15,1
+LP000077,Female,married,1,Not Graduate,No,4068,8212,140,360,0,12280,Urban,Chevrolet,Y,40,28,0
+LP000078,Male,married,1,Graduate,No,3527,406,395,360,1,3933,Rural,Toyota,Y,56,48,0
+LP000079,Female,single,3+,Not Graduate,No,4195,9206,255,300,0,13401,Urban,BMW,Y,57,48,0
+LP000080,Female,married,2,Graduate,No,16922,4431,66,360,1,21353,Semiurban,Honda,N,56,56,0
+LP000081,Female,single,0,Graduate,Yes,6758,5243,323,360,0,12001,Semiurban,BMW,N,38,36,0
+LP000082,Male,married,3+,Not Graduate,Yes,8236,6542,222,360,1,14778,Rural,Chevrolet,Y,40,23,0
+LP000083,Female,single,0,Graduate,Yes,1891,6936,165,360,0,8827,Urban,BMW,Y,46,35,0
+LP000084,Female,married,2,Graduate,Yes,15486,8906,398,360,1,24392,Semiurban,Toyota,N,31,29,0
+LP000085,Male,single,0,Graduate,No,14166,4146,230,240,0,18312,Rural,Honda,N,43,35,0
+LP000086,Male,single,3+,Graduate,Yes,7392,140,140,360,1,7532,Urban,Chevrolet,N,22,21,0
+LP000087,Male,married,0,Graduate,Yes,5061,4882,131,360,1,9943,Semiurban,Honda,Y,48,46,0
+LP000088,Female,single,1,Graduate,No,7684,6012,373,360,0,13696,Semiurban,Honda,Y,42,29,0
+LP000089,Male,married,2,Not Graduate,No,9892,963,498,360,1,10855,Rural,Chevrolet,N,48,45,0
+LP000090,Female,married,2,Not Graduate,No,14567,7151,163,360,0,21718,Urban,Honda,Y,37,25,0
+LP000091,Male,married,2,Graduate,No,16765,8564,306,360,0,25329,Urban,Honda,N,34,28,0
+LP000092,Male,married,3+,Not Graduate,Yes,3954,3610,107,180,1,7564,Semiurban,BMW,N,19,8,0
+LP000093,Male,married,2,Not Graduate,Yes,13337,9884,203,360,0,23221,Semiurban,Honda,N,42,40,0
+LP000094,Female,married,1,Not Graduate,No,15539,6894,414,360,1,22433,Semiurban,Honda,Y,30,22,0
+LP000095,Female,married,3+,Graduate,No,12465,7311,453,120,1,19776,Urban,Honda,N,56,55,0
+LP000096,Female,married,1,Not Graduate,No,11262,105,165,360,0,11367,Rural,Honda,N,45,37,0
+LP000097,Female,married,0,Graduate,Yes,6556,5539,392,360,1,12095,Rural,Chevrolet,Y,59,48,0
+LP000098,Male,married,0,Not Graduate,Yes,16448,9873,315,360,0,26321,Urban,Toyota,N,23,12,0
+LP000099,Male,married,0,Graduate,No,9610,6787,364,180,0,16397,Rural,BMW,Y,20,6,0
+LP000100,Male,single,0,Graduate,No,15273,2137,252,360,1,17410,Semiurban,Honda,N,52,51,0
+LP000101,Male,single,1,Not Graduate,Yes,18912,4445,90,180,1,23357,Rural,Honda,Y,35,18,0
+LP000102,Male,married,3+,Not Graduate,No,2002,3530,154,360,0,5532,Rural,Chevrolet,N,28,16,0
+LP000103,Male,married,3+,Graduate,No,8410,1286,438,360,0,9696,Rural,Toyota,N,37,24,0
+LP000104,Male,married,2,Not Graduate,Yes,14185,7052,427,360,1,21237,Semiurban,Honda,N,22,18,0
+LP000105,Female,married,1,Not Graduate,No,1706,3654,242,360,1,5360,Urban,Chevrolet,N,36,27,0
+LP000106,Male,married,0,Not Graduate,Yes,19368,7102,450,360,1,26470,Semiurban,BMW,N,39,28,0
+LP000107,Female,married,1,Graduate,No,17434,2359,327,360,1,19793,Urban,BMW,Y,36,27,0
+LP000108,Male,married,2,Graduate,No,18747,8105,403,360,0,26852,Urban,Honda,Y,33,23,0
+LP000109,Female,married,2,Not Graduate,Yes,10255,8636,286,360,1,18891,Urban,Honda,N,41,40,0
+LP000110,Male,single,1,Not Graduate,Yes,13883,6441,474,480,0,20324,Rural,Toyota,N,58,54,0
+LP000111,Male,married,1,Not Graduate,No,19641,5047,270,360,0,24688,Rural,Toyota,N,21,15,0
+LP000112,Female,single,1,Graduate,Yes,16320,8227,117,360,1,24547,Urban,Honda,Y,32,27,0
+LP000113,Female,married,3+,Graduate,No,9074,5203,246,,0,14277,Urban,Chevrolet,Y,42,40,0
+LP000114,Female,married,0,Not Graduate,No,7874,9667,305,360,1,17541,Rural,Toyota,N,52,40,0
+LP000115,Male,single,1,Not Graduate,Yes,3178,1798,188,360,0,4976,Semiurban,Honda,Y,31,29,0
+LP000116,Female,married,1,Not Graduate,No,2559,9600,361,180,1,12159,Urban,Toyota,N,36,31,0
+LP000117,Female,single,1,Not Graduate,No,17698,5291,484,360,0,22989,Semiurban,Honda,N,55,45,0
+LP000118,Male,married,2,Not Graduate,Yes,11414,5495,198,360,0,16909,Rural,BMW,N,53,37,0
+LP000119,Female,married,2,Not Graduate,Yes,12317,9900,148,360,1,22217,Urban,Honda,Y,24,15,0
+LP000120,Male,single,3+,Graduate,No,12421,6284,125,360,1,18705,Semiurban,BMW,N,47,36,0
+LP000121,Male,married,0,Not Graduate,Yes,11289,7285,331,360,0,18574,Semiurban,Toyota,N,36,20,0
+LP000122,Male,single,3+,Graduate,Yes,17812,1300,420,360,0,19112,Semiurban,Honda,N,42,39,0
+LP000123,Female,married,0,Not Graduate,Yes,12752,6869,452,360,1,19621,Rural,Toyota,Y,33,32,0
+LP000124,Male,single,2,Not Graduate,Yes,4193,9435,158,360,0,13628,Rural,BMW,Y,57,47,0
+LP000125,Male,single,2,Graduate,No,15431,3097,237,360,1,18528,Semiurban,Honda,Y,25,19,0
+LP000126,Male,married,2,Graduate,No,5127,4616,248,360,0,9743,Semiurban,Toyota,N,35,34,0
+LP000127,,married,3+,Graduate,No,17657,9,352,360,1,17666,Rural,BMW,Y,45,28,0
+LP000128,Male,single,1,Graduate,Yes,11673,5752,376,360,0,17425,Semiurban,Toyota,N,33,30,0
+LP000129,Male,married,1,Not Graduate,Yes,19547,9852,203,180,1,29399,Semiurban,Chevrolet,Y,36,29,0
+LP000130,Female,married,2,Graduate,Yes,11730,6295,89,360,1,18025,Rural,BMW,N,59,46,0
+LP000131,Male,married,1,Not Graduate,Yes,17207,4815,182,480,0,22022,Semiurban,BMW,Y,34,23,0
+LP000132,Male,single,1,Graduate,Yes,12994,1072,454,360,1,14066,Semiurban,BMW,N,30,13,1
+LP000133,Male,single,3+,Not Graduate,Yes,2806,3225,181,360,0,6031,Semiurban,Honda,Y,24,14,0
+LP000134,Female,single,0,Not Graduate,Yes,8276,1316,328,120,1,9592,Rural,Honda,Y,44,37,0
+LP000135,Female,single,2,Not Graduate,No,10974,5699,411,360,1,16673,Semiurban,Honda,Y,27,26,0
+LP000136,Male,single,2,Not Graduate,No,9026,6807,133,360,1,15833,Rural,Chevrolet,N,51,37,0
+LP000137,Female,single,3+,Not Graduate,Yes,7030,6674,448,360,0,13704,Rural,Chevrolet,Y,53,45,0
+LP000138,Male,single,3+,Not Graduate,Yes,5248,3683,291,360,1,8931,Urban,BMW,Y,42,35,0
+LP000139,Male,single,1,Graduate,Yes,15045,7227,165,360,0,22272,Urban,Chevrolet,Y,23,19,1
+LP000140,Female,single,2,Not Graduate,No,2163,3273,158,360,1,5436,Semiurban,Toyota,Y,41,31,0
+LP000141,Female,married,0,Graduate,No,3498,7000,270,360,0,10498,Rural,BMW,N,35,21,0
+LP000142,Female,single,3+,Graduate,Yes,9494,145,441,360,0,9639,Urban,BMW,Y,40,33,0
+LP000143,Female,married,0,Not Graduate,Yes,19379,5010,90,180,0,24389,Semiurban,Toyota,N,23,16,0
+LP000144,Female,married,0,Graduate,No,4804,3040,417,360,1,7844,Urban,BMW,N,46,29,0
+LP000145,Female,married,2,Not Graduate,No,19737,9654,196,180,0,29391,Urban,Chevrolet,N,42,33,0
+LP000146,Female,single,2,Graduate,No,15308,9776,161,360,1,25084,Rural,Honda,N,34,28,0
+LP000147,Female,single,3+,Not Graduate,No,8085,482,152,360,0,8567,Rural,Toyota,Y,41,33,0
+LP000148,Female,single,2,Graduate,Yes,19175,3179,95,360,0,22354,Urban,Chevrolet,N,28,28,0
+LP000149,Female,single,2,Not Graduate,No,13149,1249,461,360,0,14398,Urban,Toyota,N,43,39,0
+LP000150,Male,married,2,Not Graduate,No,3136,630,373,360,0,3766,Rural,Toyota,N,51,51,0
+LP000151,Male,single,0,Not Graduate,Yes,18582,8853,427,360,1,27435,Semiurban,BMW,N,45,31,1
+LP000152,Female,single,3+,Not Graduate,No,6237,2852,320,360,0,9089,Rural,BMW,Y,20,5,0
+LP000153,Female,single,1,Graduate,No,16055,987,470,360,0,17042,Urban,Chevrolet,Y,28,22,0
+LP000154,Male,single,0,Not Graduate,No,15377,7622,434,360,1,22999,Semiurban,Toyota,N,55,44,1
+LP000155,Female,single,2,Graduate,Yes,2354,7327,244,360,0,9681,Urban,BMW,N,31,24,0
+LP000156,Male,married,0,Graduate,No,7355,9738,416,180,0,17093,Semiurban,BMW,N,43,39,0
+LP000157,Female,single,2,Graduate,Yes,8892,8841,329,360,0,17733,Urban,Toyota,Y,38,29,0
+LP000158,Male,married,2,Not Graduate,Yes,15449,9160,332,360,0,24609,Semiurban,Chevrolet,Y,56,52,0
+LP000159,Female,single,0,Graduate,No,19591,1100,89,360,1,20691,Semiurban,Chevrolet,Y,47,31,0
+LP000160,Female,married,3+,Graduate,No,7291,6652,496,360,1,13943,Urban,Toyota,Y,25,21,0
+LP000161,Female,single,2,Graduate,No,6431,8632,238,360,0,15063,Semiurban,Chevrolet,Y,37,23,0
+LP000162,Female,single,3+,Not Graduate,No,1702,7421,213,360,1,9123,Rural,BMW,N,49,37,0
+LP000163,Male,married,1,Not Graduate,Yes,12947,5016,73,360,1,17963,Urban,Toyota,Y,39,39,0
+LP000164,Female,married,2,Graduate,No,14188,769,73,360,0,14957,Rural,BMW,Y,24,14,0
+LP000165,Male,married,3+,Not Graduate,No,5889,1343,53,180,1,7232,Urban,Honda,N,26,26,0
+LP000166,Male,single,3+,Not Graduate,No,3827,4358,372,,0,8185,Semiurban,Honda,Y,18,8,0
+LP000167,Male,married,1,Graduate,Yes,9504,9769,339,360,1,19273,Semiurban,Chevrolet,Y,46,29,0
+LP000168,Male,single,3+,Graduate,No,9277,6780,490,360,1,16057,Semiurban,Honda,Y,25,8,0
+LP000169,Female,single,3+,Not Graduate,No,1697,6602,482,480,1,8299,Urban,BMW,N,21,6,0
+LP000170,Male,married,1,Graduate,Yes,3430,2349,230,360,0,5779,Rural,Honda,Y,52,40,0
+LP000171,Male,married,2,Not Graduate,Yes,13274,5699,297,360,1,18973,Rural,BMW,N,20,14,0
+LP000172,,single,3+,Not Graduate,No,16587,1241,165,300,0,17828,Urban,Chevrolet,N,57,57,0
+LP000173,Female,single,3+,Not Graduate,No,10839,1125,328,180,0,11964,Urban,Chevrolet,Y,24,9,0
+LP000174,Male,married,3+,Not Graduate,No,13089,9382,414,360,1,22471,Rural,BMW,Y,44,44,0
+LP000175,Male,married,0,Not Graduate,No,17208,6764,118,360,0,23972,Rural,Honda,Y,18,2,0
+LP000176,Male,married,1,Not Graduate,No,18543,5101,400,360,1,23644,Rural,Chevrolet,Y,44,39,0
+LP000177,Male,single,0,Graduate,Yes,4311,7843,303,360,0,12154,Rural,Toyota,N,33,32,0
+LP000178,Male,single,1,Graduate,Yes,15743,72,230,360,0,15815,Urban,Chevrolet,Y,55,39,0
+LP000179,Female,single,2,Not Graduate,No,8046,5472,367,360,1,13518,Urban,Honda,N,24,19,0
+LP000180,Male,single,2,Not Graduate,No,3486,5189,218,480,1,8675,Semiurban,Toyota,N,40,27,0
+LP000181,Male,single,3+,Not Graduate,Yes,9838,2472,362,360,1,12310,Rural,Honda,N,58,41,0
+LP000182,Female,single,1,Graduate,No,12911,707,298,360,1,13618,Semiurban,BMW,N,28,23,0
+LP000183,Female,married,2,Not Graduate,No,4411,1804,237,180,0,6215,Urban,Toyota,N,59,50,0
+LP000184,Male,single,1,Graduate,No,3234,6704,103,360,0,9938,Urban,Honda,Y,50,33,0
+LP000185,Female,single,2,Not Graduate,No,19727,3713,375,360,0,23440,Semiurban,Toyota,N,53,45,0
+LP000186,Female,single,0,Not Graduate,No,10180,5051,406,360,1,15231,Rural,Honda,N,54,47,0
+LP000187,Male,married,2,Graduate,Yes,19843,2475,362,300,0,22318,Rural,Toyota,Y,58,49,0
+LP000188,Female,single,0,Graduate,No,7259,3610,187,360,1,10869,Rural,Honda,Y,34,18,0
+LP000189,,single,2,Not Graduate,No,3885,4255,217,360,0,8140,Rural,BMW,N,52,47,0
+LP000190,Female,married,3+,Not Graduate,No,12611,7397,440,180,1,20008,Semiurban,Toyota,N,22,9,0
+LP000191,Female,single,0,Not Graduate,Yes,6236,1735,152,360,0,7971,Semiurban,Toyota,Y,49,44,0
+LP000192,Male,single,2,Graduate,Yes,3302,9777,471,360,0,13079,Urban,Toyota,N,20,14,0
+LP000193,Female,single,3+,Graduate,Yes,9655,8258,134,360,1,17913,Rural,Toyota,Y,52,41,0
+LP000194,Female,single,0,Graduate,Yes,9620,7979,366,360,0,17599,Rural,BMW,Y,31,29,0
+LP000195,Male,single,3+,Graduate,No,8116,2428,261,360,1,10544,Rural,Toyota,N,48,35,0
+LP000196,Male,married,1,Graduate,Yes,15757,7426,52,360,0,23183,Semiurban,Chevrolet,Y,48,33,0
+LP000197,Female,married,1,Graduate,No,15986,8533,433,360,0,24519,Rural,BMW,N,34,28,0
+LP000198,Female,married,0,Not Graduate,No,18146,5249,228,,1,23395,Semiurban,Chevrolet,N,41,34,0
+LP000199,Male,single,2,Not Graduate,Yes,15575,5291,391,360,1,20866,Rural,Toyota,N,40,23,0
+LP000200,Male,single,0,Graduate,Yes,10708,2817,352,360,0,13525,Rural,Honda,Y,35,23,1
+LP000201,Female,single,3+,Not Graduate,Yes,17871,9424,381,360,0,27295,Urban,Chevrolet,N,31,23,0
+LP000202,Female,married,2,Not Graduate,Yes,13335,3874,87,360,0,17209,Rural,Toyota,Y,32,23,0
+LP000203,Male,single,1,Graduate,Yes,14668,9686,469,180,0,24354,Rural,Chevrolet,N,32,24,0
+LP000204,Female,single,2,Not Graduate,No,3549,4211,288,360,0,7760,Urban,Toyota,N,23,9,0
+LP000205,Female,married,1,Graduate,Yes,6923,661,218,360,0,7584,Semiurban,Toyota,Y,44,43,0
+LP000206,Male,single,2,Graduate,Yes,16089,3374,446,360,1,19463,Semiurban,Toyota,N,32,20,0
+LP000207,Female,married,2,Not Graduate,Yes,8658,9208,392,360,1,17866,Rural,Honda,N,53,52,0
+LP000208,Female,married,2,Graduate,No,11748,207,363,360,1,11955,Semiurban,Chevrolet,Y,25,24,0
+LP000209,Male,married,3+,Graduate,Yes,8900,2665,355,360,0,11565,Rural,BMW,Y,32,30,0
+LP000210,Female,single,3+,Graduate,No,11374,2493,79,360,0,13867,Urban,BMW,Y,20,15,1
+LP000211,Male,single,0,Graduate,Yes,16651,6813,239,360,0,23464,Urban,BMW,N,30,28,0
+LP000212,Male,single,0,Graduate,Yes,2654,632,406,360,1,3286,Rural,BMW,Y,58,49,0
+LP000213,Male,single,1,Graduate,No,5999,3083,74,360,1,9082,Urban,Toyota,Y,51,46,0
+LP000214,Male,single,3+,Graduate,Yes,7795,3719,161,360,0,11514,Urban,Chevrolet,N,41,26,0
+LP000215,Female,single,1,Graduate,No,13683,7123,460,360,0,20806,Rural,Chevrolet,Y,57,41,0
+LP000216,Female,single,0,Not Graduate,No,14374,1679,484,360,1,16053,Rural,Honda,N,49,47,0
+LP000217,Male,married,1,Not Graduate,No,19532,236,255,360,1,19768,Urban,Chevrolet,N,49,32,0
+LP000218,Female,single,0,Not Graduate,Yes,7039,7446,234,360,1,14485,Semiurban,Chevrolet,Y,47,41,0
+LP000219,Female,married,3+,Graduate,Yes,11137,4443,431,360,0,15580,Semiurban,Chevrolet,N,30,22,0
+LP000220,Female,single,2,Graduate,Yes,17086,6770,428,360,0,23856,Rural,Honda,Y,18,7,0
+LP000221,Female,single,3+,Not Graduate,No,4057,9732,96,360,0,13789,Rural,BMW,Y,51,47,0
+LP000222,Male,single,1,Not Graduate,Yes,7092,6099,423,360,1,13191,Semiurban,Chevrolet,Y,32,30,0
+LP000223,Female,married,1,Not Graduate,No,17982,8555,277,360,1,26537,Urban,Honda,Y,31,21,0
+LP000224,Female,married,3+,Graduate,Yes,3700,2368,88,,0,6068,Semiurban,Honda,N,46,43,0
+LP000225,Male,married,3+,Not Graduate,No,15672,285,65,360,0,15957,Semiurban,Toyota,N,51,47,0
+LP000226,Male,married,0,Not Graduate,No,4461,148,71,360,1,4609,Semiurban,Honda,Y,35,35,0
+LP000227,Male,single,1,Graduate,No,15707,4037,262,360,0,19744,Semiurban,BMW,Y,24,7,0
+LP000228,Male,married,1,Not Graduate,Yes,13469,6549,359,360,1,20018,Rural,Chevrolet,N,46,35,1
+LP000229,Male,single,3+,Graduate,No,4369,7121,198,480,1,11490,Rural,Honda,Y,48,36,1
+LP000230,Male,single,2,Graduate,No,18840,9958,290,360,0,28798,Urban,BMW,N,42,34,0
+LP000231,Male,married,1,Graduate,No,15492,4895,321,360,1,20387,Urban,Honda,Y,55,54,0
+LP000232,Female,married,2,Not Graduate,No,7199,5280,108,180,0,12479,Urban,Honda,N,31,27,0
+LP000233,Male,married,3+,Not Graduate,No,5487,1012,336,,1,6499,Urban,Honda,N,25,13,0
+LP000234,Female,married,3+,Graduate,No,14946,9715,475,360,1,24661,Semiurban,Honda,N,44,29,0
+LP000235,Female,married,0,Not Graduate,Yes,2718,2785,251,360,0,5503,Rural,Honda,Y,19,4,0
+LP000236,Female,married,1,Not Graduate,Yes,6235,3725,81,360,1,9960,Rural,BMW,Y,34,32,0
+LP000237,Male,married,2,Not Graduate,No,12796,4576,492,360,0,17372,Urban,Chevrolet,Y,54,51,0
+LP000238,Female,married,0,Not Graduate,Yes,6055,5782,211,360,0,11837,Urban,Chevrolet,Y,31,21,0
+LP000239,Female,single,1,Graduate,Yes,10646,6257,304,360,1,16903,Semiurban,Chevrolet,Y,42,29,0
+LP000240,Male,married,0,Not Graduate,No,9550,9793,303,360,0,19343,Semiurban,Chevrolet,N,47,45,0
+LP000241,Male,married,3+,Graduate,No,14257,2408,58,360,0,16665,Urban,BMW,N,46,31,0
+LP000242,Female,single,1,Graduate,No,18929,340,188,180,0,19269,Rural,Toyota,N,37,23,0
+LP000243,Female,married,0,Not Graduate,Yes,8393,2817,59,60,0,11210,Rural,Toyota,N,38,29,0
+LP000244,Male,single,0,Graduate,No,19577,2496,263,360,0,22073,Rural,BMW,N,39,31,1
+LP000245,Male,single,2,Not Graduate,Yes,15873,5962,322,360,0,21835,Urban,BMW,N,52,42,0
+LP000246,Female,married,0,Not Graduate,No,16065,5299,373,180,1,21364,Rural,Honda,N,54,39,0
+LP000247,Male,single,1,Graduate,Yes,4936,9917,97,360,0,14853,Semiurban,Honda,Y,33,24,0
+LP000248,Male,single,1,Graduate,No,10254,7574,485,180,1,17828,Semiurban,Honda,N,34,18,1
+LP000249,Female,single,2,Graduate,No,12177,1689,160,480,1,13866,Urban,Chevrolet,Y,33,32,0
+LP000250,Male,single,1,Graduate,Yes,7395,3267,202,360,0,10662,Semiurban,Honda,N,19,18,0
+LP000251,Female,married,3+,Not Graduate,Yes,18109,4406,172,360,1,22515,Urban,Toyota,N,21,16,0
+LP000252,Female,single,1,Not Graduate,Yes,17136,8453,454,360,1,25589,Rural,Chevrolet,Y,38,31,0
+LP000253,Female,married,1,Not Graduate,Yes,8522,1442,406,360,0,9964,Rural,Honda,N,56,54,0
+LP000254,Female,single,0,Graduate,Yes,10651,8597,151,180,0,19248,Rural,Chevrolet,Y,51,38,0
+LP000255,Male,single,0,Graduate,Yes,7100,4437,290,360,0,11537,Semiurban,Toyota,N,47,32,0
+LP000256,Male,single,1,Graduate,No,9496,5435,370,360,1,14931,Urban,Honda,Y,23,23,0
+LP000257,Female,single,2,Not Graduate,Yes,10507,8435,240,360,1,18942,Rural,Toyota,N,34,32,0
+LP000258,Male,married,0,Graduate,No,14446,4107,266,360,0,18553,Urban,Toyota,Y,56,39,0
+LP000259,Female,married,2,Not Graduate,No,6142,560,100,360,0,6702,Rural,Toyota,Y,42,34,0
+LP000260,Female,single,1,Graduate,Yes,12812,8785,341,360,1,21597,Semiurban,Honda,N,22,17,0
+LP000261,Male,single,1,Not Graduate,No,9179,5548,130,360,1,14727,Semiurban,BMW,N,22,22,0
+LP000262,Female,married,3+,Not Graduate,Yes,9708,1826,432,360,1,11534,Urban,Honda,Y,37,28,0
+LP000263,Female,single,0,Graduate,Yes,12216,7629,137,36,1,19845,Semiurban,Toyota,N,33,28,1
+LP000264,Male,single,1,Graduate,No,18953,8325,243,360,0,27278,Semiurban,Honda,Y,58,47,0
+LP000265,Male,single,3+,Not Graduate,No,4944,3138,153,360,1,8082,Urban,Toyota,N,54,51,0
+LP000266,Male,married,0,Not Graduate,Yes,12257,7693,320,360,1,19950,Rural,BMW,Y,57,45,0
+LP000267,Male,married,1,Graduate,Yes,15934,8264,145,360,1,24198,Semiurban,Chevrolet,N,26,10,0
+LP000268,Female,married,1,Graduate,No,2560,7842,472,360,1,10402,Urban,BMW,Y,22,15,0
+LP000269,Male,single,0,Not Graduate,No,4920,6721,428,360,0,11641,Semiurban,BMW,N,59,57,0
+LP000270,Female,single,0,Graduate,No,1801,7002,247,360,0,8803,Semiurban,Chevrolet,Y,19,8,0
+LP000271,Female,married,0,Not Graduate,No,13968,4225,50,360,1,18193,Semiurban,Honda,Y,26,20,0
+LP000272,Female,married,1,Not Graduate,Yes,18490,2978,456,360,1,21468,Semiurban,Chevrolet,N,53,42,0
+LP000273,Male,married,1,Graduate,Yes,2199,7373,427,360,0,9572,Urban,Honda,N,39,38,0
+LP000274,Male,married,3+,Graduate,Yes,1690,5907,216,360,0,7597,Urban,Honda,Y,39,26,0
+LP000275,Female,single,2,Graduate,Yes,11992,6097,175,360,1,18089,Urban,Toyota,Y,39,35,0
+LP000276,Male,married,0,Graduate,No,18864,5656,362,360,1,24520,Semiurban,Toyota,Y,51,43,0
+LP000277,Female,single,1,Graduate,No,4475,8984,130,360,0,13459,Semiurban,Chevrolet,Y,46,36,0
+LP000278,Male,married,1,Not Graduate,Yes,7602,4259,467,360,0,11861,Semiurban,BMW,N,55,51,0
+LP000279,Female,single,0,Not Graduate,Yes,19068,8286,300,360,0,27354,Urban,Chevrolet,Y,50,48,0
+LP000280,Male,married,2,Graduate,Yes,3316,5901,218,360,0,9217,Semiurban,Honda,Y,35,19,0
+LP000281,Female,married,0,Graduate,Yes,2069,9325,122,360,0,11394,Rural,Toyota,Y,24,23,0
+LP000282,Male,married,2,Graduate,Yes,6942,4917,190,360,0,11859,Semiurban,Chevrolet,N,18,18,0
+LP000283,Female,married,1,Not Graduate,Yes,3395,8429,119,180,1,11824,Rural,Chevrolet,Y,50,44,0
+LP000284,Male,single,2,Graduate,Yes,5363,2530,311,360,0,7893,Semiurban,Toyota,N,18,5,0
+LP000285,Male,married,3+,Graduate,Yes,14413,1960,389,360,0,16373,Urban,Toyota,N,41,37,0
+LP000286,Female,single,1,Not Graduate,Yes,8955,7045,357,360,0,16000,Semiurban,Toyota,N,21,11,0
+LP000287,Male,single,3+,Not Graduate,No,5514,1048,294,300,0,6562,Rural,Honda,N,21,20,0
+LP000288,Male,single,0,Graduate,Yes,12593,5772,52,360,1,18365,Rural,Toyota,N,35,28,0
+LP000289,Male,single,0,Graduate,No,19570,2529,386,360,1,22099,Semiurban,BMW,N,44,36,1
+LP000290,Female,married,0,Graduate,No,4509,2964,112,360,0,7473,Rural,Chevrolet,N,49,47,0
+LP000291,Female,single,2,Not Graduate,Yes,18038,7137,98,360,1,25175,Rural,Toyota,Y,50,49,0
+LP000292,Male,single,1,Graduate,Yes,12229,963,125,360,1,13192,Urban,Toyota,Y,45,39,0
+LP000293,Female,single,0,Graduate,No,2909,536,417,360,1,3445,Semiurban,Honda,N,59,55,0
+LP000294,Female,married,0,Graduate,No,13749,7340,224,480,1,21089,Semiurban,Honda,Y,58,54,0
+LP000295,Female,married,1,Not Graduate,Yes,2284,7179,158,360,1,9463,Semiurban,Chevrolet,Y,53,41,0
+LP000296,Male,married,0,Not Graduate,No,9596,7967,232,360,1,17563,Rural,BMW,N,23,18,0
+LP000297,Female,married,3+,Graduate,Yes,9060,8734,241,360,0,17794,Semiurban,Chevrolet,Y,33,16,0
+LP000298,Male,single,1,Graduate,Yes,14033,845,114,360,0,14878,Semiurban,Toyota,N,51,50,0
+LP000299,Male,single,1,Not Graduate,Yes,8843,5777,386,480,0,14620,Urban,BMW,Y,40,35,0
+LP000300,Male,married,1,Not Graduate,No,8706,3036,320,360,0,11742,Urban,BMW,N,59,51,1
+LP000301,Female,single,3+,Not Graduate,No,7301,5947,149,360,0,13248,Urban,BMW,N,41,39,0
+LP000302,Female,single,1,Not Graduate,Yes,18421,2494,81,360,1,20915,Rural,BMW,Y,30,30,0
+LP000303,Female,single,3+,Not Graduate,No,7486,2719,401,360,0,10205,Semiurban,Chevrolet,Y,35,35,0
+LP000304,Female,married,1,Not Graduate,No,19725,1884,177,360,0,21609,Urban,Honda,N,30,26,0
+LP000305,Male,married,2,Not Graduate,No,12147,4349,451,360,1,16496,Urban,Honda,N,54,42,0
+LP000306,Female,single,0,Not Graduate,No,10216,5179,418,360,1,15395,Urban,Toyota,N,56,45,0
+LP000307,Female,married,2,Not Graduate,No,13823,6610,388,360,0,20433,Semiurban,Honda,Y,59,44,0
+LP000308,Female,married,0,Graduate,No,6280,6430,92,360,1,12710,Semiurban,Honda,Y,34,32,0
+LP000309,Female,married,3+,Graduate,No,3868,7154,421,360,1,11022,Semiurban,Honda,Y,32,21,1
+LP000310,Female,married,2,Graduate,Yes,13539,6488,468,360,1,20027,Rural,Honda,Y,35,31,0
+LP000311,Female,married,1,Not Graduate,No,8155,4737,127,360,1,12892,Rural,Toyota,N,40,39,0
+LP000312,Male,single,0,Graduate,No,9673,6525,363,360,0,16198,Urban,Chevrolet,N,47,41,0
+LP000313,Male,married,0,Not Graduate,No,5995,3850,338,360,1,9845,Semiurban,BMW,N,51,39,0
+LP000314,Female,single,2,Not Graduate,No,12393,689,319,84,0,13082,Urban,Honda,N,21,7,0
+LP000315,,single,3+,Graduate,No,14903,5175,211,360,0,20078,Semiurban,Chevrolet,Y,20,18,0
+LP000316,Male,married,2,Not Graduate,No,14621,8648,238,180,1,23269,Semiurban,Honda,N,24,20,0
+LP000317,Male,single,3+,Graduate,No,12466,5078,296,360,1,17544,Semiurban,Honda,N,35,28,0
+LP000318,Female,single,3+,Graduate,No,2353,5448,437,360,1,7801,Rural,BMW,Y,59,59,0
+LP000319,Female,single,0,Graduate,Yes,18458,1179,265,360,0,19637,Rural,BMW,Y,24,17,0
+LP000320,Female,married,2,Not Graduate,No,19032,9074,364,360,1,28106,Semiurban,BMW,N,57,40,0
+LP000321,Female,married,2,Graduate,No,11407,6406,462,360,1,17813,Urban,Honda,Y,23,8,0
+LP000322,Female,single,3+,Not Graduate,No,6277,8591,388,360,1,14868,Semiurban,Honda,N,39,22,0
+LP000323,Male,married,2,Graduate,No,16838,6907,439,360,1,23745,Semiurban,Honda,Y,18,7,1
+LP000324,Female,married,1,Graduate,Yes,3991,8800,426,360,1,12791,Urban,BMW,Y,21,9,0
+LP000325,Female,married,1,Graduate,Yes,16828,1638,482,360,0,18466,Semiurban,Toyota,N,46,34,0
+LP000326,Female,married,2,Not Graduate,Yes,16099,5671,217,360,1,21770,Urban,Chevrolet,Y,38,29,0
+LP000327,Male,single,2,Not Graduate,Yes,4551,6928,388,360,1,11479,Rural,Toyota,N,43,37,1
+LP000328,Male,single,3+,Not Graduate,Yes,17479,1382,242,360,1,18861,Rural,Honda,Y,31,18,0
+LP000329,Male,married,1,Graduate,Yes,17888,1403,332,360,0,19291,Urban,Honda,Y,26,11,0
+LP000330,Female,married,1,Graduate,Yes,2376,9011,385,360,1,11387,Rural,Toyota,Y,29,15,0
+LP000331,Male,single,0,Not Graduate,Yes,5642,3292,439,360,0,8934,Rural,Honda,Y,59,48,0
+LP000332,Male,single,3+,Not Graduate,Yes,16702,9011,62,360,0,25713,Urban,Chevrolet,Y,23,15,0
+LP000333,Female,married,0,Not Graduate,Yes,8466,419,289,360,1,8885,Rural,Honda,N,37,30,0
+LP000334,Male,single,1,Not Graduate,Yes,8579,4517,369,180,1,13096,Semiurban,Chevrolet,Y,41,24,0
+LP000335,,married,3+,Not Graduate,Yes,9487,3302,495,180,1,12789,Semiurban,Toyota,N,44,27,0
+LP000336,Male,married,2,Not Graduate,Yes,8299,7857,196,,0,16156,Urban,Toyota,Y,55,43,1
+LP000337,Male,single,3+,Graduate,Yes,5965,9700,253,360,0,15665,Rural,Honda,N,25,8,0
+LP000338,Male,single,2,Not Graduate,Yes,18519,7870,129,360,0,26389,Semiurban,Chevrolet,Y,18,4,0
+LP000339,Male,married,2,Graduate,Yes,14917,5693,428,360,0,20610,Semiurban,Honda,N,41,38,0
+LP000340,Male,married,3+,Graduate,No,19577,767,92,360,0,20344,Rural,BMW,N,24,8,0
+LP000341,Female,single,2,Not Graduate,Yes,9811,2044,138,360,0,11855,Rural,BMW,Y,36,32,0
+LP000342,Male,married,0,Not Graduate,No,18714,1549,197,360,1,20263,Semiurban,BMW,Y,39,24,0
+LP000343,Male,single,1,Graduate,Yes,15598,9956,144,360,1,25554,Semiurban,BMW,Y,52,44,0
+LP000344,Female,married,2,Not Graduate,Yes,6677,6140,477,360,0,12817,Urban,Honda,N,47,38,0
+LP000345,Female,single,0,Not Graduate,No,15762,3716,200,360,1,19478,Urban,BMW,N,46,29,0
+LP000346,Male,single,2,Graduate,Yes,9808,4481,51,360,1,14289,Semiurban,Chevrolet,Y,39,23,0
+LP000347,Female,single,1,Graduate,No,7449,7898,425,360,0,15347,Urban,Toyota,Y,28,11,0
+LP000348,Male,married,0,Graduate,No,2650,6548,71,360,0,9198,Semiurban,Toyota,N,37,31,1
+LP000349,Female,married,1,Not Graduate,No,3431,2293,420,360,1,5724,Semiurban,BMW,N,46,43,1
+LP000350,Male,single,1,Graduate,Yes,10704,4837,362,360,0,15541,Urban,BMW,Y,58,54,0
+LP000351,Female,married,0,Not Graduate,Yes,19548,7758,377,360,0,27306,Urban,BMW,N,59,44,0
+LP000352,Male,single,0,Graduate,Yes,2581,6793,56,360,1,9374,Rural,Honda,Y,51,49,0
+LP000353,Male,single,0,Graduate,No,18396,7638,255,360,0,26034,Rural,Toyota,Y,18,1,0
+LP000354,Male,married,3+,Graduate,No,14907,7993,489,360,1,22900,Rural,BMW,Y,48,35,0
+LP000355,Female,married,0,Not Graduate,Yes,9305,6007,424,360,1,15312,Semiurban,Chevrolet,N,47,33,0
+LP000356,Male,single,0,Not Graduate,Yes,6737,5542,163,180,1,12279,Urban,BMW,N,35,19,0
+LP000357,Male,married,0,Graduate,Yes,18443,9092,321,360,1,27535,Semiurban,Toyota,N,34,34,0
+LP000358,Male,married,0,Graduate,Yes,14275,6356,132,360,1,20631,Urban,BMW,N,55,39,0
+LP000359,Female,single,2,Graduate,Yes,17744,8433,228,480,0,26177,Semiurban,Toyota,Y,31,21,0
+LP000360,Female,single,3+,Not Graduate,No,14684,7380,259,360,0,22064,Rural,BMW,N,40,24,0
+LP000361,Female,married,1,Graduate,No,4843,2385,377,360,0,7228,Rural,Chevrolet,Y,42,29,0
+LP000362,Female,single,0,Not Graduate,No,15000,4268,173,360,0,19268,Rural,BMW,Y,32,26,0
+LP000363,Male,single,2,Graduate,Yes,11162,671,162,360,1,11833,Semiurban,Chevrolet,Y,39,27,0
+LP000364,Male,married,2,Graduate,No,18464,163,61,300,1,18627,Urban,Chevrolet,N,20,3,0
+LP000365,Male,single,2,Graduate,No,16625,8656,175,360,0,25281,Urban,BMW,Y,36,23,0
+LP000366,Male,single,1,Graduate,No,9630,4592,102,360,1,14222,Rural,Chevrolet,Y,51,51,0
+LP000367,Male,married,0,Graduate,No,3179,4795,380,480,0,7974,Rural,Honda,N,52,46,0
+LP000368,Female,married,3+,Graduate,No,5006,4798,438,,0,9804,Rural,BMW,Y,18,11,0
+LP000369,Female,single,3+,Not Graduate,Yes,14784,6036,332,360,0,20820,Rural,BMW,N,38,21,0
+LP000370,Female,single,2,Graduate,No,8753,2355,189,360,1,11108,Urban,Chevrolet,N,46,38,0
+LP000371,Female,married,1,Not Graduate,Yes,10935,5887,450,360,1,16822,Semiurban,Chevrolet,N,23,23,0
+LP000372,Male,married,1,Graduate,Yes,12810,7961,439,360,1,20771,Semiurban,BMW,Y,54,38,0
+LP000373,Female,married,1,Graduate,Yes,14796,5827,146,300,1,20623,Semiurban,Honda,N,18,13,0
+LP000374,Male,married,3+,Not Graduate,Yes,14745,8737,54,180,0,23482,Semiurban,Chevrolet,N,18,16,0
+LP000375,Female,single,2,Graduate,Yes,12651,4719,106,360,1,17370,Rural,Chevrolet,N,44,40,0
+LP000376,Male,married,0,Not Graduate,No,11957,593,461,180,1,12550,Rural,Toyota,N,38,37,0
+LP000377,Female,married,3+,Not Graduate,No,3979,4839,383,360,1,8818,Rural,Honda,Y,33,30,0
+LP000378,Male,single,2,Graduate,Yes,5952,7394,118,360,0,13346,Semiurban,Honda,N,57,48,0
+LP000379,Female,married,2,Not Graduate,Yes,7381,9651,167,480,0,17032,Rural,BMW,Y,43,34,0
+LP000380,Male,single,0,Not Graduate,Yes,15569,3493,425,360,1,19062,Rural,Honda,N,33,23,0
+LP000381,Female,married,0,Graduate,No,4349,6164,108,360,1,10513,Urban,BMW,Y,45,30,0
+LP000382,Male,married,0,Not Graduate,Yes,8890,2672,82,360,1,11562,Urban,Toyota,N,18,2,0
+LP000383,Male,married,1,Graduate,No,13422,4200,367,360,1,17622,Rural,Honda,Y,53,38,0
+LP000384,Female,single,0,Graduate,Yes,3989,16,99,360,0,4005,Urban,Chevrolet,N,27,21,0
+LP000385,Male,single,2,Graduate,No,11323,3191,417,360,1,14514,Urban,Toyota,Y,34,19,0
+LP000386,Female,married,0,Graduate,Yes,10707,392,68,180,1,11099,Rural,BMW,Y,40,38,0
+LP000387,Male,single,2,Not Graduate,No,11040,8616,263,360,1,19656,Rural,Toyota,Y,24,9,0
+LP000388,Female,single,3+,Graduate,Yes,17864,6272,246,360,0,24136,Rural,BMW,N,24,17,0
+LP000389,Female,single,1,Graduate,No,6111,571,428,360,0,6682,Rural,Toyota,Y,32,21,0
+LP000390,Female,single,3+,Not Graduate,No,7378,3631,499,360,1,11009,Semiurban,BMW,Y,51,49,0
+LP000391,Female,single,3+,Graduate,No,17847,6172,96,360,1,24019,Semiurban,Honda,Y,21,5,0
+LP000392,Male,single,2,Graduate,No,2351,9312,216,360,1,11663,Rural,Chevrolet,Y,31,14,0
+LP000393,Female,married,3+,Not Graduate,No,19571,7177,338,360,1,26748,Urban,BMW,N,31,21,0
+LP000394,Female,married,2,Not Graduate,No,8333,8433,190,180,1,16766,Rural,Toyota,Y,33,30,1
+LP000395,Male,single,0,Not Graduate,No,13438,3897,133,360,0,17335,Rural,BMW,Y,24,9,0
+LP000396,Male,married,0,Not Graduate,Yes,3927,8123,231,360,0,12050,Urban,BMW,Y,49,33,0
+LP000397,Male,married,2,Not Graduate,Yes,5500,2279,440,360,0,7779,Semiurban,BMW,N,36,28,0
+LP000398,Male,married,0,Not Graduate,Yes,6552,8980,128,360,1,15532,Rural,Toyota,Y,19,14,0
+LP000399,Male,married,1,Not Graduate,Yes,4238,7451,264,360,0,11689,Rural,Chevrolet,Y,27,26,0
+LP000400,Female,single,3+,Graduate,Yes,6887,8906,63,360,0,15793,Semiurban,Honda,Y,34,26,0
+LP000401,Female,married,1,Not Graduate,No,9502,775,264,180,0,10277,Semiurban,Chevrolet,Y,54,49,0
+LP000402,Female,married,3+,Not Graduate,No,7036,6869,452,300,1,13905,Urban,BMW,N,29,27,0
+LP000403,Female,single,0,Not Graduate,No,14979,2247,177,360,1,17226,Semiurban,Toyota,Y,23,18,1
+LP000404,Female,single,1,Graduate,No,5413,7088,359,360,0,12501,Semiurban,Chevrolet,Y,39,33,0
+LP000405,Male,married,0,Graduate,No,18950,78,297,360,1,19028,Semiurban,BMW,N,49,49,0
+LP000406,Female,married,3+,Not Graduate,Yes,12136,8080,453,360,0,20216,Urban,Honda,N,58,58,1
+LP000407,Female,married,2,Not Graduate,Yes,7226,7099,78,360,0,14325,Semiurban,Honda,N,37,33,0
+LP000408,Male,married,2,Not Graduate,Yes,4873,3926,329,360,0,8799,Semiurban,Honda,Y,18,13,0
+LP000409,Female,married,1,Graduate,Yes,13661,9047,387,300,0,22708,Urban,BMW,N,23,11,0
+LP000410,Male,married,0,Graduate,No,3582,7340,368,360,1,10922,Semiurban,Toyota,Y,36,35,0
+LP000411,Male,single,0,Not Graduate,No,17781,7083,251,360,1,24864,Semiurban,Chevrolet,N,35,21,0
+LP000412,Male,married,1,Graduate,No,16805,6230,410,360,1,23035,Urban,Honda,Y,23,9,0
+LP000413,Female,married,2,Not Graduate,Yes,11317,9223,106,360,1,20540,Rural,BMW,N,50,38,0
+LP000414,Male,single,3+,Graduate,No,12761,4940,441,360,0,17701,Urban,BMW,Y,40,27,0
+LP000415,Male,single,1,Graduate,Yes,1917,3271,267,360,1,5188,Semiurban,Chevrolet,N,40,34,0
+LP000416,Female,single,3+,Not Graduate,No,10308,3456,111,360,0,13764,Semiurban,Honda,Y,43,30,0
+LP000417,Female,single,2,Not Graduate,No,4767,7788,206,360,1,12555,Semiurban,BMW,Y,30,21,0
+LP000418,Male,married,0,Not Graduate,Yes,18709,8599,251,360,1,27308,Urban,Chevrolet,Y,24,8,0
+LP000419,Female,married,2,Not Graduate,No,7245,7650,66,360,1,14895,Semiurban,Toyota,Y,32,19,0
+LP000420,Female,married,1,Graduate,No,12838,2711,371,360,0,15549,Semiurban,Toyota,Y,44,37,0
+LP000421,Male,married,0,Graduate,Yes,1912,1668,55,360,0,3580,Urban,Toyota,Y,43,40,0
+LP000422,Male,married,1,Graduate,No,9043,147,107,,0,9190,Rural,Honda,Y,50,35,0
+LP000423,Female,married,1,Not Graduate,Yes,9087,6420,374,360,0,15507,Rural,Chevrolet,Y,32,20,1
+LP000424,Male,single,2,Graduate,No,2228,365,461,,1,2593,Semiurban,Chevrolet,N,53,36,0
+LP000425,Male,married,1,Not Graduate,No,13157,9866,367,360,0,23023,Urban,BMW,Y,44,31,0
+LP000426,Male,single,2,Graduate,No,7488,4531,218,360,0,12019,Semiurban,BMW,Y,22,5,0
+LP000427,Male,single,0,Not Graduate,No,4467,5330,131,360,1,9797,Urban,BMW,N,19,15,0
+LP000428,Female,married,2,Not Graduate,No,16027,5510,474,360,1,21537,Urban,Chevrolet,Y,50,42,0
+LP000429,Female,single,0,Graduate,No,17548,8754,482,360,0,26302,Rural,BMW,N,33,31,0
+LP000430,Female,married,2,Not Graduate,No,19006,8964,268,180,1,27970,Rural,Chevrolet,Y,40,33,0
+LP000431,Male,single,3+,Not Graduate,No,19455,6493,226,360,0,25948,Urban,Chevrolet,N,55,46,0
+LP000432,Male,married,3+,Graduate,Yes,6573,5439,253,360,1,12012,Semiurban,Toyota,N,33,31,0
+LP000433,Male,single,1,Not Graduate,Yes,6604,9765,120,360,0,16369,Rural,BMW,Y,31,21,0
+LP000434,Male,married,2,Not Graduate,No,3643,6511,436,360,0,10154,Semiurban,Toyota,N,46,36,0
+LP000435,Male,married,2,Not Graduate,No,8857,7504,315,360,0,16361,Rural,Honda,Y,43,27,0
+LP000436,Male,married,0,Graduate,Yes,13543,1246,147,240,0,14789,Rural,Honda,Y,52,37,0
+LP000437,Female,married,1,Graduate,No,4940,3839,394,360,0,8779,Semiurban,Honda,Y,32,26,0
+LP000438,Male,married,2,Not Graduate,No,7144,8551,340,360,1,15695,Rural,Chevrolet,Y,20,17,0
+LP000439,Male,single,1,Graduate,Yes,12018,2376,257,360,0,14394,Rural,Chevrolet,N,40,29,1
+LP000440,Male,single,3+,Not Graduate,No,16052,3009,51,360,0,19061,Semiurban,Chevrolet,Y,46,32,0
+LP000441,Female,single,2,Not Graduate,No,4414,9154,173,360,0,13568,Rural,BMW,N,51,41,0
+LP000442,Female,married,2,Not Graduate,Yes,15084,1827,329,360,0,16911,Rural,Toyota,N,50,46,0
+LP000443,Female,single,1,Not Graduate,No,13644,6979,123,360,0,20623,Rural,Chevrolet,Y,58,54,0
+LP000444,Male,married,2,Not Graduate,No,15897,9805,215,360,1,25702,Semiurban,Toyota,Y,58,44,0
+LP000445,Male,married,1,Graduate,Yes,10287,9832,71,300,1,20119,Urban,Toyota,Y,40,23,0
+LP000446,Female,single,2,Not Graduate,No,15691,8569,203,360,0,24260,Semiurban,Toyota,Y,24,14,0
+LP000447,Male,single,0,Graduate,Yes,2228,4285,476,360,1,6513,Urban,BMW,N,20,9,0
+LP000448,Female,married,1,Graduate,No,19249,6910,488,360,0,26159,Rural,BMW,Y,49,48,0
+LP000449,Female,single,2,Not Graduate,No,2198,8561,344,360,1,10759,Urban,Honda,N,48,34,0
+LP000450,Male,married,3+,Not Graduate,Yes,8686,2196,268,360,1,10882,Semiurban,Honda,Y,35,32,0
+LP000451,Female,married,2,Graduate,Yes,16012,3747,206,360,0,19759,Semiurban,Toyota,Y,24,7,0
+LP000452,Male,married,3+,Graduate,No,15423,8843,279,300,1,24266,Rural,Honda,Y,58,53,0
+LP000453,Male,married,3+,Graduate,Yes,18279,5978,69,360,1,24257,Urban,Toyota,Y,18,8,0
+LP000454,Female,married,0,Not Graduate,Yes,8900,5607,90,180,0,14507,Rural,BMW,N,31,30,0
+LP000455,Female,single,1,Graduate,No,5671,769,487,360,0,6440,Rural,BMW,N,49,42,0
+LP000456,Male,single,2,Not Graduate,No,5860,780,197,360,1,6640,Semiurban,BMW,Y,23,13,0
+LP000457,Female,married,0,Not Graduate,No,4002,9908,157,360,1,13910,Urban,Chevrolet,N,56,52,0
+LP000458,Male,married,2,Not Graduate,Yes,18601,6303,452,360,1,24904,Urban,Toyota,N,27,10,0
+LP000459,Male,single,3+,Graduate,Yes,6986,3983,133,360,0,10969,Urban,BMW,Y,24,7,0
+LP000460,Male,single,1,Not Graduate,Yes,9835,9503,416,360,1,19338,Urban,Toyota,Y,43,30,0
+LP000461,,married,2,Not Graduate,Yes,5991,8714,371,360,1,14705,Rural,Honda,N,51,42,0
+LP000462,Female,single,2,Not Graduate,No,12630,521,463,180,1,13151,Rural,Honda,N,47,45,0
+LP000463,Female,married,3+,Not Graduate,Yes,9151,9127,358,360,0,18278,Semiurban,BMW,N,53,45,0
+LP000464,Female,single,2,Not Graduate,No,2667,7569,339,360,0,10236,Rural,Toyota,N,38,36,1
+LP000465,Female,married,2,Graduate,Yes,2562,5784,455,360,0,8346,Rural,BMW,Y,34,24,0
+LP000466,Female,single,3+,Not Graduate,No,12674,4583,372,360,0,17257,Semiurban,Honda,Y,50,39,0
+LP000467,Female,married,0,Not Graduate,No,6229,5946,183,180,1,12175,Semiurban,BMW,N,27,16,0
+LP000468,,single,3+,Graduate,No,10848,4941,256,360,0,15789,Semiurban,Toyota,Y,59,57,0
+LP000469,Male,single,0,Not Graduate,Yes,6834,6267,332,360,1,13101,Rural,Honda,N,29,23,0
+LP000470,Male,married,1,Graduate,No,10424,7128,315,360,1,17552,Rural,Chevrolet,N,33,20,0
+LP000471,Female,single,0,Not Graduate,No,5830,2461,122,360,1,8291,Semiurban,Honda,Y,58,48,0
+LP000472,Female,married,0,Graduate,Yes,8301,685,401,180,1,8986,Semiurban,Chevrolet,N,49,43,0
+LP000473,Female,single,1,Graduate,No,6346,2160,97,360,0,8506,Semiurban,BMW,N,32,23,0
+LP000474,Female,married,0,Not Graduate,Yes,8231,7031,375,360,0,15262,Rural,BMW,Y,44,34,0
+LP000475,Male,single,3+,Not Graduate,Yes,16868,9759,282,360,0,26627,Rural,Toyota,Y,45,31,0
+LP000476,Female,married,0,Not Graduate,No,18837,5341,492,360,0,24178,Urban,Chevrolet,N,34,19,0
+LP000477,Male,single,1,Graduate,No,4039,38,149,300,0,4077,Rural,BMW,N,19,8,0
+LP000478,,married,3+,Graduate,Yes,8556,4875,108,360,1,13431,Rural,Chevrolet,Y,53,36,0
+LP000479,Female,single,1,Graduate,No,13016,1256,307,360,0,14272,Rural,BMW,N,24,12,0
+LP000480,Male,married,1,Not Graduate,Yes,12993,7697,462,360,0,20690,Semiurban,Honda,N,30,26,0
+LP000481,Female,married,2,Graduate,Yes,3042,2196,114,360,0,5238,Rural,BMW,Y,32,29,0
+LP000482,Male,married,2,Graduate,Yes,15464,7165,132,360,0,22629,Semiurban,Toyota,Y,42,29,0
+LP000483,Female,single,1,Not Graduate,No,19075,301,203,360,1,19376,Urban,Honda,Y,40,33,1
+LP000484,Female,married,1,Graduate,Yes,7813,7527,315,360,1,15340,Urban,Toyota,Y,39,31,0
+LP000485,Male,single,1,Graduate,No,19424,6381,358,360,1,25805,Semiurban,Honda,Y,43,41,0
+LP000486,Female,married,2,Not Graduate,No,15307,646,128,360,1,15953,Semiurban,Chevrolet,Y,50,46,0
+LP000487,Female,single,2,Graduate,No,11080,9951,364,360,1,21031,Semiurban,Toyota,N,28,11,0
+LP000488,Male,married,0,Not Graduate,No,19249,8789,199,360,0,28038,Rural,BMW,N,27,27,0
+LP000489,Male,single,0,Not Graduate,Yes,10191,8853,484,360,1,19044,Urban,Chevrolet,Y,42,35,0
+LP000490,Female,single,1,Not Graduate,No,8994,4330,97,360,1,13324,Semiurban,BMW,Y,54,38,1
+LP000491,Female,married,3+,Not Graduate,Yes,5812,9560,454,360,1,15372,Rural,Honda,N,55,39,0
+LP000492,Female,single,3+,Not Graduate,Yes,2824,7003,428,360,0,9827,Urban,Honda,N,58,48,0
+LP000493,Male,single,2,Graduate,No,4641,3537,297,360,0,8178,Rural,BMW,N,41,40,0
+LP000494,Male,married,2,Graduate,Yes,3310,4558,327,360,1,7868,Urban,BMW,Y,57,52,0
+LP000495,Male,single,2,Not Graduate,Yes,8088,6579,405,360,0,14667,Rural,Chevrolet,Y,50,37,0
+LP000496,Male,single,1,Not Graduate,No,6801,8474,147,84,0,15275,Urban,BMW,N,34,32,0
+LP000497,Male,single,3+,Graduate,Yes,16985,9678,463,360,1,26663,Urban,Toyota,Y,41,30,0
+LP000498,Male,married,0,Not Graduate,Yes,13214,4082,74,12,0,17296,Rural,Toyota,Y,54,51,0
+LP000499,Male,single,1,Not Graduate,Yes,6248,4183,333,360,0,10431,Semiurban,BMW,Y,19,8,0
+LP000500,Female,married,0,Not Graduate,Yes,10935,8652,498,360,0,19587,Urban,Toyota,N,49,37,0
+LP000501,Male,single,0,Graduate,No,5209,3754,418,480,1,8963,Semiurban,BMW,N,41,40,0
+LP000502,Female,single,1,Graduate,Yes,14616,1724,350,360,1,16340,Rural,Chevrolet,Y,26,25,0
+LP000503,Female,single,0,Not Graduate,Yes,11076,1376,117,360,1,12452,Semiurban,Toyota,Y,21,7,0
+LP000504,Female,married,3+,Not Graduate,Yes,11650,8706,56,360,0,20356,Semiurban,Toyota,Y,34,18,0
+LP000505,Male,single,0,Graduate,Yes,8030,8894,354,300,1,16924,Semiurban,BMW,Y,34,28,0
+LP000506,Male,single,3+,Graduate,No,11688,1653,186,360,0,13341,Semiurban,Toyota,Y,47,34,0
+LP000507,Male,married,3+,Not Graduate,Yes,16183,2066,213,360,0,18249,Semiurban,Honda,N,57,46,0
+LP000508,,single,3+,Not Graduate,No,2004,22,132,360,0,2026,Urban,Chevrolet,Y,28,12,0
+LP000509,Female,married,2,Graduate,Yes,2714,2460,434,360,1,5174,Urban,Chevrolet,Y,38,25,0
+LP000510,Female,married,0,Graduate,No,3031,5926,187,360,1,8957,Urban,Toyota,Y,38,33,0
+LP000511,Female,single,1,Graduate,No,2323,6251,469,360,1,8574,Rural,Toyota,N,35,30,0
+LP000512,Male,married,1,Not Graduate,No,18812,9496,122,360,1,28308,Semiurban,Honda,N,46,29,0
+LP000513,Male,single,0,Graduate,No,6529,7295,286,360,0,13824,Urban,Honda,Y,41,37,0
+LP000514,Female,married,2,Not Graduate,No,14928,3300,95,180,1,18228,Rural,Toyota,N,27,22,0
+LP000515,Male,married,2,Graduate,Yes,18017,6279,155,360,0,24296,Urban,Toyota,N,34,33,0
+LP000516,Male,single,3+,Graduate,Yes,3605,8553,465,360,1,12158,Urban,Honda,N,35,28,0
+LP000517,Female,married,0,Graduate,Yes,5127,7353,337,480,1,12480,Semiurban,BMW,N,59,45,0
+LP000518,Male,married,0,Graduate,No,14472,3727,311,360,1,18199,Rural,Honda,N,37,23,0
+LP000519,Male,married,1,Not Graduate,Yes,3352,6272,225,360,0,9624,Semiurban,BMW,N,54,44,0
+LP000520,Female,married,0,Not Graduate,No,6410,5995,215,360,0,12405,Semiurban,Chevrolet,Y,35,35,0
+LP000521,Male,married,2,Graduate,No,12503,9476,194,360,0,21979,Urban,Chevrolet,N,34,17,0
+LP000522,Male,single,0,Not Graduate,Yes,15343,514,379,360,0,15857,Semiurban,Honda,N,26,15,0
+LP000523,Female,married,1,Graduate,Yes,13204,448,419,360,0,13652,Rural,BMW,Y,31,20,0
+LP000524,Male,single,3+,Graduate,No,17261,6019,332,360,1,23280,Semiurban,Honda,Y,46,36,0
+LP000525,Female,married,1,Graduate,No,7690,5343,103,360,0,13033,Semiurban,Honda,Y,48,41,0
+LP000526,Male,single,1,Graduate,Yes,19140,8033,227,360,0,27173,Semiurban,BMW,Y,21,15,0
+LP000527,Female,single,3+,Not Graduate,Yes,7145,2520,468,360,0,9665,Urban,Honda,N,35,34,0
+LP000528,Female,married,1,Graduate,Yes,11088,3081,293,360,0,14169,Rural,Chevrolet,N,37,27,0
+LP000529,Male,married,1,Graduate,Yes,13329,1428,390,360,1,14757,Urban,Toyota,N,26,17,0
+LP000530,Female,married,0,Not Graduate,No,9553,3967,176,360,0,13520,Urban,Toyota,N,30,28,0
+LP000531,Male,single,0,Graduate,Yes,4830,6445,458,360,1,11275,Urban,Honda,Y,32,23,0
+LP000532,Male,married,3+,Graduate,Yes,10162,9114,461,360,1,19276,Urban,BMW,N,44,27,1
+LP000533,Female,single,0,Graduate,Yes,8614,2159,416,360,1,10773,Urban,BMW,N,32,19,1
+LP000534,Male,single,0,Not Graduate,No,14823,5132,320,360,0,19955,Rural,Chevrolet,Y,45,28,0
+LP000535,Female,single,1,Graduate,No,2853,2547,181,360,1,5400,Semiurban,BMW,N,54,47,0
+LP000536,Male,married,2,Not Graduate,No,12475,2979,142,360,0,15454,Urban,BMW,N,36,27,0
+LP000537,Male,married,0,Graduate,No,12523,2649,428,360,0,15172,Urban,Chevrolet,N,43,31,0
+LP000538,Female,single,2,Graduate,Yes,2167,8505,122,360,0,10672,Rural,Honda,N,43,36,0
+LP000539,Male,single,0,Not Graduate,No,10837,3083,460,360,0,13920,Rural,Toyota,Y,42,39,0
+LP000540,Male,married,0,Graduate,Yes,15159,1037,459,180,0,16196,Semiurban,Chevrolet,Y,43,40,0
+LP000541,Male,single,3+,Graduate,Yes,5219,3489,452,180,1,8708,Rural,Honda,Y,43,39,0
+LP000542,Female,married,3+,Not Graduate,Yes,8983,7604,297,360,1,16587,Semiurban,Chevrolet,Y,45,45,0
+LP000543,Female,single,3+,Not Graduate,Yes,2039,7544,397,360,0,9583,Urban,Honda,Y,35,19,0
+LP000544,Male,married,2,Not Graduate,No,6464,2634,322,360,1,9098,Urban,Chevrolet,N,49,48,0
+LP000545,Female,single,1,Not Graduate,No,6335,3983,92,360,0,10318,Semiurban,Honda,N,20,13,0
+LP000546,Female,married,0,Not Graduate,No,7542,1778,426,360,1,9320,Rural,Chevrolet,Y,19,13,0
+LP000547,Male,single,0,Graduate,Yes,16337,7902,90,36,1,24239,Semiurban,Honda,Y,50,36,0
+LP000548,Female,married,0,Not Graduate,Yes,8812,5110,219,360,1,13922,Rural,Chevrolet,Y,59,55,1
+LP000549,Female,married,2,Graduate,Yes,6820,5189,483,360,1,12009,Urban,Toyota,N,36,35,0
+LP000550,Male,single,3+,Graduate,Yes,14716,7378,261,360,1,22094,Rural,Toyota,Y,34,28,0
+LP000551,Male,single,1,Graduate,Yes,4279,1124,217,360,0,5403,Semiurban,BMW,N,50,43,0
+LP000552,Male,married,2,Not Graduate,No,18808,697,88,360,0,19505,Semiurban,Honda,N,29,23,0
+LP000553,Male,single,3+,Not Graduate,Yes,3081,2179,418,360,1,5260,Urban,Chevrolet,N,20,14,0
+LP000554,Female,married,2,Graduate,No,14177,9596,294,360,0,23773,Rural,Honda,N,43,30,0
+LP000555,Female,single,1,Not Graduate,Yes,7213,5251,200,180,1,12464,Rural,Toyota,Y,52,35,0
+LP000556,Female,married,3+,Not Graduate,Yes,18139,9235,160,360,0,27374,Rural,Honda,N,25,20,1
+LP000557,Female,married,2,Not Graduate,No,6304,1929,485,360,1,8233,Urban,Chevrolet,N,53,50,0
+LP000558,Female,married,1,Not Graduate,No,19722,1013,96,360,1,20735,Rural,Honda,Y,24,15,0
+LP000559,Male,married,0,Graduate,Yes,11636,226,112,360,1,11862,Semiurban,Chevrolet,N,53,36,0
+LP000560,Male,married,1,Graduate,Yes,1509,7321,274,360,0,8830,Rural,Toyota,N,33,22,0
+LP000561,Female,married,0,Not Graduate,Yes,6624,1828,415,360,0,8452,Urban,Toyota,N,41,26,0
+LP000562,Male,single,2,Graduate,Yes,2515,7909,118,360,1,10424,Rural,Toyota,Y,18,12,0
+LP000563,Male,single,3+,Not Graduate,No,3693,5588,348,360,1,9281,Rural,BMW,N,42,37,0
+LP000564,Female,single,3+,Not Graduate,Yes,9915,2023,481,360,0,11938,Semiurban,Toyota,N,27,23,0
+LP000565,Female,married,2,Graduate,No,15050,4966,339,360,0,20016,Rural,Honda,Y,33,31,0
+LP000566,Male,married,3+,Graduate,Yes,16012,5891,345,360,0,21903,Semiurban,BMW,Y,33,22,0
+LP000567,Female,married,3+,Graduate,No,5658,1080,252,360,0,6738,Semiurban,Toyota,N,25,11,1
+LP000568,Female,married,0,Not Graduate,No,8470,5036,110,360,0,13506,Urban,Honda,N,46,37,0
+LP000569,Male,single,2,Graduate,Yes,8438,2563,483,360,1,11001,Semiurban,Honda,Y,56,41,0
+LP000570,Female,single,1,Not Graduate,No,15272,3292,367,360,0,18564,Semiurban,Honda,N,45,35,0
+LP000571,Male,married,0,Graduate,Yes,19517,3586,363,360,1,23103,Urban,Chevrolet,Y,23,16,1
+LP000572,Male,single,2,Graduate,No,11844,4431,210,360,1,16275,Semiurban,BMW,N,33,31,0
+LP000573,Female,single,0,Not Graduate,Yes,8766,6841,380,360,0,15607,Urban,Honda,Y,37,31,0
+LP000574,Female,married,1,Not Graduate,No,10202,6643,65,480,0,16845,Rural,Chevrolet,N,33,27,0
+LP000575,Male,single,1,Not Graduate,Yes,1884,3959,387,360,1,5843,Urban,Toyota,Y,24,11,0
+LP000576,Female,married,2,Not Graduate,Yes,1904,161,143,84,0,2065,Semiurban,Honda,Y,58,57,0
+LP000577,,single,1,Not Graduate,No,9675,593,353,360,1,10268,Urban,Chevrolet,Y,31,22,0
+LP000578,Female,married,0,Not Graduate,No,16658,3390,187,360,0,20048,Semiurban,Honda,Y,43,35,0
+LP000579,Male,married,1,Not Graduate,No,14263,5997,387,360,0,20260,Rural,BMW,Y,43,28,0
+LP000580,Female,married,0,Not Graduate,No,19884,6354,87,360,0,26238,Urban,BMW,N,31,14,0
+LP000581,Female,married,0,Graduate,Yes,11360,663,176,360,1,12023,Rural,Toyota,N,24,16,0
+LP000582,Female,single,1,Not Graduate,No,7489,9324,324,360,0,16813,Semiurban,Honda,Y,50,35,0
+LP000583,Male,married,2,Not Graduate,Yes,16606,541,213,360,1,17147,Semiurban,Chevrolet,N,43,31,0
+LP000584,Female,married,3+,Graduate,No,19344,5433,492,360,0,24777,Rural,Toyota,N,37,28,0
+LP000585,Female,married,1,Not Graduate,Yes,5136,5093,368,360,1,10229,Urban,Honda,N,20,7,0
+LP000586,Male,single,0,Graduate,Yes,12416,867,126,84,0,13283,Urban,Toyota,N,21,10,0
+LP000587,Male,married,0,Graduate,Yes,6309,8623,223,360,1,14932,Semiurban,Chevrolet,N,43,37,0
+LP000588,Male,single,1,Not Graduate,Yes,14956,5469,436,360,1,20425,Rural,Toyota,N,28,14,0
+LP000589,,married,2,Graduate,No,16944,6256,407,360,1,23200,Rural,Toyota,Y,19,4,1
+LP000590,Male,single,2,Not Graduate,No,7497,9398,370,360,1,16895,Urban,Toyota,N,31,24,0
+LP000591,Male,single,0,Graduate,Yes,3548,1169,425,180,1,4717,Urban,Honda,N,47,38,0
+LP000592,Female,married,0,Graduate,No,13838,830,140,240,1,14668,Urban,Chevrolet,N,29,26,0
+LP000593,,single,2,Graduate,No,18600,1651,287,360,0,20251,Rural,BMW,Y,43,29,1
+LP000594,Female,married,3+,Not Graduate,Yes,6044,1136,313,180,1,7180,Urban,Honda,N,50,37,0
+LP000595,Male,married,1,Not Graduate,No,6476,2810,228,360,1,9286,Urban,BMW,N,30,30,0
+LP000596,Female,married,0,Graduate,No,14275,8667,258,360,1,22942,Semiurban,BMW,N,31,16,0
+LP000597,Male,single,0,Graduate,No,11515,9518,122,360,0,21033,Urban,Honda,Y,41,32,0
+LP000598,Male,single,2,Not Graduate,Yes,4919,1019,439,360,0,5938,Urban,Honda,N,51,49,0
+LP000599,Male,married,1,Not Graduate,No,15930,5237,156,360,0,21167,Rural,Chevrolet,Y,43,39,0
+LP000600,Female,married,2,Graduate,Yes,8739,1283,394,360,1,10022,Rural,Chevrolet,N,38,30,0
+LP000601,Male,single,1,Graduate,No,15989,659,344,180,0,16648,Semiurban,Toyota,Y,45,28,0
+LP000602,Female,married,1,Not Graduate,No,18133,2010,418,360,0,20143,Urban,BMW,Y,53,43,0
+LP000603,Female,married,1,Not Graduate,No,11857,8590,493,360,1,20447,Semiurban,Chevrolet,Y,57,42,0
+LP000604,Female,married,0,Not Graduate,Yes,18654,1733,333,360,1,20387,Rural,Toyota,N,19,18,0
+LP000605,Female,single,3+,Not Graduate,Yes,5863,2125,402,360,0,7988,Semiurban,Chevrolet,Y,59,48,0
+LP000606,Female,single,2,Not Graduate,No,11676,2171,231,180,1,13847,Rural,Honda,Y,26,21,0
+LP000607,Female,single,3+,Graduate,Yes,18961,8266,86,360,1,27227,Semiurban,Chevrolet,Y,40,30,0
+LP000608,Female,married,2,Not Graduate,No,9927,3471,186,360,1,13398,Semiurban,BMW,Y,32,25,0
+LP000609,Female,married,1,Graduate,Yes,10080,9028,387,360,1,19108,Urban,Chevrolet,N,30,19,0
+LP000610,Female,married,0,Not Graduate,Yes,6358,5624,105,360,0,11982,Semiurban,BMW,N,40,39,0
+LP000611,Female,single,3+,Graduate,No,11540,8691,236,180,1,20231,Urban,Honda,N,34,26,0
+LP000612,Male,married,0,Not Graduate,No,16754,8329,390,360,0,25083,Urban,BMW,N,19,5,0
+LP000613,Male,married,2,Not Graduate,No,12970,2097,307,360,0,15067,Urban,Chevrolet,Y,37,36,0
+LP000614,Female,married,0,Graduate,No,2752,5068,494,360,0,7820,Urban,Toyota,N,37,37,0
+LP000615,Female,married,0,Graduate,Yes,8496,6397,107,60,0,14893,Semiurban,Honda,Y,20,11,0
+LP000616,Female,single,3+,Not Graduate,Yes,13673,2757,412,12,1,16430,Rural,Chevrolet,N,29,28,0
+LP000617,Female,single,1,Not Graduate,Yes,6173,3920,172,480,1,10093,Rural,Honda,N,57,46,0
+LP000618,Female,married,0,Not Graduate,No,17281,8186,237,60,1,25467,Rural,Honda,N,19,12,0
+LP000619,Female,single,1,Not Graduate,No,14551,1900,279,480,0,16451,Semiurban,Chevrolet,Y,53,49,0
+LP000620,Male,single,2,Not Graduate,Yes,8381,2610,217,36,0,10991,Urban,Chevrolet,N,31,31,0
+LP000621,Male,married,0,Graduate,No,8449,6900,469,12,0,15349,Rural,Toyota,N,33,19,0
+LP000622,Female,married,3+,Graduate,Yes,11021,1449,163,120,1,12470,Semiurban,Honda,N,36,31,0
+LP000623,Female,single,2,Not Graduate,Yes,9517,8738,301,240,0,18255,Urban,Honda,Y,51,40,1
+LP000624,Female,married,2,Graduate,Yes,8441,5017,156,180,1,13458,Rural,Chevrolet,N,23,16,1
+LP000625,Male,single,3+,Graduate,Yes,11709,7999,86,36,1,19708,Urban,BMW,N,30,18,1
+LP000626,Female,married,0,Graduate,Yes,19215,6052,384,480,1,25267,Rural,Chevrolet,Y,53,53,1
+LP000627,Female,single,0,Not Graduate,No,11050,2096,141,300,1,13146,Rural,Honda,Y,39,29,1
+LP000628,Male,married,2,Graduate,No,6137,8895,67,12,0,15032,Rural,Chevrolet,N,35,35,1
+LP000629,Male,single,0,Not Graduate,No,6354,6404,403,84,1,12758,Urban,Toyota,N,29,22,0
+LP000630,Male,single,1,Graduate,Yes,11820,9817,112,480,0,21637,Semiurban,BMW,N,47,43,0
+LP000631,Female,single,3+,Not Graduate,Yes,6392,3331,199,12,1,9723,Urban,Chevrolet,Y,57,41,1
+LP000632,Female,married,1,Graduate,Yes,8543,7462,188,84,0,16005,Rural,Toyota,Y,24,17,0
+LP000633,Female,single,0,Not Graduate,Yes,18021,5105,235,300,0,23126,Urban,Honda,Y,49,40,0
+LP000634,Female,single,2,Not Graduate,No,5664,2978,234,60,1,8642,Semiurban,Chevrolet,N,36,35,0
+LP000635,Female,married,3+,Graduate,No,9441,2839,254,240,1,12280,Urban,Honda,Y,23,15,0
+LP000636,Female,married,0,Not Graduate,Yes,15888,3384,309,36,1,19272,Semiurban,Toyota,N,37,35,1
+LP000637,Male,single,0,Not Graduate,Yes,7069,685,263,120,0,7754,Semiurban,Honda,Y,44,27,0
+LP000638,Female,single,2,Not Graduate,Yes,5800,7531,305,36,1,13331,Urban,Toyota,Y,54,48,1
+LP000639,Male,married,2,Not Graduate,No,7769,4283,184,120,1,12052,Rural,Toyota,Y,24,10,1
+LP000640,Male,married,1,Not Graduate,No,5318,7736,110,360,0,13054,Semiurban,Toyota,N,22,5,0
+LP000641,Male,married,3+,Not Graduate,No,13515,7710,412,36,1,21225,Urban,Chevrolet,N,28,26,1
+LP000642,Male,married,3+,Not Graduate,Yes,13734,1619,359,120,0,15353,Semiurban,Honda,N,32,19,1
+LP000643,Male,married,2,Not Graduate,Yes,19790,6868,137,60,1,26658,Rural,Honda,N,20,19,0
+LP000644,Female,single,1,Graduate,No,7754,1431,373,240,0,9185,Urban,BMW,Y,22,9,1
+LP000645,Female,married,3+,Graduate,Yes,18644,9067,256,180,0,27711,Urban,BMW,N,40,30,1
+LP000646,Female,single,2,Not Graduate,No,8850,4713,178,36,1,13563,Urban,BMW,Y,54,39,1
+LP000647,Female,single,0,Not Graduate,Yes,16683,9557,360,180,0,26240,Rural,BMW,N,26,19,1
+LP000648,Female,single,3+,Graduate,No,7738,9435,52,60,1,17173,Semiurban,Honda,N,32,26,0
+LP000649,Female,married,1,Graduate,Yes,7590,4998,471,300,1,12588,Urban,Toyota,Y,20,10,1
+LP000650,Male,single,1,Graduate,No,13137,162,291,240,0,13299,Semiurban,Toyota,Y,46,44,0
+LP000651,Male,single,1,Not Graduate,No,14147,1974,170,300,1,16121,Semiurban,Chevrolet,N,23,7,0
+LP000652,Female,married,0,Graduate,No,11411,3291,434,84,0,14702,Rural,Toyota,N,34,21,0
+LP000653,Male,single,3+,Not Graduate,No,9972,8461,151,360,0,18433,Urban,Honda,Y,43,38,1
+LP000654,Female,single,3+,Not Graduate,No,19771,631,87,240,0,20402,Semiurban,Honda,Y,38,31,0
+LP000655,Male,married,0,Graduate,No,4766,905,390,360,0,5671,Urban,Honda,Y,25,21,0
+LP000656,Female,single,3+,Not Graduate,Yes,2166,2014,462,180,0,4180,Urban,Chevrolet,Y,38,31,0
+LP000657,Male,single,0,Not Graduate,Yes,5688,9833,182,60,0,15521,Rural,BMW,Y,28,27,0
+LP000658,Female,single,0,Not Graduate,Yes,18555,7896,251,480,0,26451,Urban,Toyota,N,55,41,1
+LP000659,Female,married,0,Not Graduate,No,11661,204,397,360,0,11865,Urban,Honda,N,25,14,1
+LP000660,Male,married,1,Graduate,No,12814,581,70,360,1,13395,Semiurban,Honda,N,59,43,0
+LP000661,Male,married,3+,Graduate,Yes,14391,5675,291,120,1,20066,Rural,BMW,N,41,41,0
+LP000662,Female,single,0,Not Graduate,No,6277,9032,158,480,0,15309,Urban,Honda,Y,52,38,0
+LP000663,Female,single,3+,Not Graduate,No,5400,5347,352,120,1,10747,Semiurban,Toyota,Y,31,18,0
+LP000664,Female,married,1,Graduate,No,15216,9911,133,360,1,25127,Rural,Chevrolet,Y,31,16,0
+LP000665,Female,single,0,Not Graduate,No,8481,2643,132,480,1,11124,Rural,Honda,N,27,19,1
+LP000666,Female,single,2,Graduate,No,7876,8017,340,84,1,15893,Semiurban,Toyota,Y,29,29,1
+LP000667,Male,married,1,Not Graduate,Yes,18407,2297,118,60,1,20704,Semiurban,Honda,Y,55,39,1
+LP000668,Male,married,2,Not Graduate,Yes,11660,874,178,60,1,12534,Semiurban,BMW,N,51,39,1
+LP000669,Female,single,3+,Graduate,Yes,15624,5560,245,84,0,21184,Semiurban,Honda,N,58,54,0
+LP000670,Male,single,3+,Graduate,Yes,17782,689,189,300,1,18471,Semiurban,Honda,N,27,18,1
+LP000671,Male,single,1,Graduate,Yes,11988,4000,493,360,1,15988,Urban,Chevrolet,Y,34,29,1
+LP000672,Male,married,3+,Graduate,No,6740,9614,332,84,1,16354,Urban,BMW,Y,34,22,0
+LP000673,Female,married,2,Not Graduate,No,11953,671,361,360,1,12624,Rural,BMW,N,20,20,0
+LP000674,Female,married,0,Graduate,No,11978,7927,283,84,0,19905,Urban,Chevrolet,N,48,34,1
+LP000675,Male,married,0,Not Graduate,No,13894,1171,72,300,0,15065,Urban,Honda,Y,18,5,1
+LP000676,Female,single,0,Graduate,Yes,5932,5591,202,60,0,11523,Urban,Toyota,N,29,22,0
+LP000677,Female,married,1,Graduate,Yes,15068,9135,326,60,0,24203,Semiurban,BMW,Y,56,47,0
+LP000678,Female,married,3+,Not Graduate,Yes,15678,6342,110,180,1,22020,Rural,BMW,N,21,13,1
+LP000679,Female,married,2,Graduate,No,19160,1449,368,36,0,20609,Rural,Honda,N,59,43,1
+LP000680,Female,married,3+,Graduate,Yes,1802,2539,427,120,0,4341,Rural,Honda,N,30,22,0
+LP000681,Male,married,3+,Graduate,No,18522,3959,101,12,0,22481,Rural,BMW,Y,51,49,0
+LP000682,Female,single,3+,Graduate,Yes,1555,6285,393,60,0,7840,Urban,Honda,Y,59,49,0
+LP000683,Female,single,0,Not Graduate,Yes,14513,5432,202,480,1,19945,Urban,Toyota,N,38,27,0
+LP000684,Female,married,2,Not Graduate,No,10217,4260,286,12,0,14477,Semiurban,BMW,Y,39,30,0
+LP000685,Male,single,2,Graduate,No,9650,2361,360,480,1,12011,Rural,Toyota,N,21,5,0
+LP000686,Female,married,3+,Graduate,Yes,3625,6164,351,12,0,9789,Urban,Toyota,N,35,19,0
+LP000687,Male,married,0,Graduate,Yes,12979,3670,81,480,1,16649,Urban,Honda,Y,22,12,0
+LP000688,Female,single,0,Not Graduate,No,17245,1753,104,12,1,18998,Semiurban,Toyota,Y,36,33,1
+LP000689,Male,single,2,Not Graduate,Yes,18248,8100,401,120,0,26348,Semiurban,Honda,Y,19,13,1
+LP000690,Female,married,0,Not Graduate,Yes,8309,1938,438,12,0,10247,Semiurban,Chevrolet,Y,29,16,0
+LP000691,Female,married,0,Not Graduate,No,6121,8562,85,60,0,14683,Urban,Honda,N,34,28,0
+LP000692,Male,married,0,Graduate,Yes,16534,5976,159,240,0,22510,Urban,Toyota,Y,27,20,0
+LP000693,Male,single,1,Graduate,No,15123,6588,226,84,1,21711,Semiurban,Chevrolet,Y,51,51,0
+LP000694,Female,married,3+,Graduate,Yes,6626,8616,411,360,1,15242,Rural,Honda,N,23,20,1
+LP000695,Female,married,2,Not Graduate,No,6622,6304,363,60,0,12926,Semiurban,Toyota,N,25,14,1
+LP000696,Female,married,2,Graduate,Yes,19530,7345,344,120,0,26875,Semiurban,BMW,N,28,26,0
+LP000697,Female,single,1,Not Graduate,No,18802,7875,385,240,1,26677,Semiurban,BMW,N,29,17,0
+LP000698,Male,married,3+,Not Graduate,Yes,7370,9086,146,84,0,16456,Semiurban,Honda,Y,26,21,1
+LP000699,Male,married,2,Graduate,No,3031,6633,418,180,1,9664,Urban,Honda,Y,19,9,0
+LP000700,Male,single,0,Graduate,Yes,9672,597,262,180,0,10269,Rural,BMW,N,25,22,1
+LP000701,Female,married,2,Graduate,Yes,9173,3062,366,300,1,12235,Semiurban,Toyota,N,28,13,1
+LP000702,Female,married,0,Not Graduate,Yes,8382,2336,186,240,1,10718,Rural,Toyota,Y,53,47,0
+LP000703,Female,single,1,Not Graduate,Yes,3406,9879,55,180,1,13285,Rural,Toyota,Y,27,17,1
+LP000704,Female,married,0,Graduate,Yes,4586,572,158,12,1,5158,Rural,Honda,Y,38,38,1
+LP000705,Male,single,2,Graduate,Yes,15003,7521,84,12,1,22524,Semiurban,Chevrolet,Y,37,31,0
+LP000706,Female,single,2,Not Graduate,Yes,9652,6171,88,12,0,15823,Urban,Chevrolet,Y,25,14,1
+LP000707,Female,married,2,Graduate,Yes,7250,7097,199,84,1,14347,Semiurban,Chevrolet,N,53,47,0
+LP000708,Male,married,1,Not Graduate,Yes,14272,2090,474,360,0,16362,Rural,Chevrolet,N,46,40,0
+LP000709,Female,married,1,Not Graduate,No,11767,6566,167,360,1,18333,Rural,Chevrolet,N,59,50,1
+LP000710,Male,married,3+,Graduate,No,2562,4624,310,180,1,7186,Urban,Honda,N,29,14,0
+LP000711,Female,single,2,Graduate,Yes,19860,1633,475,60,0,21493,Semiurban,Honda,Y,31,24,0
+LP000712,Male,married,0,Graduate,No,19180,1517,136,12,0,20697,Rural,Chevrolet,N,38,30,0
+LP000713,Male,single,1,Graduate,Yes,7729,3648,125,36,0,11377,Urban,Honda,Y,39,31,1
+LP000714,Female,married,2,Not Graduate,Yes,18009,1537,463,480,0,19546,Rural,Honda,Y,38,37,0
+LP000715,Male,married,2,Not Graduate,No,16647,3137,362,84,1,19784,Urban,Chevrolet,Y,47,35,1
+LP000716,Male,married,1,Not Graduate,Yes,6132,6985,432,180,0,13117,Urban,Toyota,Y,56,44,0
+LP000717,Male,single,3+,Graduate,Yes,7788,97,263,480,1,7885,Semiurban,Honda,Y,37,34,0
+LP000718,Female,married,1,Not Graduate,No,5096,3750,334,360,0,8846,Rural,Toyota,Y,41,30,0
+LP000719,Female,married,1,Graduate,No,12975,8535,288,12,0,21510,Semiurban,Honda,Y,40,24,0
+LP000720,Male,married,0,Graduate,Yes,7668,8174,214,360,1,15842,Rural,Honda,N,24,23,0
+LP000721,Female,married,0,Graduate,No,11295,8103,136,300,1,19398,Semiurban,Chevrolet,Y,26,14,1
+LP000722,Male,single,3+,Graduate,No,9061,5413,190,480,0,14474,Rural,Honda,N,18,1,1
+LP000723,Male,married,2,Graduate,Yes,9758,4666,209,36,1,14424,Semiurban,BMW,N,43,29,0
+LP000724,Female,single,1,Graduate,No,18116,610,95,84,1,18726,Urban,BMW,Y,55,48,1
+LP000725,Female,single,3+,Not Graduate,No,7871,1727,421,60,1,9598,Rural,Chevrolet,Y,55,41,0
+LP000726,Male,single,0,Graduate,Yes,15869,1854,161,300,1,17723,Rural,Toyota,N,39,39,0
+LP000727,Male,single,1,Not Graduate,No,14410,5055,456,240,1,19465,Urban,Toyota,N,27,18,1
+LP000728,Male,single,2,Not Graduate,No,9443,2324,94,180,1,11767,Semiurban,Toyota,N,23,12,0
+LP000729,Male,single,0,Graduate,Yes,13699,9369,450,240,1,23068,Rural,BMW,N,34,30,0
+LP000730,Female,married,0,Graduate,Yes,17228,9283,296,300,1,26511,Rural,Toyota,Y,55,47,1
+LP000731,Male,single,0,Graduate,Yes,8238,5774,153,480,0,14012,Semiurban,Toyota,Y,41,34,0
+LP000732,Male,single,3+,Not Graduate,No,17413,6519,134,360,1,23932,Urban,Chevrolet,Y,27,12,0
+LP000733,Male,single,2,Graduate,Yes,3972,1749,499,360,0,5721,Semiurban,Toyota,N,25,12,0
+LP000734,Male,married,1,Not Graduate,Yes,17179,781,183,12,1,17960,Semiurban,BMW,Y,38,26,1
+LP000735,Male,married,3+,Graduate,No,3261,7548,157,36,1,10809,Semiurban,BMW,N,23,11,0
+LP000736,Female,single,3+,Graduate,Yes,11667,6823,67,360,1,18490,Rural,BMW,Y,38,34,0
+LP000737,Female,married,3+,Not Graduate,Yes,12054,2105,143,84,1,14159,Urban,Chevrolet,N,56,41,0
+LP000738,Female,single,0,Not Graduate,Yes,18760,3867,199,180,0,22627,Urban,Chevrolet,Y,41,31,0
+LP000739,Male,single,2,Graduate,Yes,15777,7193,295,180,0,22970,Semiurban,Honda,Y,50,46,0
+LP000740,Female,married,3+,Not Graduate,No,5312,4976,338,300,1,10288,Rural,Toyota,N,35,23,0
+LP000741,Female,single,1,Not Graduate,Yes,19344,2113,463,300,0,21457,Semiurban,Chevrolet,N,45,35,0
+LP000742,Male,married,2,Not Graduate,Yes,19617,5879,258,180,1,25496,Rural,BMW,N,49,47,1
+LP000743,Male,married,1,Not Graduate,No,3105,3970,175,120,1,7075,Rural,BMW,N,29,15,1
+LP000744,Male,single,2,Not Graduate,Yes,7122,9259,284,300,0,16381,Rural,Chevrolet,N,59,53,0
+LP000745,Female,single,1,Graduate,No,8267,7264,465,36,0,15531,Rural,Chevrolet,Y,44,38,0
+LP000746,Female,married,0,Graduate,No,13113,1577,475,120,1,14690,Urban,Chevrolet,N,27,22,0
+LP000747,Male,single,3+,Not Graduate,No,12089,9203,171,240,1,21292,Rural,Honda,Y,59,57,1
+LP000748,Female,single,1,Graduate,Yes,15418,2274,187,120,0,17692,Rural,BMW,Y,49,37,0
+LP000749,Male,single,2,Graduate,No,14546,4869,164,120,1,19415,Semiurban,Honda,Y,59,53,0
+LP000750,Female,married,3+,Not Graduate,No,4090,6744,469,300,0,10834,Semiurban,Honda,Y,43,39,1
+LP000751,Female,married,3+,Graduate,No,18947,2426,211,12,1,21373,Urban,Toyota,Y,42,25,1
+LP000752,Female,single,2,Not Graduate,Yes,5824,5546,250,240,1,11370,Semiurban,BMW,N,28,21,1
+LP000753,Male,married,1,Not Graduate,Yes,12287,6852,283,36,0,19139,Rural,BMW,N,40,24,1
+LP000754,Male,married,0,Graduate,Yes,10611,2551,77,120,0,13162,Semiurban,Chevrolet,Y,51,51,1
+LP000755,Male,married,0,Not Graduate,Yes,6842,6411,60,180,0,13253,Urban,Chevrolet,Y,57,44,0
+LP000756,Female,married,1,Not Graduate,Yes,17889,7,255,360,1,17896,Semiurban,Toyota,N,40,24,0
+LP000757,Female,married,3+,Not Graduate,Yes,10159,8087,216,360,1,18246,Semiurban,Honda,N,46,37,0
+LP000758,Male,single,3+,Not Graduate,Yes,15543,2555,296,60,1,18098,Urban,Chevrolet,Y,48,37,0
+LP000759,Female,single,3+,Not Graduate,No,10337,475,96,60,1,10812,Urban,Chevrolet,N,24,9,1
+LP000760,Male,single,3+,Graduate,No,1617,5416,295,180,0,7033,Rural,BMW,N,57,44,0
+LP000761,Male,married,1,Graduate,No,15417,8676,176,36,1,24093,Semiurban,BMW,N,50,35,0
+LP000762,Female,married,3+,Not Graduate,No,15809,7239,196,60,1,23048,Rural,Chevrolet,Y,38,31,0
+LP000763,Female,single,2,Not Graduate,Yes,14734,6710,167,60,1,21444,Semiurban,BMW,N,19,10,0
+LP000764,Female,married,3+,Graduate,No,7060,5000,448,36,0,12060,Semiurban,Toyota,Y,35,19,0
+LP000765,Male,single,0,Not Graduate,No,2346,4654,431,240,1,7000,Rural,Chevrolet,Y,50,33,0
+LP000766,Male,single,3+,Graduate,No,12454,8078,461,36,1,20532,Semiurban,BMW,Y,54,39,0
+LP000767,Male,single,1,Not Graduate,No,15203,6063,201,360,0,21266,Semiurban,Toyota,Y,51,35,1
+LP000768,Male,married,0,Not Graduate,Yes,16885,2285,121,180,1,19170,Semiurban,BMW,Y,37,22,1
+LP000769,Female,married,1,Not Graduate,Yes,15246,5223,412,480,1,20469,Urban,BMW,N,52,45,1
+LP000770,Female,single,1,Not Graduate,Yes,7969,6971,186,480,0,14940,Rural,BMW,Y,35,30,1
+LP000771,Male,single,0,Not Graduate,No,10833,3525,224,36,1,14358,Urban,Chevrolet,Y,41,36,1
+LP000772,Male,single,1,Not Graduate,Yes,18108,2822,338,300,1,20930,Rural,Honda,Y,25,17,0
+LP000773,Female,single,1,Not Graduate,No,14319,4943,495,300,1,19262,Rural,BMW,N,47,44,0
+LP000774,Male,married,3+,Graduate,Yes,5708,6530,68,60,0,12238,Semiurban,Toyota,N,27,16,0
+LP000775,Male,married,2,Graduate,Yes,7783,258,244,84,1,8041,Rural,Chevrolet,N,40,29,1
+LP000776,Female,single,1,Graduate,Yes,3548,282,379,60,1,3830,Urban,Chevrolet,N,28,12,0
+LP000777,Female,single,1,Not Graduate,Yes,7733,1898,473,120,0,9631,Urban,Toyota,N,19,5,1
+LP000778,Male,married,1,Not Graduate,Yes,14441,4135,224,180,0,18576,Urban,BMW,N,43,35,1
+LP000779,Male,married,3+,Not Graduate,No,14107,6629,498,360,1,20736,Rural,Honda,N,53,47,1
+LP000780,Male,single,2,Not Graduate,Yes,11265,3200,462,12,1,14465,Urban,BMW,Y,50,41,0
+LP000781,Male,single,0,Not Graduate,No,3328,5110,483,180,1,8438,Rural,Toyota,Y,30,15,1
+LP000782,Male,single,3+,Not Graduate,No,3417,7167,403,240,1,10584,Urban,Chevrolet,N,57,46,0
+LP000783,Female,married,3+,Not Graduate,No,8488,612,190,360,0,9100,Urban,Honda,Y,42,36,0
+LP000784,Female,married,2,Graduate,No,19910,687,295,180,1,20597,Rural,Chevrolet,Y,21,4,0
+LP000785,Female,married,2,Not Graduate,No,16094,3690,434,12,0,19784,Urban,Toyota,N,59,45,0
+LP000786,Female,single,3+,Graduate,Yes,14477,8804,467,36,0,23281,Semiurban,BMW,Y,36,31,1
+LP000787,Female,single,0,Graduate,Yes,1509,2307,142,480,1,3816,Rural,Honda,Y,35,24,1
+LP000788,Female,married,3+,Not Graduate,Yes,18144,7133,481,480,1,25277,Rural,Chevrolet,N,54,44,1
+LP000789,Male,married,2,Not Graduate,Yes,11365,6509,288,84,0,17874,Rural,Chevrolet,Y,47,45,0
+LP000790,Male,single,0,Graduate,No,3719,9973,254,360,0,13692,Semiurban,Chevrolet,N,36,35,0
+LP000791,Female,married,2,Graduate,Yes,8541,5906,97,240,1,14447,Rural,BMW,N,40,35,0
+LP000792,Male,married,0,Not Graduate,Yes,19944,2591,482,36,0,22535,Urban,Honda,Y,33,29,0
+LP000793,Female,single,1,Not Graduate,No,6787,7183,294,60,1,13970,Urban,BMW,Y,18,1,1
+LP000794,Male,married,2,Graduate,No,3119,5248,369,300,1,8367,Urban,BMW,Y,29,14,1
+LP000795,Female,single,2,Not Graduate,Yes,10012,8766,366,60,0,18778,Rural,BMW,N,41,34,1
+LP000796,Male,single,3+,Not Graduate,Yes,2842,5108,462,480,0,7950,Urban,Toyota,N,51,41,0
+LP000797,Male,single,2,Not Graduate,No,12068,3604,344,84,1,15672,Rural,Toyota,N,25,16,1
+LP000798,Female,single,2,Graduate,Yes,19878,669,177,480,0,20547,Urban,Toyota,Y,35,24,0
+LP000799,Female,single,1,Graduate,Yes,15731,4364,393,12,1,20095,Semiurban,Honda,Y,22,17,0
+LP000800,Male,single,2,Graduate,Yes,4990,7329,331,84,1,12319,Semiurban,BMW,N,43,39,1
+LP000801,Male,single,1,Not Graduate,Yes,10810,1283,66,480,1,12093,Semiurban,BMW,Y,47,39,0
+LP000802,Female,married,1,Not Graduate,No,9484,923,120,180,0,10407,Semiurban,Toyota,Y,30,15,0
+LP000803,Male,single,1,Graduate,No,19488,1125,318,240,1,20613,Rural,BMW,N,36,23,0
+LP000804,Male,single,1,Graduate,No,13719,1529,374,84,1,15248,Urban,BMW,N,46,39,0
+LP000805,Male,married,0,Graduate,Yes,1735,9786,331,12,1,11521,Semiurban,Chevrolet,Y,20,7,0
+LP000806,Male,married,3+,Not Graduate,Yes,11661,8438,354,180,1,20099,Rural,BMW,N,43,37,1
+LP000807,Male,married,0,Graduate,Yes,3408,3711,56,120,1,7119,Semiurban,Chevrolet,Y,57,53,1
+LP000808,Female,single,2,Graduate,Yes,10067,8004,363,120,1,18071,Semiurban,BMW,N,29,12,0
+LP000809,Male,married,0,Not Graduate,Yes,5030,9752,354,180,1,14782,Rural,Honda,N,19,18,0
+LP000810,Male,single,0,Not Graduate,No,6756,6274,152,60,1,13030,Rural,Toyota,N,28,18,1
+LP000811,Female,single,2,Not Graduate,Yes,9662,3864,358,300,1,13526,Urban,Chevrolet,Y,45,38,0
+LP000812,Male,single,2,Graduate,Yes,6915,7833,242,36,1,14748,Urban,Toyota,Y,35,35,1
+LP000813,Female,single,2,Not Graduate,No,4891,6788,290,180,1,11679,Semiurban,Chevrolet,N,30,19,0
+LP000814,Female,married,0,Not Graduate,Yes,12657,226,111,300,0,12883,Semiurban,Chevrolet,N,54,53,1
+LP000815,Male,married,0,Graduate,No,7451,264,66,120,1,7715,Urban,Chevrolet,N,39,22,1
+LP000816,Female,single,2,Not Graduate,No,9507,9587,220,300,1,19094,Urban,Honda,Y,29,23,1
+LP000817,Female,single,3+,Graduate,No,10564,645,74,36,1,11209,Rural,BMW,N,19,3,1
+LP000818,Male,single,3+,Graduate,No,17024,7544,300,120,0,24568,Urban,Chevrolet,N,54,41,0
+LP000819,Female,married,1,Not Graduate,No,1577,5569,302,12,1,7146,Urban,Honda,N,24,18,1
+LP000820,Female,single,2,Not Graduate,Yes,9077,2990,436,300,0,12067,Semiurban,Chevrolet,N,43,41,1
+LP000821,Male,single,1,Not Graduate,No,18484,2504,256,360,1,20988,Urban,BMW,Y,43,38,1
+LP000822,Female,married,3+,Not Graduate,No,15560,9346,78,120,1,24906,Semiurban,Chevrolet,Y,41,40,1
+LP000823,Female,married,1,Not Graduate,Yes,18949,587,166,480,0,19536,Urban,Honda,N,29,13,0
+LP000824,Female,single,2,Not Graduate,Yes,12035,9177,465,120,1,21212,Rural,BMW,Y,33,22,1
+LP000825,Female,married,2,Graduate,No,11010,4079,331,240,0,15089,Urban,Honda,Y,40,29,1
+LP000826,Female,married,2,Graduate,Yes,8443,3348,429,84,0,11791,Urban,BMW,Y,57,41,1
+LP000827,Female,single,0,Not Graduate,Yes,13454,6299,193,60,1,19753,Urban,BMW,N,26,17,1
+LP000828,Female,married,1,Graduate,No,9304,3831,74,360,1,13135,Semiurban,Toyota,Y,49,47,0
+LP000829,Male,single,3+,Not Graduate,No,8065,9433,359,36,1,17498,Rural,Toyota,Y,32,15,1
+LP000830,Male,married,3+,Graduate,Yes,7484,8381,205,300,1,15865,Urban,Toyota,Y,54,42,1
+LP000831,Female,single,3+,Graduate,No,6170,9172,122,84,0,15342,Semiurban,BMW,N,30,19,1
+LP000832,Female,single,0,Graduate,No,10684,9890,169,12,0,20574,Rural,Chevrolet,N,22,6,1
+LP000833,Male,single,0,Not Graduate,Yes,3692,1715,361,120,1,5407,Semiurban,Honda,Y,28,25,0
+LP000834,Female,married,2,Graduate,No,2748,6450,370,12,0,9198,Semiurban,Honda,Y,27,18,1
+LP000835,Female,single,3+,Not Graduate,No,12746,5433,142,300,0,18179,Rural,Honda,N,30,20,0
+LP000836,Male,married,0,Graduate,No,14290,1098,135,12,1,15388,Urban,Toyota,N,58,53,1
+LP000837,Female,single,2,Graduate,No,19881,7096,385,60,0,26977,Semiurban,BMW,Y,32,27,0
+LP000838,Male,single,3+,Graduate,No,5187,2326,474,36,0,7513,Semiurban,Toyota,Y,59,51,0
+LP000839,Female,married,1,Graduate,Yes,5518,9087,413,36,1,14605,Urban,Chevrolet,N,24,10,0
+LP000840,Male,single,2,Graduate,Yes,12802,6416,484,120,0,19218,Urban,BMW,N,57,56,0
+LP000841,Female,single,0,Not Graduate,No,3470,6980,167,60,1,10450,Rural,Honda,Y,45,42,0
+LP000842,Female,married,0,Not Graduate,Yes,9889,6763,282,120,0,16652,Rural,Toyota,N,49,45,0
+LP000843,Male,single,2,Graduate,No,19086,1674,248,36,1,20760,Rural,Toyota,Y,52,36,1
+LP000844,Male,single,2,Graduate,No,16874,7950,255,180,0,24824,Urban,Chevrolet,Y,32,25,0
+LP000845,Female,single,0,Graduate,No,7288,9122,462,240,0,16410,Semiurban,Chevrolet,Y,53,46,1
+LP000846,Female,single,1,Graduate,No,6908,8915,388,360,1,15823,Semiurban,Toyota,N,38,27,0
+LP000847,Male,married,3+,Not Graduate,No,10946,6049,196,300,1,16995,Rural,Chevrolet,Y,23,16,1
+LP000848,Male,married,1,Graduate,Yes,2422,1089,499,480,1,3511,Urban,Honda,Y,18,16,1
+LP000849,Female,single,2,Not Graduate,Yes,1919,4578,474,84,1,6497,Semiurban,Chevrolet,N,21,4,1
+LP000850,Female,married,1,Graduate,No,12289,9127,478,12,0,21416,Rural,Chevrolet,N,28,14,1
+LP000851,Male,single,0,Not Graduate,Yes,2620,155,320,240,0,2775,Semiurban,Toyota,Y,43,38,0
+LP000852,Male,married,2,Graduate,No,12760,9262,436,360,0,22022,Semiurban,Toyota,Y,54,39,0
+LP000853,Female,single,3+,Graduate,Yes,18834,1958,188,180,1,20792,Urban,BMW,N,40,33,1
+LP000854,Female,single,0,Not Graduate,No,3836,6344,230,180,0,10180,Urban,BMW,N,46,31,1
+LP000855,Female,single,0,Graduate,Yes,6873,5779,479,240,0,12652,Semiurban,Toyota,N,38,21,1
+LP000856,Female,single,3+,Graduate,No,3743,6144,79,480,1,9887,Rural,Chevrolet,Y,44,29,0
+LP000857,Male,single,3+,Graduate,No,6112,5063,106,120,1,11175,Urban,Chevrolet,Y,56,46,1
+LP000858,Female,single,1,Not Graduate,Yes,15446,3830,281,300,0,19276,Semiurban,BMW,Y,57,51,0
+LP000859,Male,married,2,Graduate,Yes,19749,9046,195,36,1,28795,Urban,BMW,N,30,14,1
+LP000860,Male,single,3+,Graduate,No,12604,8831,484,84,0,21435,Urban,BMW,Y,40,24,0
+LP000861,Male,married,3+,Not Graduate,Yes,14929,9794,433,300,0,24723,Urban,Honda,N,33,22,0
+LP000862,Female,single,2,Not Graduate,No,7871,6659,97,84,1,14530,Semiurban,Honda,Y,47,35,1
+LP000863,Male,married,3+,Not Graduate,Yes,7859,441,243,84,0,8300,Rural,BMW,N,21,12,0
+LP000864,Female,married,3+,Graduate,Yes,9363,6040,273,180,1,15403,Rural,Chevrolet,Y,57,51,1
+LP000865,Male,married,1,Graduate,No,4728,5925,185,480,1,10653,Rural,BMW,Y,33,20,1
+LP000866,Female,single,0,Graduate,Yes,15882,7358,71,36,0,23240,Urban,Honda,N,48,48,0
+LP000867,Male,single,0,Not Graduate,Yes,4391,4628,55,84,0,9019,Semiurban,Chevrolet,N,59,43,1
+LP000868,Female,married,0,Graduate,No,5256,6370,253,480,0,11626,Urban,Honda,Y,42,39,1
+LP000869,Female,single,0,Graduate,Yes,17270,9528,288,300,1,26798,Rural,Chevrolet,N,29,25,0
+LP000870,Female,married,3+,Not Graduate,No,17978,948,234,240,0,18926,Rural,Honda,N,43,37,0
+LP000871,Male,single,2,Not Graduate,No,4174,8179,409,480,1,12353,Semiurban,Chevrolet,Y,54,45,0
+LP000872,Male,married,2,Not Graduate,No,8398,6115,341,300,1,14513,Urban,Chevrolet,N,50,34,0
+LP000873,Female,married,1,Not Graduate,No,11647,459,384,36,0,12106,Rural,Chevrolet,Y,45,39,1
+LP000874,Female,single,1,Not Graduate,No,2293,7568,269,300,1,9861,Semiurban,Chevrolet,Y,26,26,0
+LP000875,Female,married,3+,Graduate,Yes,3616,4646,165,300,0,8262,Urban,Toyota,N,29,23,0
+LP000876,Male,single,2,Not Graduate,No,7279,392,362,240,0,7671,Urban,Honda,N,22,12,0
+LP000877,Female,married,2,Graduate,No,13798,1787,98,180,0,15585,Rural,Honda,Y,45,37,1
+LP000878,Male,married,0,Graduate,Yes,15653,7374,222,120,0,23027,Rural,Toyota,Y,52,41,0
+LP000879,Female,single,3+,Not Graduate,Yes,12611,1138,131,300,0,13749,Urban,Chevrolet,Y,22,20,1
+LP000880,Female,single,3+,Not Graduate,Yes,12289,4741,371,180,0,17030,Urban,Chevrolet,Y,51,48,0
+LP000881,Male,single,0,Not Graduate,No,12897,7418,382,120,0,20315,Rural,Honda,Y,51,48,1
+LP000882,Male,married,3+,Graduate,No,14499,6362,94,240,1,20861,Urban,Toyota,Y,30,18,1
+LP000883,Female,single,3+,Not Graduate,No,2314,2454,384,84,0,4768,Rural,Chevrolet,N,56,47,1
+LP000884,Male,married,1,Not Graduate,Yes,18229,9658,69,300,1,27887,Urban,Chevrolet,N,59,55,1
+LP000885,Male,married,2,Not Graduate,No,12041,3674,497,120,1,15715,Rural,Chevrolet,N,31,25,0
+LP000886,Male,single,3+,Not Graduate,Yes,3943,1377,270,180,1,5320,Semiurban,BMW,Y,28,13,1
+LP000887,Female,single,1,Not Graduate,No,11957,6701,172,60,0,18658,Rural,Toyota,N,59,59,1
+LP000888,Male,married,2,Graduate,Yes,11880,2597,283,60,1,14477,Rural,Chevrolet,Y,55,44,0
+LP000889,Female,married,0,Graduate,No,9283,141,270,360,1,9424,Semiurban,BMW,Y,21,20,0
+LP000890,Male,single,1,Graduate,No,12973,2659,372,120,0,15632,Urban,Toyota,N,50,44,1
+LP000891,Female,single,1,Not Graduate,No,18868,4596,388,120,0,23464,Semiurban,Chevrolet,Y,24,14,1
+LP000892,Male,single,2,Not Graduate,Yes,16828,9031,52,180,1,25859,Rural,Honda,Y,58,46,1
+LP000893,Female,single,0,Not Graduate,Yes,2327,5661,231,84,0,7988,Urban,BMW,Y,25,24,0
+LP000894,Female,single,1,Graduate,No,8647,6142,255,360,0,14789,Semiurban,BMW,Y,54,48,0
+LP000895,Male,married,3+,Not Graduate,No,5951,5626,369,12,0,11577,Urban,Chevrolet,Y,27,13,1
+LP000896,Male,married,3+,Not Graduate,No,16843,8787,89,60,0,25630,Urban,Chevrolet,Y,32,22,0
+LP000897,Female,married,3+,Not Graduate,Yes,15135,8472,108,36,1,23607,Semiurban,BMW,N,55,54,0
+LP000898,Female,married,0,Graduate,No,7459,423,488,60,0,7882,Urban,Honda,Y,32,26,0
+LP000899,Male,single,1,Not Graduate,No,1626,6999,111,480,0,8625,Semiurban,Honda,Y,22,19,0
+LP000900,Male,single,3+,Graduate,No,10295,4249,181,480,0,14544,Rural,Toyota,Y,46,36,1
+LP000901,Male,single,0,Not Graduate,No,13141,1750,109,84,1,14891,Urban,Chevrolet,Y,36,35,1
+LP000902,Female,married,3+,Graduate,Yes,8696,4757,421,480,1,13453,Rural,Honda,N,27,12,0
+LP000903,Male,married,2,Graduate,Yes,13059,1967,380,300,0,15026,Rural,Toyota,N,29,23,0
+LP000904,Male,single,1,Graduate,No,4868,4088,171,120,0,8956,Urban,Honda,Y,21,9,1
+LP000905,Male,single,1,Not Graduate,No,5297,4178,156,120,1,9475,Semiurban,Chevrolet,Y,48,44,1
+LP000906,Female,married,0,Not Graduate,Yes,16614,7789,145,12,0,24403,Urban,Toyota,Y,35,19,0
+LP000907,Female,married,0,Graduate,Yes,15218,2946,396,360,0,18164,Rural,Toyota,N,33,22,1
+LP000908,Male,single,1,Graduate,No,3292,9641,463,180,1,12933,Rural,Toyota,N,57,51,0
+LP000909,Female,single,3+,Not Graduate,Yes,12553,5394,284,60,0,17947,Semiurban,Honda,N,53,48,1
+LP000910,Male,married,3+,Not Graduate,Yes,4976,7880,435,240,0,12856,Urban,Chevrolet,N,42,35,0
+LP000911,Female,single,2,Graduate,No,4917,5075,111,12,1,9992,Rural,Toyota,Y,40,28,1
+LP000912,Male,single,3+,Not Graduate,Yes,3145,7230,305,240,1,10375,Rural,BMW,N,29,25,0
+LP000913,Male,single,0,Not Graduate,Yes,16255,1531,98,360,0,17786,Rural,Chevrolet,N,51,50,1
+LP000914,Female,married,0,Not Graduate,No,4572,2990,442,60,1,7562,Semiurban,BMW,Y,53,45,1
+LP000915,Male,married,3+,Not Graduate,No,3354,7155,397,12,0,10509,Rural,BMW,Y,54,44,0
+LP000916,Female,married,0,Graduate,Yes,6162,4493,208,84,0,10655,Rural,Toyota,N,20,15,1
+LP000917,Female,married,1,Not Graduate,No,8014,9335,173,36,0,17349,Urban,Toyota,N,26,20,1
+LP000918,Male,married,1,Not Graduate,Yes,4208,933,366,360,1,5141,Urban,Honda,N,35,29,1
+LP000919,Male,married,3+,Graduate,No,13194,1460,256,60,1,14654,Rural,Honda,N,52,47,1
+LP000920,Male,married,1,Graduate,Yes,11024,2723,97,36,0,13747,Rural,Honda,Y,51,41,0
+LP000921,Male,single,1,Not Graduate,No,7956,285,458,180,0,8241,Urban,Chevrolet,Y,58,48,0
+LP000922,Male,single,2,Not Graduate,Yes,5712,264,469,180,1,5976,Semiurban,Honda,N,31,25,0
+LP000923,Female,single,2,Not Graduate,Yes,14724,6816,185,180,1,21540,Semiurban,BMW,N,21,20,0
+LP000924,Male,single,1,Not Graduate,Yes,9470,1762,250,36,1,11232,Semiurban,Honda,N,46,43,0
+LP000925,Female,single,3+,Graduate,No,18420,40,299,300,0,18460,Semiurban,Toyota,N,58,53,0
+LP000926,Male,single,2,Graduate,No,3125,5827,363,300,1,8952,Semiurban,Honda,N,32,16,0
+LP000927,Male,single,0,Graduate,Yes,11814,8259,406,36,1,20073,Semiurban,Chevrolet,Y,45,41,0
+LP000928,Female,married,0,Not Graduate,Yes,9473,987,417,84,0,10460,Semiurban,Chevrolet,Y,59,53,1
+LP000929,Male,married,0,Not Graduate,No,10077,7804,478,84,0,17881,Semiurban,BMW,Y,33,25,0
+LP000930,Female,single,3+,Not Graduate,No,9570,7789,367,240,0,17359,Urban,Chevrolet,N,29,29,0
+LP000931,Female,single,1,Not Graduate,No,10166,5717,344,84,1,15883,Semiurban,Honda,N,22,22,1
+LP000932,Male,married,0,Graduate,No,5100,3198,363,360,0,8298,Semiurban,Toyota,Y,51,46,0
+LP000933,Male,single,3+,Graduate,No,8283,5374,258,36,0,13657,Semiurban,Chevrolet,Y,59,42,0
+LP000934,Male,single,2,Not Graduate,No,14726,4790,404,60,0,19516,Rural,BMW,N,18,9,0
+LP000935,Female,married,1,Graduate,Yes,10646,7183,260,180,0,17829,Urban,Honda,Y,56,46,0
+LP000936,Male,single,2,Not Graduate,No,6471,2524,241,120,1,8995,Urban,BMW,N,49,49,1
+LP000937,Female,married,3+,Not Graduate,Yes,14990,9277,93,60,0,24267,Urban,Chevrolet,N,43,43,0
+LP000938,Male,single,0,Graduate,No,19089,2479,78,120,1,21568,Semiurban,Chevrolet,Y,34,22,0
+LP000939,Female,married,0,Not Graduate,No,14451,9885,108,12,1,24336,Semiurban,BMW,Y,44,40,0
+LP000940,Male,married,3+,Not Graduate,Yes,13812,5154,120,240,1,18966,Rural,Honda,Y,41,41,0
+LP000941,Female,married,0,Graduate,Yes,3490,778,141,12,0,4268,Urban,Chevrolet,N,52,50,1
+LP000942,Male,single,1,Not Graduate,No,6799,9777,314,84,1,16576,Semiurban,Toyota,N,59,42,0
+LP000943,Female,married,3+,Not Graduate,Yes,14497,1492,432,12,0,15989,Urban,Chevrolet,Y,56,48,0
+LP000944,Female,single,2,Graduate,Yes,14972,660,269,300,0,15632,Rural,Honda,N,43,30,1
+LP000945,Male,single,3+,Not Graduate,Yes,5880,1348,439,240,0,7228,Rural,Chevrolet,N,55,39,1
+LP000946,Male,single,1,Graduate,Yes,6257,9491,462,180,1,15748,Rural,BMW,N,40,27,1
+LP000947,Female,single,1,Not Graduate,No,11895,7851,491,360,0,19746,Urban,Chevrolet,Y,39,36,1
+LP000948,Female,married,3+,Graduate,Yes,17741,7156,450,84,0,24897,Semiurban,Chevrolet,N,21,17,1
+LP000949,Male,married,3+,Graduate,No,7088,2044,449,180,0,9132,Semiurban,Honda,Y,26,10,0
+LP000950,Male,single,0,Graduate,No,18850,7368,264,12,1,26218,Rural,BMW,Y,21,20,1
+LP000951,Female,single,1,Not Graduate,No,6444,3516,436,60,1,9960,Semiurban,Honda,N,24,20,0
+LP000952,Female,married,3+,Graduate,No,14895,9250,326,240,1,24145,Rural,Chevrolet,Y,40,37,0
+LP000953,Male,single,3+,Graduate,Yes,18572,9168,113,12,0,27740,Urban,Toyota,N,19,16,0
+LP000954,Female,married,1,Graduate,Yes,5743,4577,395,120,1,10320,Rural,Chevrolet,Y,41,36,0
+LP000955,Male,single,3+,Graduate,No,11416,727,341,300,0,12143,Urban,Honda,Y,57,45,1
+LP000956,Male,single,0,Graduate,No,11484,7468,294,60,0,18952,Rural,Toyota,N,48,44,1
+LP000957,Male,married,1,Not Graduate,No,3259,342,111,300,1,3601,Semiurban,Honda,Y,48,42,0
+LP000958,Male,single,0,Not Graduate,No,10681,1447,475,240,0,12128,Semiurban,Honda,Y,57,57,1
+LP000959,Female,married,0,Not Graduate,Yes,3982,6581,381,300,1,10563,Rural,BMW,Y,51,38,0
+LP000960,Male,single,0,Not Graduate,No,2451,6317,219,60,0,8768,Semiurban,Toyota,N,41,38,1
+LP000961,Female,single,0,Not Graduate,Yes,3579,526,494,300,1,4105,Semiurban,Chevrolet,N,43,27,0
+LP000962,Male,single,1,Not Graduate,No,4217,6748,318,300,0,10965,Semiurban,Honda,Y,33,20,1
+LP000963,Female,married,0,Not Graduate,No,11192,405,316,300,0,11597,Urban,Chevrolet,Y,30,15,0
+LP000964,Male,single,0,Graduate,No,8811,7986,103,300,0,16797,Semiurban,BMW,Y,32,19,1
+LP000965,Male,single,3+,Not Graduate,No,19949,9765,65,300,0,29714,Urban,BMW,N,44,29,1
+LP000966,Male,single,1,Graduate,Yes,2268,3740,57,180,0,6008,Rural,Toyota,N,21,14,1
+LP000967,Male,single,1,Graduate,Yes,6990,1846,153,36,1,8836,Semiurban,BMW,Y,33,31,0
+LP000968,Male,married,2,Not Graduate,Yes,17034,1478,108,360,0,18512,Semiurban,BMW,N,47,47,0
+LP000969,Male,married,1,Graduate,No,8145,771,362,300,1,8916,Semiurban,Chevrolet,N,47,46,0
+LP000970,Male,single,1,Graduate,No,6732,5525,89,36,1,12257,Rural,BMW,N,53,39,1
+LP000971,Female,married,2,Graduate,Yes,12985,8770,286,300,1,21755,Urban,BMW,N,20,11,1
+LP000972,Male,single,1,Graduate,Yes,7297,193,492,480,0,7490,Urban,Honda,Y,39,22,1
+LP000973,Male,single,1,Not Graduate,No,13842,2007,435,84,0,15849,Semiurban,BMW,N,39,26,0
+LP000974,Male,single,1,Not Graduate,No,9538,1185,143,120,0,10723,Rural,Honda,N,29,13,1
+LP000975,Male,married,1,Not Graduate,Yes,17502,2394,271,12,1,19896,Rural,BMW,Y,38,26,1
+LP000976,Male,married,2,Not Graduate,No,14587,9984,253,240,0,24571,Rural,BMW,Y,21,21,0
+LP000977,Female,married,1,Not Graduate,No,6373,9302,187,480,0,15675,Rural,Toyota,N,48,44,0
+LP000978,Female,married,1,Not Graduate,Yes,2981,4005,349,36,1,6986,Rural,Toyota,N,48,36,1
+LP000979,Male,married,2,Not Graduate,No,11593,7429,444,240,1,19022,Urban,Honda,Y,40,27,1
+LP000980,Female,married,3+,Not Graduate,Yes,15922,2261,256,60,1,18183,Urban,BMW,Y,37,35,1
+LP000981,Female,married,0,Not Graduate,No,17938,3736,385,300,1,21674,Urban,Chevrolet,Y,32,18,0
+LP000982,Male,married,3+,Not Graduate,Yes,9143,6716,130,12,1,15859,Semiurban,Toyota,N,40,24,0
+LP000983,Male,married,2,Graduate,No,17208,4875,267,180,1,22083,Rural,Chevrolet,N,45,43,0
+LP000984,Female,single,0,Not Graduate,Yes,12771,8921,51,360,0,21692,Semiurban,Toyota,Y,33,18,1
+LP000985,Female,married,2,Graduate,Yes,18716,4378,227,360,1,23094,Rural,Toyota,N,54,41,0
+LP000986,Female,married,2,Graduate,Yes,14100,7815,445,360,0,21915,Urban,BMW,Y,38,27,1
+LP000987,Male,married,1,Graduate,Yes,12498,3451,420,60,0,15949,Semiurban,Toyota,N,32,21,0
+LP000988,Female,married,0,Graduate,No,15795,7616,395,12,0,23411,Urban,Chevrolet,Y,34,24,1
+LP000989,Male,married,1,Not Graduate,No,12182,9836,328,12,1,22018,Rural,Toyota,Y,54,38,1
+LP000990,Female,married,0,Graduate,Yes,17880,2800,195,300,0,20680,Rural,Honda,N,30,23,1
+LP000991,Female,married,2,Not Graduate,No,10019,8333,367,240,1,18352,Rural,BMW,N,36,20,0
+LP000992,Male,married,2,Not Graduate,No,4800,5410,273,300,1,10210,Urban,BMW,N,47,37,1
+LP000993,Male,married,3+,Graduate,No,8222,1455,418,240,0,9677,Rural,Honda,N,35,34,1
+LP000994,Female,married,0,Not Graduate,No,8718,6892,433,240,1,15610,Urban,Honda,N,31,22,0
+LP000995,Male,married,1,Graduate,No,4554,5808,111,480,0,10362,Semiurban,Honda,N,53,44,1
+LP000996,Female,single,3+,Graduate,Yes,15075,6796,343,84,0,21871,Rural,Toyota,Y,53,43,1
+LP000997,Female,single,3+,Not Graduate,Yes,9470,4796,288,60,1,14266,Rural,BMW,N,37,32,1
+LP000998,Male,married,3+,Not Graduate,Yes,3643,5093,244,120,0,8736,Rural,Honda,Y,36,33,0
+LP000999,Male,married,1,Graduate,Yes,11003,1325,215,360,0,12328,Semiurban,Toyota,Y,24,13,0
+LP001000,Male,single,3+,Not Graduate,No,16649,4976,271,84,0,21625,Rural,Honda,N,21,11,1
+LP001001,Female,married,1,Not Graduate,No,13675,9405,110,36,1,23080,Urban,Chevrolet,Y,51,39,0
+LP001002,Female,single,3+,Not Graduate,Yes,9856,1159,178,36,0,11015,Urban,Chevrolet,Y,19,15,0
+LP001003,Female,single,1,Graduate,No,16570,4650,222,240,1,21220,Rural,BMW,N,22,17,0
+LP001004,Female,single,2,Graduate,No,2322,4987,205,36,1,7309,Rural,Toyota,N,27,27,0
+LP001005,Male,single,2,Not Graduate,Yes,18827,4697,454,12,0,23524,Semiurban,Chevrolet,N,49,44,1
+LP001006,Male,single,2,Not Graduate,No,15789,340,427,36,0,16129,Semiurban,Chevrolet,Y,59,42,1
+LP001007,Male,married,2,Not Graduate,Yes,7650,3828,159,36,1,11478,Semiurban,Toyota,N,58,50,0
+LP001008,Female,single,2,Not Graduate,Yes,5925,1968,318,240,1,7893,Rural,Honda,N,30,16,0
+LP001009,Female,married,3+,Not Graduate,No,17532,703,460,300,0,18235,Semiurban,Toyota,N,56,49,0
+LP001010,Male,married,3+,Graduate,No,3698,5482,405,180,0,9180,Semiurban,Honda,N,22,7,1
+LP001011,Male,single,3+,Not Graduate,Yes,4952,6376,440,60,1,11328,Urban,Chevrolet,Y,27,22,1
+LP001012,Male,single,1,Graduate,Yes,10606,1800,327,120,1,12406,Semiurban,Chevrolet,N,27,22,0
+LP001013,Male,married,1,Not Graduate,No,15359,5463,123,180,1,20822,Urban,Chevrolet,Y,55,53,0
+LP001014,Female,single,1,Graduate,Yes,19192,4912,486,60,1,24104,Urban,BMW,N,44,35,0
+LP001015,Male,single,1,Not Graduate,Yes,10205,4648,256,12,1,14853,Semiurban,BMW,Y,38,38,1
+LP001016,Male,married,2,Graduate,Yes,11612,855,437,240,0,12467,Urban,BMW,Y,25,12,0
+LP001017,Female,married,2,Not Graduate,No,6341,2866,328,300,1,9207,Rural,Toyota,Y,18,15,1
+LP001018,Female,single,2,Graduate,Yes,16858,182,424,360,1,17040,Rural,Chevrolet,N,45,34,1
+LP001019,Female,married,0,Graduate,No,2909,3112,375,120,0,6021,Semiurban,Chevrolet,Y,56,51,0
+LP001020,Male,single,3+,Graduate,Yes,6066,5670,389,84,0,11736,Rural,Toyota,N,31,21,0
+LP001021,Female,single,1,Graduate,No,12882,4492,406,180,1,17374,Urban,BMW,N,38,27,1
+LP001022,Male,single,1,Graduate,Yes,19439,5823,389,84,1,25262,Rural,Toyota,N,47,38,1
+LP001023,Female,married,2,Graduate,No,16096,1517,253,60,0,17613,Semiurban,BMW,N,38,21,0
+LP001024,Male,married,1,Not Graduate,No,2304,5002,210,60,1,7306,Semiurban,Chevrolet,N,26,20,1
+LP001025,Female,married,1,Graduate,No,14721,1356,77,36,1,16077,Urban,Honda,Y,34,28,0
+LP001026,Male,married,3+,Not Graduate,Yes,2779,3629,441,12,0,6408,Semiurban,BMW,N,22,12,1
+LP001027,Female,married,2,Not Graduate,Yes,14692,3628,306,180,1,18320,Rural,Chevrolet,Y,48,45,0
+LP001028,Female,single,3+,Not Graduate,Yes,8583,8210,214,12,0,16793,Semiurban,Chevrolet,Y,57,57,0
+LP001029,Male,single,0,Not Graduate,No,12593,6132,112,120,0,18725,Urban,Honda,Y,55,43,0
+LP001030,Male,single,0,Not Graduate,Yes,19271,9324,71,84,0,28595,Semiurban,Chevrolet,Y,36,19,1
+LP001031,Male,single,0,Graduate,No,14380,6588,119,84,0,20968,Rural,Chevrolet,Y,53,45,0
+LP001032,Male,married,2,Graduate,Yes,17017,3311,430,36,1,20328,Urban,BMW,Y,50,42,0
+LP001033,Male,single,1,Graduate,No,3606,6048,454,84,0,9654,Rural,BMW,Y,30,22,0
+LP001034,Male,married,2,Not Graduate,No,17586,6246,145,60,1,23832,Urban,Honda,N,31,22,0
+LP001035,Female,single,2,Graduate,No,6331,987,212,120,1,7318,Semiurban,Honda,Y,50,49,1
+LP001036,Male,married,1,Graduate,Yes,4686,3321,128,180,1,8007,Urban,Chevrolet,N,46,41,0
+LP001037,Male,married,3+,Graduate,Yes,4073,4615,54,12,1,8688,Urban,BMW,Y,53,39,1
+LP001038,Female,single,0,Graduate,Yes,14308,8365,365,84,1,22673,Semiurban,Honda,Y,27,25,0
+LP001039,Male,single,3+,Graduate,No,4099,3741,169,480,0,7840,Rural,Honda,Y,48,38,1
+LP001040,Female,single,0,Not Graduate,No,5533,3052,351,36,0,8585,Semiurban,Toyota,Y,23,18,1
+LP001041,Female,single,2,Graduate,Yes,9928,6574,227,300,0,16502,Urban,Honda,N,18,16,0
+LP001042,Male,married,0,Not Graduate,Yes,2804,726,225,12,0,3530,Semiurban,Chevrolet,N,24,14,0
+LP001043,Female,single,2,Not Graduate,Yes,19185,3760,439,12,1,22945,Urban,BMW,N,44,30,1
+LP001044,Female,single,3+,Not Graduate,No,19935,5806,266,240,0,25741,Semiurban,Honda,Y,38,26,0
+LP001045,Male,married,2,Not Graduate,No,10133,1875,105,84,1,12008,Semiurban,Toyota,Y,45,36,0
+LP001046,Male,single,3+,Not Graduate,No,12872,6993,415,60,1,19865,Rural,BMW,Y,33,28,1
+LP001047,Male,single,1,Graduate,No,10496,4033,236,480,0,14529,Urban,Honda,N,40,26,0
+LP001048,Female,single,1,Graduate,No,17958,5443,281,120,0,23401,Rural,Toyota,Y,37,20,0
+LP001049,Female,single,1,Graduate,Yes,6975,989,304,84,0,7964,Urban,Honda,N,55,38,0
+LP001050,Male,single,2,Not Graduate,No,8684,3744,462,84,0,12428,Semiurban,BMW,N,42,36,0
+LP001051,Male,married,1,Graduate,No,14375,8611,153,60,1,22986,Urban,BMW,Y,45,31,0
+LP001052,Male,single,0,Graduate,No,3122,593,126,120,1,3715,Rural,BMW,Y,22,5,0
+LP001053,Male,single,3+,Not Graduate,No,17488,1774,279,36,0,19262,Rural,Chevrolet,N,38,21,1
+LP001054,Female,single,3+,Not Graduate,No,9541,935,451,60,1,10476,Rural,Honda,N,35,27,1
+LP001055,Female,single,0,Not Graduate,Yes,18225,3808,307,84,1,22033,Urban,Chevrolet,N,23,22,0
+LP001056,Male,single,2,Not Graduate,No,19958,331,313,360,1,20289,Rural,BMW,Y,46,39,1
+LP001057,Female,married,2,Graduate,No,9492,7922,380,480,0,17414,Rural,Toyota,Y,36,35,0
+LP001058,Female,single,3+,Not Graduate,No,17146,2702,231,60,1,19848,Rural,Honda,Y,50,40,1
+LP001059,Female,married,1,Not Graduate,Yes,18529,5889,430,360,0,24418,Semiurban,Chevrolet,Y,18,12,1
+LP001060,Female,married,2,Graduate,Yes,5763,5054,305,240,0,10817,Semiurban,Honda,Y,20,15,1
+LP001061,Female,single,2,Graduate,Yes,15560,3868,87,180,1,19428,Urban,Toyota,Y,59,50,0
+LP001062,Female,single,0,Not Graduate,No,16656,4200,225,180,1,20856,Urban,Chevrolet,N,38,34,0
+LP001063,Male,single,0,Graduate,Yes,10146,201,76,480,0,10347,Rural,BMW,N,52,42,1
+LP001064,Male,single,1,Not Graduate,No,13164,2497,325,480,1,15661,Semiurban,Chevrolet,N,58,58,1
+LP001065,Female,married,2,Not Graduate,No,4469,1842,189,36,1,6311,Rural,Honda,Y,57,56,0
+LP001066,Male,single,2,Graduate,Yes,4528,9101,348,300,0,13629,Rural,Honda,N,20,20,1
+LP001067,Male,single,0,Graduate,No,5129,4658,494,180,0,9787,Semiurban,Honda,Y,42,41,1
+LP001068,Female,single,2,Not Graduate,No,4567,7544,336,480,0,12111,Semiurban,Honda,Y,55,52,0
+LP001069,Female,single,3+,Not Graduate,No,7441,7718,140,300,0,15159,Semiurban,BMW,N,37,26,1
+LP001070,Female,single,0,Not Graduate,Yes,19270,770,110,36,1,20040,Urban,Chevrolet,Y,51,34,0
+LP001071,Male,single,1,Graduate,No,13055,3155,414,36,1,16210,Urban,BMW,N,38,38,1
+LP001072,Male,married,0,Not Graduate,No,14581,1628,396,360,0,16209,Rural,BMW,N,40,40,1
+LP001073,Female,married,2,Not Graduate,Yes,8319,386,212,60,0,8705,Urban,BMW,Y,23,10,0
+LP001074,Male,single,1,Not Graduate,No,12546,6031,400,36,0,18577,Semiurban,Honda,N,30,27,0
+LP001075,Male,single,0,Not Graduate,No,19217,6439,192,180,1,25656,Semiurban,Honda,N,40,36,0
+LP001076,Female,single,3+,Not Graduate,Yes,4211,6401,449,12,0,10612,Urban,Honda,N,26,16,1
+LP001077,Female,married,3+,Graduate,No,6353,4008,302,84,1,10361,Rural,Chevrolet,N,34,22,0
+LP001078,Male,single,0,Not Graduate,No,9215,2466,318,240,0,11681,Rural,Toyota,Y,19,4,1
+LP001079,Female,married,3+,Not Graduate,No,10442,2282,418,120,0,12724,Urban,Honda,N,36,24,0
+LP001080,Male,single,3+,Not Graduate,No,17007,1856,340,36,0,18863,Rural,Chevrolet,N,36,35,0
+LP001081,Female,single,3+,Not Graduate,No,17326,7980,236,300,1,25306,Rural,Honda,N,24,9,1
+LP001082,Male,single,1,Graduate,Yes,3262,1998,454,36,1,5260,Rural,Honda,Y,59,54,0
+LP001083,Male,single,3+,Graduate,Yes,17350,5476,487,12,1,22826,Semiurban,BMW,N,59,46,0
+LP001084,Female,married,3+,Graduate,Yes,13612,9428,463,300,0,23040,Semiurban,BMW,Y,37,37,0
+LP001085,Male,married,3+,Not Graduate,Yes,14152,4669,353,240,1,18821,Urban,BMW,N,26,10,1
+LP001086,Male,single,1,Not Graduate,No,7622,9342,340,180,1,16964,Semiurban,Chevrolet,N,34,24,0
+LP001087,Female,single,0,Graduate,No,1981,4318,135,480,0,6299,Rural,Toyota,N,44,42,0
+LP001088,Male,married,2,Graduate,No,16036,7064,215,480,0,23100,Semiurban,Toyota,Y,19,9,1
+LP001089,Male,married,3+,Graduate,No,1653,7446,464,180,1,9099,Urban,Chevrolet,Y,53,49,0
+LP001090,Male,married,0,Not Graduate,No,9117,1431,457,240,1,10548,Semiurban,Honda,Y,36,20,1
+LP001091,Female,married,3+,Not Graduate,Yes,3024,5624,163,60,1,8648,Rural,Chevrolet,Y,34,28,0
+LP001092,Female,single,1,Graduate,Yes,3620,7461,482,84,1,11081,Rural,Honda,Y,22,13,1
+LP001093,Female,married,0,Graduate,No,16548,1819,405,12,0,18367,Urban,Chevrolet,Y,56,46,1
+LP001094,Female,single,1,Graduate,No,3843,1130,465,480,0,4973,Semiurban,Chevrolet,N,35,33,0
+LP001095,Female,married,3+,Not Graduate,No,6636,6563,232,60,0,13199,Semiurban,Chevrolet,Y,24,15,1
+LP001096,Male,married,3+,Not Graduate,Yes,2740,2658,256,240,1,5398,Semiurban,Toyota,N,34,25,0
+LP001097,Male,married,1,Not Graduate,No,1560,3500,305,240,1,5060,Rural,BMW,Y,56,43,1
+LP001098,Female,married,2,Graduate,No,10630,8566,284,84,0,19196,Urban,Chevrolet,Y,53,42,0
+LP001099,Female,married,1,Graduate,No,19523,2120,491,240,0,21643,Semiurban,Toyota,Y,57,43,1
+LP001100,Female,single,3+,Not Graduate,Yes,13812,4020,404,360,1,17832,Rural,BMW,N,21,12,1
+LP001101,Female,single,1,Graduate,No,14850,3259,52,180,1,18109,Rural,BMW,Y,55,46,0
+LP001102,Male,married,2,Not Graduate,Yes,13918,1823,257,240,0,15741,Rural,Chevrolet,Y,42,42,0
+LP001103,Male,married,1,Graduate,Yes,2752,1474,246,300,0,4226,Semiurban,Honda,N,22,13,0
+LP001104,Male,single,2,Graduate,Yes,9863,2242,390,180,0,12105,Semiurban,Honda,N,47,46,0
+LP001105,Female,married,2,Graduate,Yes,11150,3243,174,300,1,14393,Semiurban,Honda,N,29,13,1
+LP001106,Female,married,1,Graduate,Yes,17814,6990,187,60,1,24804,Semiurban,Chevrolet,N,21,15,1
+LP001107,Male,single,1,Not Graduate,Yes,5590,5160,388,60,1,10750,Semiurban,Honda,Y,41,35,1
+LP001108,Male,married,0,Graduate,No,8460,3134,74,360,1,11594,Semiurban,Toyota,N,46,38,1
+LP001109,Male,married,3+,Not Graduate,No,4504,2070,117,36,1,6574,Semiurban,Toyota,Y,26,25,1
+LP001110,Male,single,2,Not Graduate,No,18213,359,110,360,1,18572,Semiurban,Toyota,Y,21,8,0
+LP001111,Male,single,0,Not Graduate,Yes,5140,1141,78,36,0,6281,Semiurban,Toyota,N,41,25,1
+LP001112,Female,single,1,Graduate,No,2841,1635,432,84,0,4476,Rural,BMW,Y,31,31,0
+LP001113,Female,married,3+,Not Graduate,Yes,13355,4000,68,180,1,17355,Semiurban,Toyota,N,22,14,0
+LP001114,Male,single,0,Not Graduate,Yes,1838,3361,220,480,0,5199,Urban,Honda,Y,35,32,0
+LP001115,Female,single,2,Not Graduate,Yes,7395,6583,499,84,1,13978,Rural,Chevrolet,N,59,52,0
+LP001116,Female,single,0,Graduate,No,13754,7835,123,300,0,21589,Semiurban,Honda,N,36,24,0
+LP001117,Male,single,2,Graduate,Yes,12844,6,110,12,1,12850,Urban,Toyota,N,29,26,1
+LP001118,Male,single,1,Not Graduate,Yes,3250,3267,476,120,0,6517,Semiurban,BMW,N,35,27,1
+LP001119,Female,single,3+,Graduate,No,3921,6564,202,60,0,10485,Urban,Toyota,N,34,26,0
+LP001120,Male,married,3+,Not Graduate,No,8619,9783,325,240,1,18402,Urban,Chevrolet,N,47,30,1
+LP001121,Female,married,3+,Not Graduate,Yes,6819,4928,97,300,1,11747,Urban,Honda,Y,41,30,0
+LP001122,Female,single,1,Graduate,Yes,17396,2606,260,12,0,20002,Urban,Chevrolet,Y,28,19,1
+LP001123,Male,single,2,Not Graduate,No,13418,5906,392,120,0,19324,Rural,Chevrolet,Y,52,42,1
+LP001124,Female,single,1,Graduate,No,15349,3273,457,240,1,18622,Rural,Chevrolet,N,40,34,1
+LP001125,Female,married,3+,Graduate,No,6373,7611,188,36,0,13984,Urban,Honda,Y,34,26,1
+LP001126,Female,married,1,Not Graduate,Yes,6306,913,159,120,1,7219,Semiurban,Toyota,N,18,13,0
+LP001127,Female,married,1,Graduate,No,10092,2011,232,180,1,12103,Urban,Chevrolet,Y,32,17,0
+LP001128,Male,married,1,Graduate,No,13682,1442,77,360,0,15124,Rural,Honda,Y,49,35,1
+LP001129,Male,married,2,Not Graduate,No,18274,5546,246,300,1,23820,Semiurban,BMW,N,26,20,1
+LP001130,Female,married,0,Not Graduate,Yes,13545,1829,240,36,0,15374,Rural,Honda,Y,32,17,0
+LP001131,Male,married,0,Graduate,No,5930,8767,364,240,0,14697,Rural,BMW,Y,45,41,0
+LP001132,Female,married,1,Graduate,No,10320,6468,438,360,1,16788,Semiurban,Honda,Y,41,26,1
+LP001133,Female,married,0,Not Graduate,No,5732,929,100,120,0,6661,Urban,Toyota,N,52,52,0
+LP001134,Male,single,0,Graduate,No,12622,3699,198,36,1,16321,Urban,Chevrolet,Y,39,35,0
+LP001135,Male,single,1,Graduate,No,16523,9655,317,360,1,26178,Urban,Toyota,N,44,38,1
+LP001136,Male,single,1,Graduate,Yes,9507,1054,99,84,1,10561,Urban,Honda,Y,36,32,1
+LP001137,Male,single,3+,Graduate,Yes,19405,5744,437,120,0,25149,Semiurban,Chevrolet,Y,29,13,1
+LP001138,Female,married,0,Graduate,Yes,10518,1900,295,84,1,12418,Semiurban,BMW,Y,37,30,0
+LP001139,Female,married,2,Graduate,No,3000,9649,162,300,0,12649,Semiurban,Honda,Y,18,18,0
+LP001140,Female,single,1,Graduate,Yes,8237,6980,219,300,1,15217,Rural,Chevrolet,N,38,37,0
+LP001141,Male,married,3+,Not Graduate,Yes,4794,7069,215,60,1,11863,Semiurban,BMW,Y,18,4,1
+LP001142,Male,single,2,Not Graduate,Yes,5997,9591,458,60,1,15588,Urban,BMW,N,27,10,1
+LP001143,Female,married,0,Not Graduate,No,19350,3415,63,120,0,22765,Rural,Toyota,N,49,39,1
+LP001144,Female,single,3+,Not Graduate,No,2114,442,252,300,0,2556,Urban,Honda,Y,56,47,1
+LP001145,Female,married,1,Not Graduate,Yes,10874,6218,337,60,1,17092,Urban,BMW,Y,39,36,1
+LP001146,Female,married,2,Graduate,Yes,4167,4652,444,36,1,8819,Semiurban,Chevrolet,N,35,31,1
+LP001147,Male,single,1,Graduate,No,14909,7939,238,360,0,22848,Semiurban,BMW,N,49,46,1
+LP001148,Male,married,0,Graduate,No,18014,7833,451,360,0,25847,Urban,BMW,Y,44,32,1
+LP001149,Female,single,2,Graduate,Yes,4483,9370,204,300,0,13853,Urban,Toyota,Y,45,33,1
+LP001150,Female,single,0,Not Graduate,No,14151,7597,104,120,1,21748,Rural,Toyota,Y,35,18,0
+LP001151,Female,single,0,Graduate,Yes,9730,4458,231,84,0,14188,Semiurban,Chevrolet,Y,56,55,1
+LP001152,Female,single,3+,Graduate,No,8140,6591,259,84,1,14731,Rural,Toyota,Y,46,31,0
+LP001153,Male,married,1,Not Graduate,Yes,13279,9449,425,240,0,22728,Rural,BMW,N,35,35,0
+LP001154,Female,married,2,Graduate,Yes,16817,2309,124,360,1,19126,Rural,BMW,Y,25,17,1
+LP001155,Female,married,0,Graduate,No,18804,6268,326,180,1,25072,Urban,Toyota,Y,48,46,1
+LP001156,Female,single,0,Not Graduate,Yes,9064,910,477,120,1,9974,Rural,BMW,N,51,45,1
+LP001157,Female,married,2,Graduate,Yes,17020,4340,182,36,0,21360,Rural,BMW,Y,24,15,1
+LP001158,Male,single,0,Graduate,Yes,15237,4009,392,84,0,19246,Urban,Chevrolet,Y,53,53,0
+LP001159,Female,married,3+,Graduate,No,10823,6628,474,360,0,17451,Semiurban,Toyota,N,35,26,1
+LP001160,Male,married,3+,Graduate,No,16729,2169,108,84,1,18898,Semiurban,BMW,Y,55,47,0
+LP001161,Male,married,3+,Graduate,No,13213,2172,394,12,1,15385,Rural,Toyota,N,26,12,1
+LP001162,Female,single,3+,Not Graduate,Yes,10002,5668,231,240,0,15670,Urban,Chevrolet,Y,26,12,1
+LP001163,Male,married,0,Not Graduate,No,2045,6313,455,360,1,8358,Semiurban,Toyota,Y,25,23,0
+LP001164,Female,married,2,Not Graduate,Yes,5846,8315,388,300,1,14161,Rural,BMW,Y,52,48,1
+LP001165,Male,single,2,Not Graduate,Yes,11496,8036,370,12,1,19532,Rural,Toyota,N,35,27,1
+LP001166,Female,married,2,Not Graduate,No,17275,6789,113,36,0,24064,Urban,BMW,N,22,14,1
+LP001167,Female,single,2,Not Graduate,No,15419,785,376,360,1,16204,Rural,BMW,N,31,25,0
+LP001168,Female,married,1,Graduate,Yes,5310,6139,309,12,0,11449,Semiurban,BMW,N,45,34,0
+LP001169,Female,single,2,Not Graduate,Yes,8706,6344,242,120,0,15050,Urban,Chevrolet,Y,47,39,1
+LP001170,Female,single,1,Not Graduate,No,10505,2416,192,180,0,12921,Semiurban,Toyota,N,21,16,1
+LP001171,Male,married,1,Graduate,No,17871,8988,153,36,0,26859,Semiurban,Chevrolet,N,56,55,1
+LP001172,Male,single,3+,Graduate,No,13816,4154,455,120,0,17970,Semiurban,Toyota,N,37,29,1
+LP001173,Male,single,1,Not Graduate,Yes,19916,5619,263,120,1,25535,Rural,Chevrolet,Y,42,26,1
+LP001174,Female,single,0,Graduate,Yes,9936,1936,291,120,0,11872,Rural,Honda,Y,45,45,1
+LP001175,Female,single,1,Not Graduate,Yes,14484,3807,480,36,0,18291,Semiurban,BMW,N,29,24,0
+LP001176,Female,single,3+,Graduate,Yes,1771,7151,258,84,0,8922,Semiurban,BMW,N,19,15,1
+LP001177,Female,single,1,Not Graduate,Yes,19655,9493,142,180,1,29148,Urban,Chevrolet,Y,31,30,1
+LP001178,Female,married,0,Graduate,No,12116,3236,479,60,1,15352,Urban,Honda,N,39,31,1
+LP001179,Male,single,0,Graduate,No,5861,2352,191,480,1,8213,Rural,BMW,N,48,35,1
+LP001180,Female,single,0,Not Graduate,Yes,8569,1932,483,240,1,10501,Rural,Toyota,N,40,37,1
+LP001181,Male,married,3+,Not Graduate,Yes,18804,8556,453,12,0,27360,Urban,Chevrolet,N,37,34,1
+LP001182,Male,married,3+,Not Graduate,No,4930,4916,483,300,0,9846,Semiurban,BMW,Y,55,41,1
+LP001183,Female,married,2,Not Graduate,No,14176,5498,161,300,1,19674,Rural,BMW,Y,21,14,0
+LP001184,Female,married,3+,Not Graduate,No,12316,946,466,240,1,13262,Semiurban,Chevrolet,Y,32,29,1
+LP001185,Female,married,0,Graduate,No,3550,9569,424,84,1,13119,Urban,Chevrolet,N,41,26,1
+LP001186,Male,married,0,Not Graduate,Yes,13192,1439,108,360,1,14631,Rural,Toyota,N,42,39,1
+LP001187,Female,married,3+,Not Graduate,No,2665,7730,92,84,0,10395,Rural,Toyota,Y,18,3,1
+LP001188,Male,single,1,Graduate,Yes,3533,4857,256,360,1,8390,Urban,BMW,Y,24,13,1
+LP001189,Female,single,3+,Graduate,No,1645,340,317,180,1,1985,Rural,BMW,Y,48,33,1
+LP001190,Female,married,3+,Not Graduate,No,15769,382,345,300,1,16151,Urban,Chevrolet,N,29,22,1
+LP001191,Male,single,0,Graduate,No,9332,9748,167,180,1,19080,Rural,BMW,Y,59,54,0
+LP001192,Male,single,2,Graduate,Yes,15786,8491,69,480,1,24277,Urban,BMW,N,22,13,1
+LP001193,Female,single,0,Not Graduate,Yes,4132,138,271,240,1,4270,Rural,Chevrolet,N,59,55,1
+LP001194,Female,married,2,Graduate,No,5994,358,215,36,1,6352,Semiurban,BMW,Y,55,38,1
+LP001195,Female,married,0,Graduate,Yes,16652,4931,180,120,0,21583,Semiurban,BMW,Y,29,20,1
+LP001196,Male,single,3+,Not Graduate,Yes,10655,9714,205,300,0,20369,Semiurban,Honda,N,56,47,1
+LP001197,Female,married,0,Not Graduate,No,11926,3456,233,84,0,15382,Rural,Toyota,Y,35,29,1
+LP001198,Female,single,0,Graduate,No,11733,1627,139,84,0,13360,Rural,Chevrolet,Y,19,2,1
+LP001199,Male,single,0,Graduate,Yes,3328,9495,143,480,0,12823,Semiurban,Honda,N,27,27,1
+LP001200,Female,single,3+,Not Graduate,Yes,13760,6626,62,84,0,20386,Semiurban,Toyota,N,32,26,1
+LP001201,Male,single,3+,Graduate,Yes,10630,5004,371,240,1,15634,Urban,Toyota,N,47,47,0
+LP001202,Male,married,3+,Graduate,No,6305,9326,342,12,1,15631,Urban,Toyota,N,34,20,0
+LP001203,Male,married,3+,Graduate,No,2306,6652,482,120,0,8958,Urban,Honda,N,21,18,0
+LP001204,Male,married,2,Not Graduate,Yes,9702,6416,279,36,1,16118,Semiurban,Honda,Y,24,15,0
+LP001205,Female,single,2,Graduate,No,3368,3170,371,60,0,6538,Semiurban,Toyota,N,58,50,0
+LP001206,Female,married,1,Graduate,No,16061,3835,341,120,1,19896,Semiurban,BMW,N,48,47,1
+LP001207,Male,single,3+,Not Graduate,Yes,17012,8017,487,12,1,25029,Urban,BMW,N,56,43,0
+LP001208,Female,married,2,Graduate,Yes,16399,2151,75,60,1,18550,Rural,Honda,Y,51,36,1
+LP001209,Male,single,0,Graduate,No,17720,9429,124,36,1,27149,Semiurban,Honda,N,23,23,1
+LP001210,Female,single,3+,Not Graduate,No,17434,6905,413,84,1,24339,Rural,Honda,N,55,54,1
+LP001211,Female,single,1,Not Graduate,Yes,6929,2834,473,360,1,9763,Rural,Toyota,N,51,45,0
+LP001212,Female,married,1,Not Graduate,No,10576,9190,348,84,0,19766,Rural,BMW,Y,32,23,1
+LP001213,Male,married,1,Not Graduate,No,5064,2567,199,360,0,7631,Urban,Honda,N,31,31,0
+LP001214,Female,married,0,Graduate,Yes,2889,1307,197,480,1,4196,Rural,Honda,N,23,11,0
+LP001215,Female,married,2,Graduate,Yes,13093,8848,57,60,0,21941,Semiurban,Chevrolet,N,54,54,1
+LP001216,Male,single,0,Not Graduate,No,8774,2660,78,240,1,11434,Urban,Toyota,Y,49,45,1
+LP001217,Female,married,3+,Not Graduate,No,18708,3730,345,84,0,22438,Semiurban,Chevrolet,Y,20,5,1
+LP001218,Female,married,1,Graduate,No,18820,6207,463,480,1,25027,Semiurban,BMW,Y,20,6,0
+LP001219,Female,single,0,Not Graduate,Yes,12245,3162,258,300,0,15407,Urban,Chevrolet,Y,39,23,1
+LP001220,Female,single,0,Graduate,No,15699,1140,177,60,1,16839,Semiurban,Chevrolet,N,39,24,1
+LP001221,Female,single,2,Not Graduate,No,17376,8458,389,120,0,25834,Semiurban,Chevrolet,N,27,15,1
+LP001222,Male,married,2,Graduate,Yes,19680,1708,165,84,1,21388,Urban,Toyota,Y,20,10,1
+LP001223,Male,single,1,Not Graduate,Yes,9745,3630,488,240,0,13375,Semiurban,BMW,Y,29,13,0
+LP001224,Female,single,0,Not Graduate,No,8714,3211,193,480,1,11925,Rural,Chevrolet,N,46,30,1
+LP001225,Female,single,0,Graduate,Yes,2226,6538,479,60,1,8764,Semiurban,Toyota,N,34,33,1
+LP001226,Male,married,2,Not Graduate,Yes,15332,9702,367,480,1,25034,Rural,BMW,Y,24,12,0
+LP001227,Female,single,0,Graduate,No,12862,475,284,84,0,13337,Semiurban,Honda,Y,30,17,1
+LP001228,Male,married,0,Graduate,Yes,19797,7684,56,360,0,27481,Urban,Chevrolet,Y,19,9,1
+LP001229,Male,married,0,Graduate,Yes,11606,9168,94,60,0,20774,Urban,BMW,Y,21,12,0
+LP001230,Male,single,2,Graduate,No,9157,1207,492,36,1,10364,Semiurban,Chevrolet,N,27,25,0
+LP001231,Female,single,1,Graduate,Yes,16051,1960,288,84,0,18011,Urban,Honda,Y,56,40,0
+LP001232,Female,married,3+,Not Graduate,No,9406,557,489,480,1,9963,Semiurban,BMW,Y,41,27,1
+LP001233,Male,single,1,Not Graduate,No,8787,882,481,84,0,9669,Urban,Toyota,N,34,26,0
+LP001234,Male,single,3+,Graduate,Yes,2392,4761,204,36,0,7153,Rural,BMW,N,23,14,1
+LP001235,Male,married,0,Not Graduate,Yes,11722,5867,230,36,0,17589,Semiurban,Toyota,N,36,29,1
+LP001236,Male,married,1,Graduate,Yes,6175,6963,264,300,0,13138,Rural,BMW,N,22,10,0
+LP001237,Female,single,3+,Not Graduate,No,3433,7166,137,300,1,10599,Rural,Toyota,N,49,32,0
+LP001238,Male,married,2,Not Graduate,Yes,19264,7929,305,180,0,27193,Semiurban,Honda,Y,27,23,1
+LP001239,Male,single,2,Not Graduate,No,13373,5347,122,84,0,18720,Rural,Honda,Y,26,21,0
+LP001240,Female,single,1,Not Graduate,Yes,19174,7269,468,300,1,26443,Semiurban,Honda,Y,44,28,1
+LP001241,Female,single,1,Graduate,Yes,19524,9802,228,300,1,29326,Rural,BMW,N,30,20,1
+LP001242,Female,married,0,Graduate,Yes,14739,8125,261,120,0,22864,Semiurban,Honda,Y,36,21,0
+LP001243,Male,single,1,Not Graduate,No,12374,2454,342,480,0,14828,Semiurban,Chevrolet,N,38,30,0
+LP001244,Female,single,0,Not Graduate,Yes,19102,4494,283,180,1,23596,Urban,Honda,Y,41,40,0
+LP001245,Female,single,0,Graduate,Yes,6516,1946,288,360,1,8462,Semiurban,Toyota,Y,55,51,0
+LP001246,Male,married,2,Not Graduate,No,15274,2808,272,120,1,18082,Semiurban,Toyota,N,21,21,1
+LP001247,Male,married,2,Graduate,No,11252,6642,168,300,0,17894,Rural,Toyota,N,41,38,0
+LP001248,Female,married,3+,Graduate,Yes,18838,3825,362,300,0,22663,Semiurban,BMW,Y,52,49,0
+LP001249,Female,married,2,Graduate,Yes,17085,3536,313,36,0,20621,Urban,Chevrolet,Y,20,18,0
+LP001250,Male,married,2,Not Graduate,Yes,8791,6068,256,12,1,14859,Rural,Honda,Y,21,13,1
+LP001251,Male,single,1,Graduate,No,2474,3802,144,180,1,6276,Rural,Chevrolet,Y,54,43,1
+LP001252,Male,married,2,Not Graduate,No,5633,4699,422,120,1,10332,Urban,Chevrolet,Y,57,48,0
+LP001253,Female,married,3+,Graduate,No,16163,1970,271,60,0,18133,Rural,Toyota,N,52,51,1
+LP001254,Male,married,1,Not Graduate,No,5472,5806,415,36,1,11278,Rural,Toyota,N,48,38,0
+LP001255,Female,single,3+,Not Graduate,Yes,6795,6142,325,240,0,12937,Rural,Toyota,N,42,33,0
+LP001256,Male,married,2,Not Graduate,No,15413,2819,429,120,1,18232,Rural,BMW,N,57,52,1
+LP001257,Female,married,3+,Graduate,No,10605,9094,280,300,0,19699,Urban,Chevrolet,Y,30,13,1
+LP001258,Female,single,1,Graduate,No,9728,364,358,480,0,10092,Urban,Chevrolet,Y,21,20,1
+LP001259,Female,married,0,Not Graduate,Yes,11403,4258,168,120,1,15661,Rural,BMW,N,31,30,0
+LP001260,Female,single,3+,Not Graduate,Yes,4520,3119,317,480,0,7639,Rural,BMW,Y,30,21,1
+LP001261,Male,single,3+,Not Graduate,No,10487,1863,482,36,1,12350,Urban,BMW,N,44,29,0
+LP001262,Female,single,1,Graduate,No,14380,115,322,480,0,14495,Urban,Chevrolet,Y,23,12,0
+LP001263,Male,single,1,Graduate,Yes,6733,7084,113,300,1,13817,Urban,Chevrolet,Y,34,34,1
+LP001264,Female,single,3+,Graduate,Yes,11016,8016,347,60,1,19032,Rural,Toyota,Y,53,46,0
+LP001265,Male,married,2,Graduate,Yes,16059,2384,399,240,0,18443,Rural,Toyota,N,57,42,0
+LP001266,Female,single,3+,Not Graduate,Yes,18201,3935,462,120,1,22136,Semiurban,Chevrolet,N,52,35,1
+LP001267,Male,single,1,Not Graduate,Yes,3896,7742,452,60,0,11638,Urban,Toyota,N,34,22,0
+LP001268,Male,married,0,Graduate,Yes,3091,5442,60,480,1,8533,Rural,BMW,N,58,44,1
+LP001269,Female,single,0,Graduate,Yes,12803,2490,147,180,1,15293,Urban,Honda,Y,19,8,0
+LP001270,Male,married,2,Not Graduate,Yes,7683,6980,483,480,1,14663,Rural,Toyota,Y,30,23,1
+LP001271,Male,married,3+,Graduate,No,2812,9134,120,60,1,11946,Urban,Chevrolet,Y,19,10,1
+LP001272,Female,married,0,Graduate,No,8814,7661,413,60,0,16475,Rural,Toyota,Y,45,32,1
+LP001273,Female,single,3+,Graduate,No,3639,1724,107,180,1,5363,Semiurban,Toyota,N,43,39,1
+LP001274,Female,single,1,Graduate,No,16188,8182,339,36,1,24370,Semiurban,Toyota,Y,39,22,1
+LP001275,Male,single,0,Graduate,No,19588,2767,300,84,0,22355,Urban,Honda,Y,20,6,1
+LP001276,Female,married,2,Graduate,No,8424,1137,325,180,0,9561,Rural,BMW,Y,52,47,0
+LP001277,Female,single,1,Not Graduate,Yes,1862,4117,99,300,0,5979,Rural,Chevrolet,N,29,19,1
+LP001278,Male,single,2,Graduate,Yes,14981,3420,407,240,0,18401,Urban,Honda,N,41,31,0
+LP001279,Male,single,1,Graduate,No,5238,5845,265,360,0,11083,Rural,Chevrolet,N,22,5,0
+LP001280,Male,married,0,Not Graduate,No,3969,4778,443,36,0,8747,Urban,Chevrolet,Y,37,20,0
+LP001281,Male,married,2,Not Graduate,Yes,17606,3906,465,240,1,21512,Rural,Chevrolet,N,56,47,0
+LP001282,Female,single,2,Not Graduate,Yes,18440,3637,101,240,0,22077,Urban,Honda,Y,56,55,0
+LP001283,Female,single,1,Graduate,Yes,10517,2953,320,360,1,13470,Rural,BMW,Y,30,22,1
+LP001284,Male,single,2,Not Graduate,No,4308,5929,133,240,0,10237,Urban,Chevrolet,Y,58,45,0
+LP001285,Female,single,1,Graduate,Yes,17870,276,436,480,1,18146,Rural,BMW,N,29,20,0
+LP001286,Male,married,1,Graduate,No,16370,1999,342,120,1,18369,Semiurban,BMW,N,30,27,0
+LP001287,Male,married,1,Graduate,No,14213,1227,175,84,1,15440,Rural,Toyota,Y,27,22,0
+LP001288,Female,married,1,Not Graduate,Yes,9061,6337,345,12,0,15398,Urban,Honda,Y,50,37,1
+LP001289,Male,married,0,Not Graduate,Yes,4219,3735,121,60,0,7954,Semiurban,Honda,N,57,54,1
+LP001290,Female,single,1,Not Graduate,No,13200,695,345,300,0,13895,Rural,Toyota,N,33,19,1
+LP001291,Male,single,3+,Not Graduate,Yes,5241,9501,285,12,0,14742,Semiurban,Toyota,N,52,37,1
+LP001292,Male,single,2,Not Graduate,Yes,11266,4152,105,12,1,15418,Rural,BMW,Y,20,14,1
+LP001293,Female,married,3+,Graduate,No,5498,7901,456,480,0,13399,Semiurban,Chevrolet,Y,22,6,0
+LP001294,Male,single,0,Graduate,Yes,17577,7470,409,300,1,25047,Urban,Honda,Y,43,27,0
+LP001295,Male,married,3+,Graduate,No,1794,7537,444,84,1,9331,Rural,Chevrolet,N,28,23,1
+LP001296,Male,married,2,Graduate,No,11677,2841,159,120,0,14518,Rural,Chevrolet,N,24,14,0
+LP001297,Male,single,3+,Not Graduate,Yes,11382,4208,241,36,0,15590,Urban,Toyota,N,27,12,1
+LP001298,Female,single,0,Not Graduate,No,2636,8733,441,60,0,11369,Semiurban,Chevrolet,Y,59,52,1
+LP001299,Female,single,1,Graduate,No,3564,1088,142,120,1,4652,Urban,BMW,Y,51,41,1
+LP001300,Female,married,3+,Not Graduate,Yes,8509,3363,399,60,0,11872,Urban,Toyota,N,20,14,1
+LP001301,Male,single,0,Not Graduate,Yes,14487,24,105,300,1,14511,Semiurban,Chevrolet,Y,25,16,0
+LP001302,Female,married,0,Graduate,Yes,6043,9764,109,12,0,15807,Urban,Toyota,N,48,40,0
+LP001303,Male,single,2,Graduate,No,2507,6144,187,300,1,8651,Rural,BMW,Y,28,25,1
+LP001304,Female,married,2,Not Graduate,No,6945,5668,88,480,0,12613,Rural,BMW,N,24,10,1
+LP001305,Male,married,3+,Not Graduate,Yes,12206,4236,77,60,0,16442,Rural,Chevrolet,Y,19,7,0
+LP001306,Female,single,1,Graduate,No,16249,9959,98,36,1,26208,Urban,Toyota,Y,23,22,0
+LP001307,Female,married,0,Graduate,Yes,13218,8068,469,60,0,21286,Rural,Chevrolet,N,58,57,1
+LP001308,Male,married,3+,Graduate,Yes,10939,2235,174,240,0,13174,Rural,Chevrolet,N,49,34,0
+LP001309,Female,single,0,Not Graduate,No,14781,7295,62,36,0,22076,Rural,Toyota,N,37,29,0
+LP001310,Male,married,0,Graduate,Yes,2935,8392,85,480,0,11327,Rural,Chevrolet,N,51,39,1
+LP001311,Male,single,1,Graduate,No,2071,8448,150,360,0,10519,Rural,BMW,N,33,31,1
+LP001312,Male,married,1,Not Graduate,No,3882,3747,331,12,0,7629,Rural,Toyota,Y,42,34,1
+LP001313,Male,single,3+,Not Graduate,Yes,6584,3175,135,36,0,9759,Urban,Toyota,N,29,17,1
+LP001314,Female,single,1,Not Graduate,No,18161,4897,53,240,1,23058,Rural,Toyota,N,24,23,1
+LP001315,Male,married,1,Not Graduate,Yes,15007,5037,272,300,1,20044,Rural,Toyota,N,56,49,1
+LP001316,Male,married,3+,Not Graduate,No,8559,7427,387,300,0,15986,Semiurban,Chevrolet,Y,34,26,1
+LP001317,Male,married,1,Graduate,No,19771,8605,497,12,0,28376,Urban,Chevrolet,N,28,13,1
+LP001318,Male,married,2,Graduate,No,14271,2014,215,240,0,16285,Urban,BMW,N,23,22,1
+LP001319,Female,married,0,Not Graduate,Yes,19149,1381,432,180,1,20530,Urban,Honda,N,40,35,0
+LP001320,Female,single,0,Not Graduate,No,8991,1098,393,36,1,10089,Urban,Honda,Y,44,37,1
+LP001321,Male,married,0,Not Graduate,Yes,16027,3426,432,180,0,19453,Rural,BMW,Y,23,19,0
+LP001322,Female,single,0,Not Graduate,No,18924,3655,425,84,1,22579,Rural,Honda,N,55,47,1
+LP001323,Male,single,3+,Not Graduate,No,16359,7938,327,12,0,24297,Semiurban,BMW,Y,19,19,1
+LP001324,Female,married,0,Graduate,Yes,9573,9101,179,360,0,18674,Semiurban,Chevrolet,N,39,31,1
+LP001325,Male,single,0,Graduate,Yes,10577,187,80,180,0,10764,Urban,Toyota,Y,37,28,1
+LP001326,Male,single,0,Graduate,Yes,12883,5409,424,480,0,18292,Semiurban,Toyota,N,42,39,1
+LP001327,Female,single,0,Graduate,Yes,17878,2092,60,480,1,19970,Semiurban,Chevrolet,Y,32,30,0
+LP001328,Male,single,2,Not Graduate,Yes,3853,2130,351,480,1,5983,Urban,Toyota,N,46,37,0
+LP001329,Male,married,0,Graduate,No,6299,5242,145,300,0,11541,Urban,Toyota,N,25,11,0
+LP001330,Female,single,2,Not Graduate,No,18570,8549,239,360,1,27119,Semiurban,Honda,Y,54,44,1
+LP001331,Female,married,3+,Not Graduate,Yes,13439,5647,241,120,1,19086,Rural,Chevrolet,N,50,37,1
+LP001332,Female,married,1,Not Graduate,No,3928,5185,315,36,0,9113,Semiurban,Honda,N,39,34,1
+LP001333,Female,single,0,Graduate,No,12796,5776,473,180,1,18572,Semiurban,Honda,N,22,11,1
+LP001334,Female,married,1,Not Graduate,No,9313,7913,177,36,0,17226,Rural,Toyota,N,56,44,1
+LP001335,Female,married,1,Graduate,Yes,15914,7547,287,60,0,23461,Rural,Toyota,Y,35,19,0
+LP001336,Male,married,3+,Graduate,No,13301,7823,457,36,0,21124,Urban,Chevrolet,N,55,40,0
+LP001337,Female,single,1,Not Graduate,No,13245,7355,404,60,0,20600,Urban,Toyota,Y,54,52,0
+LP001338,Female,married,2,Not Graduate,No,14525,6465,477,300,1,20990,Semiurban,Toyota,Y,47,46,1
+LP001339,Male,married,1,Not Graduate,Yes,4856,1497,161,12,0,6353,Rural,Chevrolet,Y,48,38,0
+LP001340,Female,married,1,Graduate,No,15788,2555,365,84,1,18343,Urban,Toyota,Y,27,19,0
+LP001341,Female,single,1,Not Graduate,No,8040,5409,495,360,0,13449,Semiurban,Honda,N,32,30,1
+LP001342,Female,married,0,Graduate,Yes,17922,2951,392,60,0,20873,Rural,Chevrolet,N,59,42,0
+LP001343,Female,single,0,Not Graduate,Yes,4842,1238,194,84,1,6080,Semiurban,Toyota,Y,35,21,1
+LP001344,Male,single,2,Not Graduate,No,10578,9165,114,360,0,19743,Urban,BMW,N,40,27,0
+LP001345,Female,single,2,Graduate,No,4344,4727,296,360,1,9071,Urban,Chevrolet,Y,50,49,1
+LP001346,Male,single,0,Graduate,Yes,11896,3965,272,84,1,15861,Rural,Chevrolet,N,33,17,1
+LP001347,Male,single,2,Graduate,Yes,18982,5686,362,240,0,24668,Semiurban,BMW,N,55,48,1
+LP001348,Female,single,0,Graduate,Yes,19707,9242,488,84,0,28949,Rural,Toyota,N,52,43,1
+LP001349,Female,married,3+,Graduate,Yes,15498,3701,155,300,0,19199,Urban,Toyota,Y,51,34,0
+LP001350,Male,single,1,Graduate,Yes,14761,2780,230,120,0,17541,Urban,Chevrolet,Y,45,38,1
+LP001351,Male,married,1,Not Graduate,Yes,4593,7398,233,300,0,11991,Semiurban,Chevrolet,N,19,12,0
+LP001352,Female,married,2,Not Graduate,Yes,13222,1588,275,36,0,14810,Semiurban,Toyota,Y,47,45,0
+LP001353,Male,single,0,Graduate,No,13145,2368,314,36,1,15513,Semiurban,Toyota,Y,30,28,0
+LP001354,Male,married,0,Not Graduate,Yes,16583,5789,327,60,1,22372,Rural,Honda,N,58,47,0
+LP001355,Female,married,2,Graduate,Yes,2488,436,446,480,0,2924,Semiurban,Chevrolet,Y,33,17,0
+LP001356,Female,married,0,Not Graduate,No,7946,2828,138,300,1,10774,Semiurban,Chevrolet,N,22,19,0
+LP001357,Female,married,3+,Not Graduate,Yes,17835,1556,225,60,1,19391,Urban,BMW,N,45,29,0
+LP001358,Male,single,1,Graduate,Yes,17633,7570,67,300,0,25203,Urban,Honda,N,56,43,1
+LP001359,Male,married,2,Graduate,No,3182,7480,420,60,0,10662,Semiurban,Toyota,Y,37,29,1
+LP001360,Female,single,2,Graduate,Yes,7126,9496,473,36,1,16622,Semiurban,Honda,N,41,30,1
+LP001361,Male,married,0,Not Graduate,No,8924,182,450,36,0,9106,Urban,Toyota,N,44,40,1
+LP001362,Female,married,2,Graduate,No,14357,7190,448,12,1,21547,Semiurban,Toyota,Y,47,37,1
+LP001363,Male,single,3+,Not Graduate,No,13655,6687,155,360,0,20342,Rural,Honda,Y,44,42,1
+LP001364,Female,married,0,Graduate,No,18817,5565,320,180,1,24382,Rural,Chevrolet,Y,43,29,1
+LP001365,Male,married,0,Not Graduate,Yes,12925,7241,368,180,1,20166,Rural,Toyota,Y,24,11,1
+LP001366,Male,married,0,Not Graduate,No,3480,7651,216,360,1,11131,Semiurban,Honda,N,59,49,1
+LP001367,Male,single,0,Graduate,No,17022,5575,62,480,1,22597,Urban,BMW,Y,55,48,0
+LP001368,Male,married,3+,Not Graduate,Yes,10484,1589,386,360,0,12073,Semiurban,Honda,Y,22,19,0
+LP001369,Male,single,0,Not Graduate,No,18675,9779,81,36,0,28454,Semiurban,BMW,Y,40,29,0
+LP001370,Female,married,2,Graduate,No,17383,8851,442,480,1,26234,Urban,Toyota,Y,45,38,0
+LP001371,Male,single,3+,Not Graduate,No,6890,159,89,480,1,7049,Urban,Honda,N,51,46,1
+LP001372,Male,single,1,Graduate,No,3107,6555,197,12,0,9662,Urban,Honda,Y,32,18,1
+LP001373,Female,married,1,Graduate,Yes,8073,9203,267,240,0,17276,Rural,BMW,N,49,38,0
+LP001374,Male,married,2,Graduate,No,18868,8244,268,480,1,27112,Semiurban,Honda,Y,43,28,0
+LP001375,Female,single,2,Graduate,Yes,7276,6846,131,120,1,14122,Urban,Honda,N,48,33,1
+LP001376,Male,single,3+,Not Graduate,Yes,5176,2307,382,480,1,7483,Semiurban,Toyota,N,36,33,0
+LP001377,Male,married,1,Not Graduate,No,4880,1228,257,480,1,6108,Rural,Honda,Y,26,16,0
+LP001378,Female,single,1,Not Graduate,No,10211,7226,250,240,1,17437,Rural,Chevrolet,N,46,34,0
+LP001379,Male,married,1,Graduate,No,10282,5590,496,180,0,15872,Urban,BMW,Y,56,48,1
+LP001380,Male,married,1,Not Graduate,No,18934,6919,381,480,1,25853,Urban,Honda,N,21,18,0
+LP001381,Male,married,1,Not Graduate,Yes,15497,5585,477,84,0,21082,Semiurban,BMW,N,20,9,1
+LP001382,Male,married,0,Graduate,Yes,7842,9227,87,360,0,17069,Urban,BMW,N,46,38,1
+LP001383,Male,single,2,Graduate,Yes,18843,6046,260,84,0,24889,Semiurban,BMW,Y,28,16,1
+LP001384,Male,married,0,Not Graduate,No,7559,4945,493,60,1,12504,Urban,Honda,N,50,35,0
+LP001385,Male,single,1,Graduate,Yes,10384,7927,376,36,0,18311,Semiurban,Honda,Y,55,50,0
+LP001386,Female,married,3+,Graduate,No,7155,7016,298,240,0,14171,Semiurban,BMW,N,28,19,1
+LP001387,Male,single,3+,Graduate,No,13591,7758,276,300,0,21349,Semiurban,Chevrolet,N,44,32,0
+LP001388,Female,married,1,Graduate,No,16751,5086,97,120,0,21837,Semiurban,BMW,N,50,44,1
+LP001389,Female,single,1,Not Graduate,No,2026,9456,67,84,1,11482,Rural,Chevrolet,N,38,22,1
+LP001390,Male,single,3+,Graduate,No,4724,7161,449,36,1,11885,Semiurban,BMW,N,56,44,1
+LP001391,Male,married,0,Graduate,Yes,16569,1884,488,480,0,18453,Urban,Toyota,N,48,36,0
+LP001392,Female,married,0,Graduate,Yes,13036,1809,344,480,0,14845,Rural,BMW,Y,55,54,0
+LP001393,Male,married,1,Graduate,No,15047,3167,245,84,1,18214,Rural,BMW,Y,19,10,0
+LP001394,Male,married,0,Graduate,Yes,19759,6352,236,180,1,26111,Semiurban,Honda,Y,44,32,1
+LP001395,Male,single,3+,Graduate,No,3263,9009,394,36,1,12272,Rural,Chevrolet,N,53,45,0
+LP001396,Female,married,0,Graduate,No,10212,6056,273,36,0,16268,Semiurban,Toyota,Y,28,28,1
+LP001397,Male,single,1,Graduate,No,7297,2437,367,240,1,9734,Urban,Chevrolet,N,35,22,0
+LP001398,Female,single,3+,Not Graduate,Yes,10708,6468,446,240,0,17176,Semiurban,Toyota,Y,18,3,0
+LP001399,Male,married,0,Graduate,No,6609,9080,414,240,0,15689,Rural,BMW,Y,52,38,0
+LP001400,Male,single,2,Not Graduate,No,18000,5951,386,60,1,23951,Urban,Honda,N,52,52,0
+LP001401,Male,single,3+,Graduate,Yes,3933,5276,278,180,0,9209,Semiurban,Honda,N,48,32,1
+LP001402,Male,single,3+,Graduate,Yes,18467,8859,439,180,1,27326,Urban,Chevrolet,Y,45,33,1
+LP001403,Male,single,2,Graduate,Yes,5667,7818,126,300,0,13485,Urban,Honda,Y,56,42,0
+LP001404,Male,married,2,Graduate,No,19273,4728,237,84,1,24001,Rural,Chevrolet,Y,18,3,0
+LP001405,Female,married,3+,Not Graduate,No,9857,2624,395,360,0,12481,Urban,Chevrolet,Y,42,27,0
+LP001406,Male,married,2,Graduate,Yes,7654,5738,319,300,0,13392,Rural,Toyota,N,55,54,0
+LP001407,Male,married,1,Graduate,No,10420,4232,144,480,1,14652,Urban,Chevrolet,Y,37,21,1
+LP001408,Male,single,1,Not Graduate,Yes,19927,5793,359,360,1,25720,Semiurban,Toyota,N,20,10,1
+LP001409,Female,single,1,Not Graduate,Yes,18662,4523,181,480,1,23185,Urban,Honda,N,19,12,0
+LP001410,Female,married,3+,Graduate,No,1713,5571,88,480,1,7284,Semiurban,Chevrolet,Y,35,33,1
+LP001411,Male,married,2,Not Graduate,No,5262,9010,121,60,0,14272,Semiurban,Chevrolet,N,27,16,1
+LP001412,Male,married,2,Not Graduate,Yes,14899,9298,330,36,1,24197,Urban,BMW,Y,22,7,1
+LP001413,Female,single,0,Not Graduate,Yes,11268,2224,382,84,1,13492,Semiurban,Chevrolet,N,26,13,1
+LP001414,Male,married,0,Graduate,Yes,12140,8389,209,300,0,20529,Urban,Chevrolet,N,19,4,1
+LP001415,Female,married,2,Graduate,Yes,8231,6091,236,300,1,14322,Urban,BMW,Y,51,35,0
+LP001416,Female,married,2,Graduate,No,7291,8662,240,36,1,15953,Semiurban,BMW,N,55,45,0
+LP001417,Male,single,2,Not Graduate,Yes,17322,6361,471,180,0,23683,Semiurban,Honda,N,48,32,1
+LP001418,Male,single,3+,Graduate,Yes,10283,1948,169,120,1,12231,Rural,Chevrolet,Y,27,27,0
+LP001419,Male,single,2,Not Graduate,Yes,15121,7094,269,300,1,22215,Semiurban,Honda,N,29,18,0
+LP001420,Female,single,0,Graduate,No,17519,6318,102,120,1,23837,Rural,Honda,N,53,39,0
+LP001421,Female,single,3+,Graduate,No,4220,3796,271,480,1,8016,Semiurban,BMW,Y,38,21,0
+LP001422,Female,single,2,Not Graduate,Yes,10405,234,461,84,1,10639,Urban,Toyota,Y,23,10,1
+LP001423,Female,single,0,Graduate,No,10627,9120,180,480,1,19747,Semiurban,Honda,N,20,20,0
+LP001424,Female,single,3+,Not Graduate,No,17885,3607,286,36,0,21492,Urban,Toyota,N,27,15,0
+LP001425,Male,married,2,Not Graduate,No,7868,8043,295,300,1,15911,Urban,Chevrolet,N,22,8,1
+LP001426,Male,married,2,Graduate,Yes,15556,522,275,84,0,16078,Urban,BMW,Y,43,37,1
+LP001427,Female,single,2,Not Graduate,Yes,13736,5904,257,60,0,19640,Rural,Chevrolet,N,38,24,0
+LP001428,Male,single,3+,Graduate,No,19833,4888,455,240,0,24721,Semiurban,Chevrolet,N,43,34,1
+LP001429,Male,married,0,Graduate,Yes,15951,9821,145,360,0,25772,Urban,BMW,N,55,42,0
+LP001430,Male,single,0,Not Graduate,Yes,18801,5832,471,300,1,24633,Urban,Chevrolet,N,43,38,0
+LP001431,Female,single,1,Graduate,No,11933,7122,249,300,1,19055,Rural,BMW,N,25,12,1
+LP001432,Male,single,2,Not Graduate,No,17025,5842,296,12,1,22867,Semiurban,Toyota,N,22,11,0
+LP001433,Female,married,1,Graduate,Yes,1589,1316,121,300,0,2905,Semiurban,Chevrolet,Y,32,22,0
+LP001434,Male,married,1,Graduate,No,19593,1124,367,240,1,20717,Rural,BMW,Y,33,32,0
+LP001435,Female,married,0,Graduate,Yes,11861,5621,234,84,1,17482,Rural,Honda,N,18,18,0
+LP001436,Female,married,3+,Graduate,Yes,17869,5423,55,240,1,23292,Semiurban,Chevrolet,N,33,26,1
+LP001437,Female,married,3+,Graduate,No,4541,2587,255,240,0,7128,Rural,Toyota,Y,54,41,1
+LP001438,Female,single,0,Not Graduate,Yes,1605,9215,81,240,0,10820,Semiurban,BMW,Y,20,12,0
+LP001439,Male,married,3+,Not Graduate,Yes,10578,5672,148,360,1,16250,Semiurban,Chevrolet,Y,48,47,0
+LP001440,Female,single,1,Not Graduate,No,19779,1378,443,36,0,21157,Urban,Chevrolet,N,30,26,1
+LP001441,Male,single,2,Not Graduate,No,7590,3374,436,84,0,10964,Urban,Chevrolet,N,33,26,1
+LP001442,Female,married,0,Not Graduate,No,7582,1519,305,84,1,9101,Semiurban,Toyota,N,38,23,1
+LP001443,Female,married,2,Not Graduate,Yes,18518,5777,236,300,0,24295,Semiurban,BMW,N,19,4,0
+LP001444,Male,single,3+,Graduate,No,3425,7935,125,12,0,11360,Semiurban,Honda,Y,44,32,0
+LP001445,Male,single,2,Graduate,No,19940,6093,226,84,1,26033,Semiurban,Honda,Y,55,41,1
+LP001446,Male,single,3+,Not Graduate,No,8417,8418,364,84,0,16835,Semiurban,Honda,Y,43,43,0
+LP001447,Male,married,3+,Not Graduate,No,2052,5355,336,360,0,7407,Semiurban,BMW,Y,55,53,1
+LP001448,Male,married,1,Graduate,Yes,5411,4968,398,84,0,10379,Rural,Honda,N,42,37,0
+LP001449,Female,married,3+,Graduate,Yes,4889,9083,304,12,0,13972,Semiurban,Toyota,N,28,15,1
+LP001450,Female,married,1,Graduate,No,15129,5574,374,120,0,20703,Rural,BMW,Y,25,22,0
+LP001451,Male,married,1,Not Graduate,Yes,3930,4072,239,36,0,8002,Rural,Chevrolet,Y,25,8,1
+LP001452,Male,single,1,Not Graduate,No,1958,2257,357,480,0,4215,Semiurban,Toyota,Y,50,36,1
+LP001453,Female,married,0,Not Graduate,No,14895,8588,394,180,0,23483,Semiurban,Chevrolet,Y,24,16,1
+LP001454,Female,single,0,Graduate,Yes,1707,4424,176,36,1,6131,Rural,Honda,Y,55,38,0
+LP001455,Male,single,3+,Graduate,Yes,2399,3237,474,480,1,5636,Rural,Toyota,N,38,36,1
+LP001456,Male,single,1,Not Graduate,No,13153,3893,336,60,1,17046,Semiurban,BMW,N,25,16,1
+LP001457,Male,married,0,Not Graduate,No,17905,2005,303,12,1,19910,Semiurban,Toyota,Y,38,22,0
+LP001458,Male,married,1,Graduate,Yes,10101,2016,262,180,0,12117,Rural,Chevrolet,Y,37,31,1
+LP001459,Male,married,2,Graduate,No,2394,9388,299,180,1,11782,Rural,BMW,Y,25,11,0
+LP001460,Female,single,2,Graduate,Yes,2014,1772,133,84,1,3786,Rural,Toyota,N,48,48,0
+LP001461,Female,single,2,Graduate,No,5609,8353,432,360,0,13962,Urban,Toyota,N,46,36,1
+LP001462,Male,single,3+,Not Graduate,No,14758,3976,455,36,0,18734,Rural,Toyota,N,26,10,1
+LP001463,Male,single,1,Graduate,Yes,16813,1751,437,84,0,18564,Urban,Toyota,Y,32,28,1
+LP001464,Male,single,2,Graduate,Yes,16849,8967,62,84,0,25816,Semiurban,BMW,N,47,41,0
+LP001465,Female,single,0,Graduate,Yes,8679,7430,94,12,0,16109,Semiurban,Chevrolet,Y,43,29,1
+LP001466,Female,married,2,Not Graduate,Yes,11826,7170,176,12,1,18996,Rural,Toyota,N,27,25,0
+LP001467,Female,married,2,Not Graduate,Yes,13287,6469,475,300,0,19756,Semiurban,BMW,N,46,32,0
+LP001468,Male,married,2,Graduate,Yes,3060,9131,163,120,1,12191,Semiurban,Chevrolet,N,33,29,1
+LP001469,Female,married,3+,Graduate,Yes,15112,3220,482,120,1,18332,Semiurban,Toyota,Y,53,42,0
+LP001470,Female,single,0,Graduate,No,19150,539,325,120,0,19689,Semiurban,Chevrolet,Y,37,33,0
+LP001471,Female,single,1,Not Graduate,No,6280,1461,254,240,1,7741,Urban,Chevrolet,N,54,52,1
+LP001472,Female,married,0,Not Graduate,No,19811,5184,386,240,1,24995,Urban,BMW,Y,39,31,1
+LP001473,Male,single,1,Not Graduate,Yes,13394,8547,487,180,0,21941,Rural,Chevrolet,Y,24,16,1
+LP001474,Female,married,3+,Graduate,Yes,3856,234,469,300,1,4090,Rural,BMW,Y,40,34,1
+LP001475,Female,married,3+,Not Graduate,Yes,6290,1548,434,480,1,7838,Rural,Toyota,Y,58,57,0
+LP001476,Female,married,3+,Graduate,No,18190,7480,448,360,1,25670,Semiurban,Chevrolet,Y,57,42,0
+LP001477,Male,single,3+,Graduate,Yes,11681,4213,322,36,0,15894,Semiurban,Chevrolet,Y,46,38,0
+LP001478,Female,married,1,Graduate,Yes,8557,1673,457,360,0,10230,Urban,Honda,Y,33,21,1
+LP001479,Female,married,2,Not Graduate,No,17582,6708,107,300,0,24290,Urban,Toyota,N,55,39,0
+LP001480,Female,married,1,Graduate,Yes,2161,7982,377,300,1,10143,Rural,Toyota,Y,45,40,0
+LP001481,Male,single,0,Not Graduate,No,6144,2100,268,36,0,8244,Urban,Honda,Y,55,52,0
+LP001482,Female,single,3+,Not Graduate,No,17211,3748,158,12,1,20959,Urban,Honda,N,48,48,1
+LP001483,Male,married,3+,Graduate,Yes,4420,3173,328,120,0,7593,Urban,BMW,N,31,14,0
+LP001484,Female,single,0,Graduate,Yes,17502,1815,223,84,1,19317,Urban,BMW,N,50,42,0
+LP001485,Female,single,1,Not Graduate,Yes,15525,3841,377,360,0,19366,Urban,Chevrolet,N,26,14,1
+LP001486,Male,single,2,Graduate,No,10446,8016,313,12,0,18462,Rural,Chevrolet,Y,44,37,1
+LP001487,Male,single,2,Not Graduate,No,14232,7011,364,12,1,21243,Rural,Chevrolet,N,41,29,0
+LP001488,Female,single,0,Graduate,No,7736,4493,160,480,0,12229,Urban,Chevrolet,N,30,16,0
+LP001489,Female,single,2,Not Graduate,Yes,17809,674,236,300,1,18483,Rural,BMW,Y,43,33,1
+LP001490,Male,single,1,Not Graduate,Yes,15018,8088,318,360,0,23106,Semiurban,Toyota,Y,46,35,0
+LP001491,Male,single,1,Not Graduate,Yes,1852,8578,472,240,0,10430,Urban,Chevrolet,Y,45,32,0
+LP001492,Male,single,0,Not Graduate,Yes,8505,2158,278,12,1,10663,Semiurban,Toyota,N,45,42,1
+LP001493,Female,single,1,Graduate,No,15536,2661,205,240,1,18197,Rural,Chevrolet,Y,25,25,1
+LP001494,Female,married,3+,Graduate,No,18042,2064,238,84,1,20106,Rural,Honda,N,40,37,1
+LP001495,Male,married,0,Not Graduate,No,2456,3253,321,360,0,5709,Semiurban,Chevrolet,Y,46,38,0
+LP001496,Female,single,1,Not Graduate,No,3571,4979,424,180,1,8550,Rural,Chevrolet,Y,22,13,1
+LP001497,Male,married,0,Graduate,Yes,10095,7703,51,240,0,17798,Urban,Chevrolet,N,59,56,0
+LP001498,Female,married,2,Graduate,Yes,16640,8931,295,180,1,25571,Semiurban,BMW,Y,24,16,1
+LP001499,Male,single,1,Graduate,Yes,14303,1401,259,60,1,15704,Urban,Honda,Y,59,47,0
+LP001500,Male,single,3+,Graduate,No,4953,3259,450,180,1,8212,Semiurban,Chevrolet,Y,53,42,1
+LP001501,Female,single,1,Graduate,No,8175,3923,335,180,1,12098,Rural,Chevrolet,Y,58,48,0
+LP001502,Female,married,0,Graduate,Yes,2455,4214,408,360,1,6669,Semiurban,Toyota,Y,44,33,1
+LP001503,Female,married,0,Not Graduate,Yes,7795,3227,62,12,1,11022,Semiurban,Honda,N,19,2,0
+LP001504,Male,single,1,Graduate,No,17421,2745,145,84,0,20166,Urban,Chevrolet,N,42,31,1
+LP001505,Female,single,3+,Graduate,Yes,19596,6091,270,480,1,25687,Rural,Toyota,Y,26,11,1
+LP001506,Female,single,3+,Not Graduate,No,16782,3866,287,480,0,20648,Urban,Toyota,N,44,40,0
+LP001507,Female,married,3+,Graduate,No,6203,5818,143,60,1,12021,Rural,BMW,N,18,7,1
+LP001508,Female,married,0,Graduate,No,8063,2222,387,240,1,10285,Urban,Toyota,N,40,30,1
+LP001509,Male,married,1,Graduate,Yes,13503,2792,318,60,1,16295,Semiurban,Chevrolet,Y,27,19,0
+LP001510,Male,married,2,Graduate,Yes,12317,9889,220,60,0,22206,Urban,BMW,Y,59,42,1
+LP001511,Male,single,0,Graduate,No,12671,4063,143,240,0,16734,Rural,BMW,Y,42,40,0
+LP001512,Female,single,3+,Not Graduate,Yes,14082,1524,198,120,1,15606,Rural,Chevrolet,N,20,4,1
+LP001513,Female,single,1,Graduate,No,13701,8224,161,180,0,21925,Semiurban,Honda,N,23,10,1
+LP001514,Male,single,3+,Not Graduate,No,19278,6198,104,120,1,25476,Rural,Toyota,Y,23,23,1
+LP001515,Male,married,2,Not Graduate,No,13973,4025,386,360,1,17998,Urban,BMW,Y,19,3,1
+LP001516,Male,married,3+,Graduate,No,10961,2566,473,180,0,13527,Semiurban,Honda,N,35,28,1
+LP001517,Female,single,3+,Not Graduate,Yes,17096,2803,165,300,0,19899,Rural,Chevrolet,N,40,36,1
+LP001518,Female,single,2,Graduate,No,2029,3709,192,84,0,5738,Rural,Toyota,Y,19,15,0
+LP001519,Female,married,1,Not Graduate,No,14265,6155,250,36,0,20420,Urban,Toyota,N,29,21,1
+LP001520,Male,single,0,Not Graduate,Yes,15410,719,229,12,1,16129,Urban,BMW,N,39,37,1
+LP001521,Female,married,1,Graduate,No,13061,6516,251,480,0,19577,Semiurban,Toyota,N,54,46,1
+LP001522,Female,single,2,Graduate,No,10631,4579,413,120,0,15210,Rural,Toyota,N,37,20,0
+LP001523,Male,single,3+,Graduate,Yes,2025,972,102,120,1,2997,Urban,Toyota,N,56,41,1
+LP001524,Female,single,1,Graduate,Yes,17885,3718,433,180,0,21603,Semiurban,Toyota,N,41,41,1
+LP001525,Female,single,0,Graduate,Yes,1874,7395,229,12,0,9269,Rural,Chevrolet,N,37,36,1
+LP001526,Female,single,2,Not Graduate,No,13697,4402,463,480,0,18099,Rural,Honda,Y,18,5,0
+LP001527,Female,single,1,Not Graduate,Yes,6148,4552,466,36,0,10700,Semiurban,Chevrolet,Y,18,5,1
+LP001528,Female,single,0,Not Graduate,Yes,3865,2207,362,180,1,6072,Semiurban,Chevrolet,N,34,34,1
+LP001529,Female,married,2,Not Graduate,No,19409,4426,357,60,1,23835,Urban,BMW,N,18,3,1
+LP001530,Male,married,0,Not Graduate,No,3146,6919,186,300,0,10065,Rural,Toyota,N,47,33,0
+LP001531,Female,married,2,Not Graduate,No,1513,8835,231,300,0,10348,Rural,Chevrolet,Y,58,44,0
+LP001532,Male,married,3+,Not Graduate,No,6099,8386,416,36,1,14485,Rural,Toyota,Y,20,9,0
+LP001533,Female,married,1,Graduate,No,3778,8680,50,60,0,12458,Semiurban,Chevrolet,N,28,13,0
+LP001534,Male,single,0,Graduate,Yes,15796,2204,93,300,0,18000,Urban,Chevrolet,Y,41,28,0
+LP001535,Male,single,2,Not Graduate,Yes,4655,5345,276,480,0,10000,Rural,BMW,N,39,25,1
+LP001536,Male,married,0,Not Graduate,Yes,9821,3276,380,360,0,13097,Semiurban,Honda,N,43,29,1
+LP001537,Male,single,0,Graduate,No,5314,1102,147,300,0,6416,Rural,Honda,N,30,23,0
+LP001538,Male,married,1,Graduate,No,14625,5243,257,60,0,19868,Urban,Chevrolet,N,18,17,1
+LP001539,Male,married,3+,Graduate,No,4716,6614,314,12,0,11330,Rural,BMW,N,41,40,1
+LP001540,Male,single,0,Graduate,Yes,3613,9433,337,12,0,13046,Urban,Toyota,N,27,18,0
+LP001541,Female,single,2,Not Graduate,Yes,11738,8707,320,240,0,20445,Urban,Toyota,N,52,50,0
+LP001542,Male,single,2,Graduate,No,15260,5223,189,36,1,20483,Rural,Chevrolet,Y,41,25,1
+LP001543,Male,married,3+,Not Graduate,Yes,14088,8584,286,360,1,22672,Rural,Honda,N,45,38,1
+LP001544,Female,single,2,Not Graduate,No,4874,630,490,12,1,5504,Urban,BMW,Y,53,50,1
+LP001545,Female,married,3+,Not Graduate,Yes,7930,9171,441,84,0,17101,Semiurban,Honda,N,33,20,0
+LP001546,Male,married,2,Graduate,Yes,13470,6683,121,180,0,20153,Urban,Toyota,N,57,48,0
+LP001547,Male,married,1,Graduate,Yes,2129,277,204,240,1,2406,Rural,Honda,Y,33,33,0
+LP001548,Female,single,0,Not Graduate,No,18153,232,239,36,0,18385,Rural,Toyota,Y,34,31,0
+LP001549,Male,single,1,Not Graduate,Yes,12331,9744,317,120,1,22075,Semiurban,BMW,N,32,32,0
+LP001550,Female,married,0,Not Graduate,Yes,7224,5690,370,84,0,12914,Urban,BMW,Y,33,17,1
+LP001551,Female,single,0,Graduate,No,12583,7659,156,120,1,20242,Urban,Chevrolet,N,32,16,1
+LP001552,Male,single,0,Not Graduate,Yes,14649,25,281,36,1,14674,Urban,Chevrolet,N,51,45,0
+LP001553,Male,single,1,Graduate,No,10972,7468,91,84,1,18440,Rural,Honda,Y,28,14,0
+LP001554,Male,married,0,Not Graduate,No,7776,6410,239,60,0,14186,Urban,BMW,Y,18,6,0
+LP001555,Female,married,1,Not Graduate,No,17135,8652,420,360,1,25787,Semiurban,BMW,Y,32,31,1
+LP001556,Female,single,3+,Not Graduate,No,7395,3764,188,180,0,11159,Rural,Chevrolet,Y,43,31,1
+LP001557,Male,married,2,Graduate,No,15494,6599,152,84,0,22093,Rural,Toyota,N,21,11,1
+LP001558,Female,single,2,Graduate,Yes,12052,5102,220,360,0,17154,Urban,Honda,Y,22,8,0
+LP001559,Male,single,0,Not Graduate,No,18459,7006,400,36,0,25465,Semiurban,Honda,Y,52,43,0
+LP001560,Male,single,1,Graduate,No,7599,3483,322,60,0,11082,Rural,Chevrolet,Y,30,22,1
+LP001561,Female,single,2,Not Graduate,No,10999,1994,465,36,0,12993,Rural,BMW,Y,27,19,1
+LP001562,Male,married,1,Graduate,No,4678,8682,270,300,0,13360,Urban,Chevrolet,Y,28,28,1
+LP001563,Male,married,1,Graduate,Yes,7616,1072,262,480,1,8688,Urban,Chevrolet,N,35,19,1
+LP001564,Female,married,0,Graduate,No,17063,6707,390,120,1,23770,Semiurban,Chevrolet,N,51,40,0
+LP001565,Female,single,2,Not Graduate,Yes,5068,215,473,240,1,5283,Urban,Chevrolet,Y,56,47,1
+LP001566,Male,single,0,Graduate,No,11347,7605,456,36,0,18952,Semiurban,Toyota,Y,58,54,0
+LP001567,Female,single,0,Graduate,Yes,15635,9915,105,60,0,25550,Rural,Toyota,N,59,42,0
+LP001568,Female,married,2,Not Graduate,No,19274,9784,439,240,0,29058,Semiurban,BMW,Y,40,26,0
+LP001569,Male,single,2,Not Graduate,No,3242,2606,391,240,0,5848,Semiurban,Chevrolet,N,24,19,1
+LP001570,Male,married,3+,Not Graduate,Yes,19809,8350,483,60,1,28159,Semiurban,Toyota,N,56,50,0
+LP001571,Male,married,3+,Not Graduate,No,2119,4781,151,36,0,6900,Rural,BMW,Y,20,4,0
+LP001572,Male,married,1,Graduate,Yes,19158,3313,470,240,1,22471,Urban,Chevrolet,N,29,24,1
+LP001573,Male,married,2,Graduate,No,18840,9968,241,12,0,28808,Rural,Honda,Y,24,17,0
+LP001574,Male,married,3+,Graduate,Yes,3439,7763,359,480,1,11202,Urban,Toyota,Y,43,32,0
+LP001575,Male,married,1,Graduate,No,17501,5939,249,480,0,23440,Semiurban,BMW,N,50,37,1
+LP001576,Female,single,1,Graduate,No,2468,2295,282,84,1,4763,Semiurban,Honda,N,54,43,0
+LP001577,Female,single,1,Not Graduate,Yes,16346,5685,482,12,0,22031,Semiurban,Chevrolet,Y,32,23,0
+LP001578,Male,married,3+,Graduate,No,1781,1696,276,240,1,3477,Semiurban,Chevrolet,N,19,5,1
+LP001579,Female,married,2,Graduate,No,16860,1946,420,84,0,18806,Semiurban,Chevrolet,Y,58,52,1
+LP001580,Male,single,0,Graduate,No,7762,2783,188,480,1,10545,Urban,Toyota,N,24,16,1
+LP001581,Female,married,1,Not Graduate,No,2558,3644,393,60,1,6202,Urban,BMW,N,49,40,1
+LP001582,Male,married,3+,Not Graduate,No,12224,5241,354,12,0,17465,Semiurban,Honda,Y,21,12,0
+LP001583,Female,single,3+,Graduate,No,6678,6420,198,12,1,13098,Rural,BMW,Y,37,22,1
+LP001584,Male,married,0,Not Graduate,Yes,8480,7557,164,84,0,16037,Rural,Toyota,Y,53,47,0
+LP001585,Female,married,0,Not Graduate,Yes,10700,2645,499,180,0,13345,Semiurban,BMW,N,49,45,1
+LP001586,Male,married,3+,Not Graduate,Yes,2729,6589,112,480,0,9318,Urban,Toyota,Y,45,43,1
+LP001587,Female,single,2,Not Graduate,No,9967,6353,153,12,1,16320,Rural,Chevrolet,Y,30,13,0
+LP001588,Male,single,0,Not Graduate,Yes,3789,1932,388,12,1,5721,Rural,Honda,N,18,8,1
+LP001589,Male,single,3+,Not Graduate,No,2739,1757,408,84,0,4496,Rural,Chevrolet,N,52,38,1
+LP001590,Female,married,0,Not Graduate,No,6870,5085,205,180,0,11955,Semiurban,BMW,Y,47,43,1
+LP001591,Male,married,2,Graduate,No,17670,5637,322,300,1,23307,Rural,Chevrolet,Y,53,42,1
+LP001592,Female,single,1,Graduate,No,1625,1116,55,180,1,2741,Rural,Honda,Y,42,39,0
+LP001593,Male,married,0,Not Graduate,Yes,14004,492,196,360,1,14496,Rural,Chevrolet,Y,33,19,1
+LP001594,Female,married,2,Graduate,No,16898,8811,233,180,0,25709,Rural,Honda,N,36,28,0
+LP001595,Male,married,3+,Graduate,Yes,8138,7888,77,12,0,16026,Urban,Honda,N,18,12,0
+LP001596,Male,married,0,Not Graduate,No,8070,6474,499,300,0,14544,Semiurban,Chevrolet,Y,22,13,1
+LP001597,Female,married,0,Graduate,Yes,4749,9738,87,120,0,14487,Semiurban,Toyota,Y,39,27,1
+LP001598,Male,single,3+,Not Graduate,Yes,10610,4958,168,240,0,15568,Urban,BMW,Y,41,34,0
+LP001599,Female,married,1,Not Graduate,Yes,9095,9797,342,60,1,18892,Urban,Toyota,N,54,43,1
+LP001600,Male,single,3+,Not Graduate,Yes,15105,9467,420,240,0,24572,Semiurban,Toyota,Y,53,53,0
+LP001601,Male,married,0,Graduate,Yes,13615,2743,293,180,1,16358,Rural,Chevrolet,Y,53,38,0
+LP001602,Male,single,3+,Graduate,Yes,7794,7866,117,12,1,15660,Rural,BMW,N,21,5,0
+LP001603,Female,married,2,Graduate,No,7257,7160,263,480,0,14417,Semiurban,BMW,N,53,36,1
+LP001604,Male,single,3+,Graduate,Yes,14095,5451,267,480,1,19546,Rural,Toyota,Y,35,25,0
+LP001605,Male,married,0,Not Graduate,No,3469,5258,226,480,0,8727,Urban,Chevrolet,Y,33,16,0
+LP001606,Female,single,3+,Not Graduate,Yes,12485,8548,348,84,1,21033,Rural,BMW,N,58,52,1
+LP001607,Female,married,1,Graduate,No,18775,7186,213,300,0,25961,Rural,Toyota,Y,35,18,1
+LP001608,Male,single,3+,Not Graduate,Yes,5970,6102,107,360,0,12072,Rural,BMW,Y,39,32,1
+LP001609,Male,married,1,Not Graduate,Yes,11725,9061,318,480,1,20786,Semiurban,Chevrolet,N,19,14,1
+LP001610,Female,single,2,Graduate,No,11056,9077,357,60,0,20133,Urban,Chevrolet,N,38,32,1
+LP001611,Male,single,1,Not Graduate,Yes,10706,9475,107,300,1,20181,Rural,Chevrolet,N,53,44,0
+LP001612,Female,married,3+,Graduate,Yes,11491,619,337,180,0,12110,Semiurban,BMW,Y,56,46,1
+LP001613,Female,married,0,Not Graduate,Yes,9019,882,154,360,0,9901,Rural,Honda,N,56,44,0
+LP001614,Male,single,1,Graduate,No,15169,8988,277,120,0,24157,Urban,BMW,N,46,38,0

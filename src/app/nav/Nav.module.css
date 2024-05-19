@@ -6,7 +6,7 @@
 }
 
 
-.ul_nav {
+.ul_nav ,.total_nav{
     font-family: 'Lato', sans-serif;
     list-style-type: none;
     display: flex;

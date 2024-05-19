@@ -3,8 +3,7 @@
 import styles from './Apply.module.css';
 import React from "react"
 // import Nav from './nav/Nav'
-import FormComponent from './cont1'
-import FormComponent2 from './cont2'
+import Form from './Form'
 
 // import React, { useEffect } from "react";
 
@@ -34,7 +33,7 @@ export default function Apply() {
 
 
     return (
-        <div id='Apply'>
+        <div id='Applyll'>
 
             {/* home */}
             <div className={styles.apply}>
@@ -50,15 +49,15 @@ export default function Apply() {
                 <ul className={styles.boxLeftUl}>
                     <li className={styles.boxLeftLi} data-cont=".one">
                         <span className={styles.icon}></span>
-                        <span className={styles.boxLeftLiTitle} onClick={handleButtonClick1}>Personal Details</span>
+                        <span className={styles.boxLeftLiTitle} onClick={handleButtonClick1}>Documents Upload</span>
                     </li>
-                    <li className={styles.boxLeftLi} data-cont=".two">
+                    {/* <li className={styles.boxLeftLi} data-cont=".two">
                         <span className={styles.icon}></span>
                         <span className={styles.boxLeftLiTitle} onClick={handleButtonClick2}>Loan Details</span>
-                    </li>
+                    </li> */}
                     <li className={styles.boxLeftLi} data-cont=".three">
                         <span className={styles.icon}></span>
-                        <span className={styles.boxLeftLiTitle} onClick={handleButtonClick3}>Documents Upload</span>
+                        <span className={styles.boxLeftLiTitle} onClick={handleButtonClick3}>Personal Details</span>
                     </li>
                 </ul>
 
@@ -69,25 +68,30 @@ export default function Apply() {
 
 
                     <div className={styles.content}>
-                        <div className={styles.one} style={{ display: isVisible1 ? 'block' : 'none' }}>
-                            <FormComponent />
+                        <div className={styles.three} style={{ display: isVisible3 ? 'block' : 'none' }}>
+                            {/* <FormComponent /> */}
+                            <Form />
                             <div className={styles.buttonContainer}>
-                                {/* <button className={styles.beforeButton}>previous</button> */}
-                                {/* <button className={styles.sendButton}>Send</button> */}
+                                {/* <button className={styles.beforeButton} onClick={handleButtonClick2}>previous</button> */}
+</div>
+
+                            {/* <div className={styles.buttonContainer}>
+                                <button className={styles.beforeButton}>previous</button> 
+                            //    {/* <button className={styles.sendButton}>Send</button> }
                                 <button className={styles.sendButton} onClick={handleButtonClick2}>Send</button>
 
-                            </div>
+                            </div> */}
                         </div>
-                        <div className={styles.two} style={{ display: isVisible2 ? 'block' : 'none' }}>
-                            <FormComponent2 />
-                            <div className={styles.buttonContainer}>
+                        {/* <div className={styles.two} style={{ display: isVisible2 ? 'block' : 'none' }}> */}
+                            {/* <FormComponent2 /> */}
+                            {/* <div className={styles.buttonContainer}>
                                 <button className={styles.beforeButton} onClick={handleButtonClick1}>previous</button>
                                 <button className={styles.sendButton} onClick={handleButtonClick3}>Send</button>
-                            </div>
-                        </div>
+                            </div> */}
+                        {/* </div> */}
 
                         {/* ========content3===== */}
-                        <div className={styles.three} style={{ display: isVisible3 ? 'block' : 'none' }}>
+                        <div className={styles.one} style={{ display: isVisible1 ? 'block' : 'none' }}>
                             <p>
                                 Selfie photo
                                 <br />
@@ -105,9 +109,9 @@ export default function Apply() {
                                 <input type="file" id="fileInput" name="fileInput" accept=".txt, .pdf, .docx, .jpg" />
                             </form>
                             <div className={styles.buttonContainer}>
-                                <button className={styles.beforeButton} onClick={handleButtonClick2}>previous</button>
+                                {/* <button className={styles.beforeButton}>previous</button> */}
 
-                                <button className={styles.sendButton}>Send</button>
+                                <button className={styles.sendButton} onClick={handleButtonClick3}>Send</button>
                             </div>
                         </div>
                     </div>

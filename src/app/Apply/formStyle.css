@@ -1,0 +1,167 @@
+.flex1 {
+    display: flex;
+}
+
+@media screen and (min-width: 1210px) {}
+
+@media screen and (max-width: 664px) {
+    .flex1 {
+        display: block;
+    }
+}
+
+.flex1 div {
+    margin-top: 1vw;
+    margin-right: 80px;
+    font-size: 1.55vw;
+    font-weight: bold;
+}
+
+.select {
+    font-size: 1.5vw;
+    width: 250px;
+    text-align: center;
+    margin: 10px 30px 0px 0px;
+    padding: 6px 2px;
+    border-radius: 17px;
+
+}
+
+.buttonContainer {
+    /* text-align: center; */
+    margin-left: 60%;
+    margin-top: 5%;
+  
+  
+    
+  }
+  
+
+.select1 {
+    
+   
+    margin: 30px 0px 15px 0px;
+    padding: 6px 2px;
+    border-radius: 17px;
+
+}
+.select {
+    font-size: 1.5vw;
+    width: 260px;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    padding: 6px 2px;
+    border-radius: 17px;
+
+}
+
+@media screen and (max-width: 664px) {
+    .select {
+        font-size: 5vw;
+        width: 250px;
+    }
+    
+
+}
+.responseBox {
+    width: 20vw;
+    height: 15vw;
+    background-color: #3498db; /* لون جميل للخلفية */
+    color: white; /* لجعل النص باللون الأبيض */
+    font-weight: bold;
+    padding: 20px;
+    border: 5px solid #2980b9; /* إضافة حدود بلون مختلف للتباين */
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5); /* ظل لإضافة بعض الأبعاد */
+}
+
+  
+  
+  .buttonContainer button {
+    padding: 10px 20px;
+    font-size: 1.5vw;
+    border: none;
+    border-radius: 5px;
+    margin: -20px 20px 10px 5px;
+  }
+  
+.sendButton {
+    background-color: #2ecc71;
+    color: #fff;
+  }
+.select1{
+    font-size: 1.5vw;
+display:flex;
+padding: 20px 12px;
+}
+
+
+.Education {
+    display: inline-block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    margin-right: 5px;
+
+}
+
+.Education2 {
+    margin-right: 15px;
+
+
+}
+
+
+.amount,
+.Dependents,
+.Applicantlncome,
+.coapplicantlncome,
+.Loan {
+
+    width: 250px;
+    height: 35px;
+    border-radius: 50px;
+    color: rgb(94, 91, 91);
+    border: 1px solid gray;
+    text-align: center;
+    font-size: large;
+    margin: 1vw;
+
+}
+
+.totalInput {
+    display: flex;
+
+}
+
+@media screen and (max-width: 664px) {
+    .totalInput {
+        display: block;
+        width: 50%;
+
+    }
+}
+
+
+
+
+
+.duration {
+    font-size: 1.75vw;
+    font-weight: bold;
+    margin: 2% 0% 0%;
+}
+
+.rido {
+    display: flex;
+    color: rgb(67, 64, 64);
+}
+
+@media screen and (max-width: 664px) {
+    .rido {
+        display: block;
+    }
+}
+
+
+.rido div {
+    margin-right: 50px;
+}

@@ -10,20 +10,20 @@ import BusinessBank from './BusinessBank/BusinessBank'
 import Calculator from './Calculator/Calculator'
 import Slider from './Calculator/Slider'
 import Contact from './Contact/Contact'
-
+// import Form from './Aapply/Form'
 
 export default function Home() {
   return (
     <main  >
 
       <Nav />
-      <Apply />
       {/* <Homee />
       <About />
       <BusinessBank />
       <Calculator />
       <Slider />
       <Contact /> */}
+      {/* <div><Apply /></div> */}
       <Footer />
     </main>
   )

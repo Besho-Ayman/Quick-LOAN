@@ -16,7 +16,7 @@ function Footer() {
             <li>
               <h4> Quick LOAN</h4>
             </li>
-            <li>Our 'company purpose'</li>
+            <li>Our company purpose</li>
             <li>Jobs & Careers</li>
             <li>Our Responsibility</li>
             <li>Our Core Businesses</li>

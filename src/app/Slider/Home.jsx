@@ -12,11 +12,11 @@ function Home() {
                 simple steps, and without any guarantees!
                 Get a loan from your income
             </h4>
-            {/* <button type="button" className={styles.but_Apply_home}>
-                <a className={styles.a_Apply_home} href="https://quickloaneelu.netlify.app/">
+            <button type="button" className={styles.but_Apply_home}>
+                <a className={styles.a_Apply_home} href="">
                     Apply Now</a>
 
-            </button> */}
+            </button>
             </div>
 
 

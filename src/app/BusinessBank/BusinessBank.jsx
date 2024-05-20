@@ -63,13 +63,13 @@ export default function BusinessBank() {
                                     <h1> We appreciate your trust in us and are delighted to offer you this loan.</h1>
                                     <p>You can repay the loan over a
                                         flexible period
-                                        that suits your needs and financial capabilities."
-                                        "We will provide you with convenient and suitable repayment options, allowing you to choose between
+                                        that suits your needs and financial capabilities.
+                                        We will provide you with convenient and suitable repayment options, allowing you to choose between
                                         fixed monthly
-                                        installments or a lump sum payment at a specific time."
-                                        "Our goal is to make the loan repayment process comfortable for you. Therefore, you can determine the
+                                        installments or a lump sum payment at a specific time.
+                                        Our goal is to make the loan repayment process comfortable for you. Therefore, you can determine the
                                         repayment period
-                                        that you prefer, whether it's short-term or long-term.</p>
+                                        that you prefer, whether itis short-term or long-term.</p>
 
                                 </div>
                             </div>

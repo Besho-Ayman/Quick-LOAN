@@ -241,18 +241,15 @@ def predict():
 
 
     if prediction[0] == 0:
-        return jsonify(
-            {
-            'loan status': 'rejected',
-            
-            }
-        )
+             response_message = 'Sorry, Rejected'
+
+
+        
     else:
-        return jsonify(
-            {
-                'loan status': 'approved'
-            }
-        )
+         response_message = 'Congratulations! Approved'
+
+    return jsonify(message=response_message)
+
 
 
 

@@ -1,6 +1,10 @@
 "use client"
 import React, { useState } from 'react'
 import styles from './formStyle.css';
+// import Swal from 'sweetalert2';
+import toastr from 'toastr';
+import 'toastr/build/toastr.css';
+import Swal from 'sweetalert2';
 
 export const Form = () => {
     const [Gender, setGender] = useState("")
@@ -19,12 +23,30 @@ export const Form = () => {
     const [CD_Account  , setCD_Account ] = useState("")
 
     function displayResponse(data) {
-        
+    
         console.log(data);
-        const responseElement = document.getElementById('response');
-        alert(`Response from server: ${JSON.stringify(data, null, 2)}`);
-
-    }
+        const message = data.message;
+    
+        let icon;
+        if (message.includes('Congratulations')) {
+            icon = 'success';  
+        } else {
+            icon = 'error'; 
+        }
+    
+        Swal.fire({
+            icon: icon,
+            title: message,
+            showConfirmButton: false,
+            // timer: 2000 // تعديل المدة الزمنية هنا (بالمللي ثانية)
+        });
+            }
+        
+        
+        
+    
+    
+    
     
     //create function to send data to database
         function sendData() {

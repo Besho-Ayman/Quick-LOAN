@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Alert Libraries Example</title>
+    <!-- SweetAlert -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+    <!-- Toastr -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+</head>
+<body>
+    <button onclick="showSweetAlert()">Show SweetAlert</button>
+    <button onclick="showToastr()">Show Toastr</button>
+
+    <script>
+        function showSweetAlert() {
+            Swal.fire({
+                icon: 'info',
+                title: 'Hello from SweetAlert!',
+                text: 'This is a custom alert message using SweetAlert.',
+                confirmButtonColor: '#3085d6',
+                confirmButtonText: 'OK'
+            });
+        }
+
+        function showToastr() {
+            toastr.info('This is a custom toast message using Toastr.', 'Hello from Toastr!');
+        }
+    </script>
+</body>
+</html>

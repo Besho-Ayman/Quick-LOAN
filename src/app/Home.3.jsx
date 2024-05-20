@@ -9,7 +9,7 @@ export default function Home() {
         <main>
 
             <Nav />
-            <Details />
+            {/* <Details /> */}
             {/* <Slider />
             <About/>
             <BusinessBank/>
